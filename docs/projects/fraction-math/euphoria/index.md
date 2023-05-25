@@ -7,7 +7,7 @@ last-modified: 2023-02-26
 
 ---
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -225,7 +225,7 @@ show_fraction_result(fraction_result)
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

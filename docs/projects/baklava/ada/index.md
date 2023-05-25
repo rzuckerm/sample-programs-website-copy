@@ -7,7 +7,7 @@ last-modified: 2021-10-29
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Ada](https://rzuckerm.github.io/sample-programs-website-copy/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ end Baklava;
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Ada](https://sampleprograms.io/languages/ada) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Ada](https://rzuckerm.github.io/sample-programs-website-copy/languages/ada) was written by:
 
 - Gagan Agarwal
 

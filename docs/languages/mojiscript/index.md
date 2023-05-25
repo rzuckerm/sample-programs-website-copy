@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Mojiscript](https://sampleprograms.io/projects/hello-world/mojiscript)
+- [Hello World in Mojiscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/mojiscript)

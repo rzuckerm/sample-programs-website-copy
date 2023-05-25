@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ if ($num_args == 0) {
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
 
 - SourabhBadhya
 

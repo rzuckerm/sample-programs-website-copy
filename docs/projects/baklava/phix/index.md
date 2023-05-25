@@ -7,7 +7,7 @@ last-modified: 2021-05-07
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Phix](https://rzuckerm.github.io/sample-programs-website-copy/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ end for
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Phix](https://sampleprograms.io/languages/phix) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Phix](https://rzuckerm.github.io/sample-programs-website-copy/languages/phix) was written by:
 
 - Pete Lomax
 

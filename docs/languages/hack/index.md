@@ -70,4 +70,4 @@ Once again, I think I've explored a topic a bit too deeply, so I'll stop there.
 
 ## Articles
 
-- [Hello World in Hack](https://sampleprograms.io/projects/hello-world/hack)
+- [Hello World in Hack](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/hack)

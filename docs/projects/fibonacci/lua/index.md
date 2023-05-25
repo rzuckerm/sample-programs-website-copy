@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ end
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - Andy Alban
 

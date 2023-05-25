@@ -7,7 +7,7 @@ last-modified: 2018-03-31
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Jeremy Griffith
 

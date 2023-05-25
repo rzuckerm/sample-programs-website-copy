@@ -7,7 +7,7 @@ last-modified: 2019-10-04
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,7 +31,7 @@ fizz_buzz(N, Max) -> io:format("~p~n", [N]), fizz_buzz(N+1, Max).
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) was written by:
 
 - Caio Ariede
 

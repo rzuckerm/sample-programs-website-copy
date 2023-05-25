@@ -7,7 +7,7 @@ last-modified: 2019-10-27
 
 ---
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -141,7 +141,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sailok Chinta

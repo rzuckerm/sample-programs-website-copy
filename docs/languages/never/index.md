@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Never](https://sampleprograms.io/projects/hello-world/never)
-- [Reverse String in Never](https://sampleprograms.io/projects/reverse-string/never)
+- [Hello World in Never](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/never)
+- [Reverse String in Never](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/never)

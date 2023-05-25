@@ -7,7 +7,7 @@ last-modified: 2018-10-12
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ fibonacci(num);
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) was written by:
 
 - Chris Thomas
 - rzuckerm

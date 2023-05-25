@@ -86,16 +86,16 @@ Usage: please provide a string
 
 ## Articles
 
-- [Longest Word in Algol68](https://sampleprograms.io/projects/longest-word/algol68)
-- [Longest Word in C](https://sampleprograms.io/projects/longest-word/c)
-- [Longest Word in C++](https://sampleprograms.io/projects/longest-word/c-plus-plus)
-- [Longest Word in Euphoria](https://sampleprograms.io/projects/longest-word/euphoria)
-- [Longest Word in Go](https://sampleprograms.io/projects/longest-word/go)
-- [Longest Word in Java](https://sampleprograms.io/projects/longest-word/java)
-- [Longest Word in Mathematica](https://sampleprograms.io/projects/longest-word/mathematica)
-- [Longest Word in Php](https://sampleprograms.io/projects/longest-word/php)
-- [Longest Word in Python](https://sampleprograms.io/projects/longest-word/python)
-- [Longest Word in Rust](https://sampleprograms.io/projects/longest-word/rust)
+- [Longest Word in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/algol68)
+- [Longest Word in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/c)
+- [Longest Word in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/c-plus-plus)
+- [Longest Word in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/euphoria)
+- [Longest Word in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/go)
+- [Longest Word in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/java)
+- [Longest Word in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/mathematica)
+- [Longest Word in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/php)
+- [Longest Word in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/python)
+- [Longest Word in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word/rust)
 
 ***
 
@@ -103,13 +103,13 @@ Usage: please provide a string
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Palindromic Substring)](https://sampleprograms.io/projects/longest-palindromic-substring)
+[<-- Previous Project (Longest Palindromic Substring)](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Maximum Array Rotation) -->](https://sampleprograms.io/projects/maximum-array-rotation)
+[Next Project (Maximum Array Rotation) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation)
 
 </div>
 

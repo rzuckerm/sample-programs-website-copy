@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ namespace SamplePrograms
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Renato Ramos Nascimento

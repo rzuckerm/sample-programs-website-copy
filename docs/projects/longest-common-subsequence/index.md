@@ -84,21 +84,21 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 ## Articles
 
-- [Longest Common Subsequence in Algol68](https://sampleprograms.io/projects/longest-common-subsequence/algol68)
-- [Longest Common Subsequence in C](https://sampleprograms.io/projects/longest-common-subsequence/c)
-- [Longest Common Subsequence in C#](https://sampleprograms.io/projects/longest-common-subsequence/c-sharp)
-- [Longest Common Subsequence in C++](https://sampleprograms.io/projects/longest-common-subsequence/c-plus-plus)
-- [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)
-- [Longest Common Subsequence in Euphoria](https://sampleprograms.io/projects/longest-common-subsequence/euphoria)
-- [Longest Common Subsequence in Go](https://sampleprograms.io/projects/longest-common-subsequence/go)
-- [Longest Common Subsequence in Haskell](https://sampleprograms.io/projects/longest-common-subsequence/haskell)
-- [Longest Common Subsequence in Java](https://sampleprograms.io/projects/longest-common-subsequence/java)
-- [Longest Common Subsequence in Javascript](https://sampleprograms.io/projects/longest-common-subsequence/javascript)
-- [Longest Common Subsequence in Kotlin](https://sampleprograms.io/projects/longest-common-subsequence/kotlin)
-- [Longest Common Subsequence in Mathematica](https://sampleprograms.io/projects/longest-common-subsequence/mathematica)
-- [Longest Common Subsequence in Php](https://sampleprograms.io/projects/longest-common-subsequence/php)
-- [Longest Common Subsequence in Python](https://sampleprograms.io/projects/longest-common-subsequence/python)
-- [Longest Common Subsequence in Rust](https://sampleprograms.io/projects/longest-common-subsequence/rust)
+- [Longest Common Subsequence in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/algol68)
+- [Longest Common Subsequence in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/c)
+- [Longest Common Subsequence in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/c-sharp)
+- [Longest Common Subsequence in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/c-plus-plus)
+- [Longest Common Subsequence in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/elixir)
+- [Longest Common Subsequence in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/euphoria)
+- [Longest Common Subsequence in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/go)
+- [Longest Common Subsequence in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/haskell)
+- [Longest Common Subsequence in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/java)
+- [Longest Common Subsequence in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/javascript)
+- [Longest Common Subsequence in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/kotlin)
+- [Longest Common Subsequence in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/mathematica)
+- [Longest Common Subsequence in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/php)
+- [Longest Common Subsequence in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/python)
+- [Longest Common Subsequence in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/rust)
 
 ***
 
@@ -106,13 +106,13 @@ Usage: please provide two lists in the format "1, 2, 3, 4, 5"
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Linear Search)](https://sampleprograms.io/projects/linear-search)
+[<-- Previous Project (Linear Search)](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Palindromic Substring) -->](https://sampleprograms.io/projects/longest-palindromic-substring)
+[Next Project (Longest Palindromic Substring) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring)
 
 </div>
 

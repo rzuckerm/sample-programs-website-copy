@@ -7,7 +7,7 @@ last-modified: 2019-10-20
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ void main(List<String> args) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) was written by:
 
 - Reilly Howell
 

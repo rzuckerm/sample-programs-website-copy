@@ -7,7 +7,7 @@ last-modified: 2021-05-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Eiffel](https://sampleprograms.io/languages/eiffel) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eiffel](https://rzuckerm.github.io/sample-programs-website-copy/languages/eiffel) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ end
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Eiffel](https://sampleprograms.io/languages/eiffel) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eiffel](https://rzuckerm.github.io/sample-programs-website-copy/languages/eiffel) was written by:
 
 - Jeremy Grifski
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Pikelet](https://sampleprograms.io/projects/hello-world/pikelet)
+- [Hello World in Pikelet](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/pikelet)

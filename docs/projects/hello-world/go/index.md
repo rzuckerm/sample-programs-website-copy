@@ -7,7 +7,7 @@ last-modified: 2018-03-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ func main() {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - Jeremy Griffith
 - Parker Johansen

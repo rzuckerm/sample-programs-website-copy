@@ -7,7 +7,7 @@ last-modified: 2018-11-16
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ main = do
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) was written by:
 
 - Parker Johansen
 

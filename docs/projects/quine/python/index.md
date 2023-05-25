@@ -7,7 +7,7 @@ last-modified: 2018-08-07
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ s='s=%r;print(s%%s)';print(s%s)
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Grifski
 

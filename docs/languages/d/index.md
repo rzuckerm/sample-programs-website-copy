@@ -56,6 +56,6 @@ language feature.
 
 ## Articles
 
-- [Baklava in D](https://sampleprograms.io/projects/baklava/d)
-- [Factorial in D](https://sampleprograms.io/projects/factorial/d)
-- [Hello World in D](https://sampleprograms.io/projects/hello-world/d)
+- [Baklava in D](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/d)
+- [Factorial in D](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/d)
+- [Hello World in D](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/d)

@@ -7,7 +7,7 @@ last-modified: 2018-12-22
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Purescript](https://sampleprograms.io/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Purescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/purescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ main = log "Hello, world!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Purescript](https://sampleprograms.io/languages/purescript) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Purescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/purescript) was written by:
 
 - Parker Johansen
 

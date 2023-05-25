@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Purescript](https://sampleprograms.io/projects/hello-world/purescript)
+- [Hello World in Purescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/purescript)

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Arkscript](https://sampleprograms.io/projects/hello-world/arkscript)
+- [Hello World in Arkscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/arkscript)

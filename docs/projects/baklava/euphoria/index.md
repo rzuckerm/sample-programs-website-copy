@@ -7,7 +7,7 @@ last-modified: 2023-02-16
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ end for
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

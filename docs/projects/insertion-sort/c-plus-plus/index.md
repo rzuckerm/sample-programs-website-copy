@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -94,7 +94,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Prasun Kumar

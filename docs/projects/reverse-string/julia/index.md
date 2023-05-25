@@ -7,7 +7,7 @@ last-modified: 2022-10-02
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ end
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
 
 - rzuckerm
 - smjalageri

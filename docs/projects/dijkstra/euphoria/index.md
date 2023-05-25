@@ -7,7 +7,7 @@ last-modified: 2023-02-28
 
 ---
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -266,7 +266,7 @@ printf(STDOUT, "%d\n", dist)
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

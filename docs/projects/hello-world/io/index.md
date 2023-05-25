@@ -7,7 +7,7 @@ last-modified: 2021-05-24
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Io](https://sampleprograms.io/languages/io) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Io](https://rzuckerm.github.io/sample-programs-website-copy/languages/io) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Io](https://sampleprograms.io/languages/io) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Io](https://rzuckerm.github.io/sample-programs-website-copy/languages/io) was written by:
 
 - Jeremy Grifski
 

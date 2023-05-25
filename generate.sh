@@ -31,7 +31,7 @@ docker run --rm \
 
 echo ""
 echo "*** Change Base URL For Generated Files ***"
-find docs/_site -type f -name '*.html' -exec sed -i 's!https://sampleprograms\.io/!http://localhost:8000/!g' '{}' ';'
+find docs/_site -type f -name '*.html' -exec sed -i 's!https://rzuckerm\.github\.io/sample-programs-website-copy/!http://localhost:8000/!g' '{}' ';'
 
 echo ""
 echo "*** Start Webserver ***"

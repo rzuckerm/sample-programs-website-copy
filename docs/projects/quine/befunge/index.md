@@ -7,7 +7,7 @@ last-modified: 2020-10-17
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Befunge](ht
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) was written by:
 
 - Stuart Irwin
 

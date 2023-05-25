@@ -7,7 +7,7 @@ last-modified: 2023-04-06
 
 ---
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ fn main() {
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-07
 
 ---
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -118,7 +118,7 @@ main(process.argv[2], process.argv[3])
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - Sayantan Sarkar
 

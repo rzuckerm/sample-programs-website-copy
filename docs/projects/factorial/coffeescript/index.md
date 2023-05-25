@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ console.log main()
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) was written by:
 
 - Hanyuan Li
 - Jeremy Grifski

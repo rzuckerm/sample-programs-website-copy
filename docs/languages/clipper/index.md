@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Clipper](https://sampleprograms.io/projects/hello-world/clipper)
+- [Hello World in Clipper](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/clipper)

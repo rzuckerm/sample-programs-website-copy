@@ -7,7 +7,7 @@ last-modified: 2019-11-09
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](h
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) was written by:
 
 - Parker Johansen
 - Stuart Irwin

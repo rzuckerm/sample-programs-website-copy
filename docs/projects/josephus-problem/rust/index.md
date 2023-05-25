@@ -7,7 +7,7 @@ last-modified: 2023-04-09
 
 ---
 
-Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ fn main() {
 
 {% endraw %}
 
-[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

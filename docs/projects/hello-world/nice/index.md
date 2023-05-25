@@ -7,7 +7,7 @@ last-modified: 2021-05-24
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Nice](https://sampleprograms.io/languages/nice) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Nice](https://rzuckerm.github.io/sample-programs-website-copy/languages/nice) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,7 +22,7 @@ void main(String[] args)
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Nice](https://sampleprograms.io/languages/nice) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Nice](https://rzuckerm.github.io/sample-programs-website-copy/languages/nice) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-16
 
 ---
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ romanNumeralsMain["XT"]
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

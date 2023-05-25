@@ -7,7 +7,7 @@ last-modified: 2020-10-27
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,7 +31,7 @@ end program reversestring
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) was written by:
 
 - Mallikarjuna S J
 - rzuckerm

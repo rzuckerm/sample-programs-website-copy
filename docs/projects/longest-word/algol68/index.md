@@ -7,7 +7,7 @@ last-modified: 2023-01-24
 
 ---
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ print((whole(longest word len, 0), newline))
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

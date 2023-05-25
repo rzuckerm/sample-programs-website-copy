@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Wren](https://sampleprograms.io/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Wren](https://rzuckerm.github.io/sample-programs-website-copy/languages/wren) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ System.print("Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Wren](https://sampleprograms.io/languages/wren) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Wren](https://rzuckerm.github.io/sample-programs-website-copy/languages/wren) was written by:
 
 - Jeremy Griffith
 

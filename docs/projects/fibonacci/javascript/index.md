@@ -8,7 +8,7 @@ authors: [Alina1Black]
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ if (num && !isNaN(num)) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - Marius
 - Parker Johansen

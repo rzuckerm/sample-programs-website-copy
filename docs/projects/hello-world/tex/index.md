@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Tex](https://sampleprograms.io/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Tex](https://rzuckerm.github.io/sample-programs-website-copy/languages/tex) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ Hello, World!
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Tex](https://sampleprograms.io/languages/tex) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Tex](https://rzuckerm.github.io/sample-programs-website-copy/languages/tex) was written by:
 
 - Christoph Böhmwalder
 

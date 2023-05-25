@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -101,7 +101,7 @@ show fibonacci values(n)
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

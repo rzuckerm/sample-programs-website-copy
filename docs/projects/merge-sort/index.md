@@ -110,23 +110,23 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Merge Sort in Algol68](https://sampleprograms.io/projects/merge-sort/algol68)
-- [Merge Sort in C](https://sampleprograms.io/projects/merge-sort/c)
-- [Merge Sort in C#](https://sampleprograms.io/projects/merge-sort/c-sharp)
-- [Merge Sort in C++](https://sampleprograms.io/projects/merge-sort/c-plus-plus)
-- [Merge Sort in Euphoria](https://sampleprograms.io/projects/merge-sort/euphoria)
-- [Merge Sort in Go](https://sampleprograms.io/projects/merge-sort/go)
-- [Merge Sort in Groovy](https://sampleprograms.io/projects/merge-sort/groovy)
-- [Merge Sort in Haskell](https://sampleprograms.io/projects/merge-sort/haskell)
-- [Merge Sort in Java](https://sampleprograms.io/projects/merge-sort/java)
-- [Merge Sort in Javascript](https://sampleprograms.io/projects/merge-sort/javascript)
-- [Merge Sort in Kotlin](https://sampleprograms.io/projects/merge-sort/kotlin)
-- [Merge Sort in Mathematica](https://sampleprograms.io/projects/merge-sort/mathematica)
-- [Merge Sort in Matlab](https://sampleprograms.io/projects/merge-sort/matlab)
-- [Merge Sort in Objective C](https://sampleprograms.io/projects/merge-sort/objective-c)
-- [Merge Sort in Php](https://sampleprograms.io/projects/merge-sort/php)
-- [Merge Sort in Python](https://sampleprograms.io/projects/merge-sort/python)
-- [Merge Sort in Rust](https://sampleprograms.io/projects/merge-sort/rust)
+- [Merge Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/algol68)
+- [Merge Sort in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/c)
+- [Merge Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/c-sharp)
+- [Merge Sort in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/c-plus-plus)
+- [Merge Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/euphoria)
+- [Merge Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/go)
+- [Merge Sort in Groovy](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/groovy)
+- [Merge Sort in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/haskell)
+- [Merge Sort in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/java)
+- [Merge Sort in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/javascript)
+- [Merge Sort in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/kotlin)
+- [Merge Sort in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/mathematica)
+- [Merge Sort in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/matlab)
+- [Merge Sort in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/objective-c)
+- [Merge Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/php)
+- [Merge Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/python)
+- [Merge Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/rust)
 
 ***
 
@@ -134,13 +134,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Maximum Subarray)](https://sampleprograms.io/projects/maximum-subarray)
+[<-- Previous Project (Maximum Subarray)](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Minimum Spanning Tree) -->](https://sampleprograms.io/projects/minimum-spanning-tree)
+[Next Project (Minimum Spanning Tree) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree)
 
 </div>
 

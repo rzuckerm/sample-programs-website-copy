@@ -7,7 +7,7 @@ last-modified: 2020-10-05
 
 ---
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ public class LinearSearch {
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Ashish Aggarwal
 - Jeremy Grifski

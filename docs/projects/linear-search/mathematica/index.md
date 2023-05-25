@@ -7,7 +7,7 @@ last-modified: 2023-01-18
 
 ---
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ linearSearchMain["", "5"]
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

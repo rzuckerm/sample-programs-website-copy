@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the [C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)apitalize in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-[C](https://sampleprograms.io/languages/c)apitalize in [C](https://sampleprograms.io/languages/c) was written by:
+[C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)apitalize in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Jeremy Grifski
 - Softizo

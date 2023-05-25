@@ -7,7 +7,7 @@ last-modified: 2018-08-13
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ main = mapM (putStrLn . fizzbuzz) [1..100]
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) was written by:
 
 - Jeremy Grifski
 

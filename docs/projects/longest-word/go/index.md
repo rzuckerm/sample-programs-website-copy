@@ -7,7 +7,7 @@ last-modified: 2023-03-19
 
 ---
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ func main() {
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - alope107
 

@@ -7,7 +7,7 @@ last-modified: 2018-04-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ END
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) was written by:
 
 - Jeremy Grifski
 

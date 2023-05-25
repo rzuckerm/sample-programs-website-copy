@@ -7,7 +7,7 @@ last-modified: 2023-04-11
 
 ---
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -181,7 +181,7 @@ fn main() {
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

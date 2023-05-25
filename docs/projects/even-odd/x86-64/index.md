@@ -7,7 +7,7 @@ last-modified: 2023-05-07
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [X86 64](https://rzuckerm.github.io/sample-programs-website-copy/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -123,7 +123,7 @@ _start:
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [X86 64](https://rzuckerm.github.io/sample-programs-website-copy/languages/x86-64) was written by:
 
 - alope107
 

@@ -7,7 +7,7 @@ last-modified: 2021-08-12
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Haxe](https://sampleprograms.io/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Haxe](https://rzuckerm.github.io/sample-programs-website-copy/languages/haxe) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ class HelloWorld {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Haxe](https://sampleprograms.io/languages/haxe) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Haxe](https://rzuckerm.github.io/sample-programs-website-copy/languages/haxe) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2023-04-17
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Phix](https://sampleprograms.io/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Phix](https://rzuckerm.github.io/sample-programs-website-copy/languages/phix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ puts(1, "Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Phix](https://sampleprograms.io/languages/phix) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Phix](https://rzuckerm.github.io/sample-programs-website-copy/languages/phix) was written by:
 
 - rzuckerm
 

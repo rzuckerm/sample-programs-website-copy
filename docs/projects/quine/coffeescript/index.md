@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ a="a=%j; console.log a,a"; console.log a,a
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) was written by:
 
 - Jeng
 

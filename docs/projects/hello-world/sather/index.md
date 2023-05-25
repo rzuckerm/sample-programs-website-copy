@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Sather](https://sampleprograms.io/languages/sather) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Sather](https://rzuckerm.github.io/sample-programs-website-copy/languages/sather) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ end;
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Sather](https://sampleprograms.io/languages/sather) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Sather](https://rzuckerm.github.io/sample-programs-website-copy/languages/sather) was written by:
 
 - Prakhar Pande
 

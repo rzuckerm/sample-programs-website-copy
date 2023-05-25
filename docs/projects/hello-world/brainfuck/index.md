@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
 

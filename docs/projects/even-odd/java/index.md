@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ public class EvenOdd {
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

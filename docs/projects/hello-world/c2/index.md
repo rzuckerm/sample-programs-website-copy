@@ -7,7 +7,7 @@ last-modified: 2021-05-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [C2](https://sampleprograms.io/languages/c2) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [C2](https://rzuckerm.github.io/sample-programs-website-copy/languages/c2) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ func i32 main(i32 argc, char** argv) {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [C2](https://sampleprograms.io/languages/c2) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [C2](https://rzuckerm.github.io/sample-programs-website-copy/languages/c2) was written by:
 
 - Jeremy Grifski
 

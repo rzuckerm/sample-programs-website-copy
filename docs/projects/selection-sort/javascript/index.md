@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ main(process.argv[2])
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - mericleac
 

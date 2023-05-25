@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ echo implode(', ', selection_sort($numbers));
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Gurmeet
 - Jeremy Grifski

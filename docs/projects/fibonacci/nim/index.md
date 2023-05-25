@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ for i in 1..n:
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Nim](https://sampleprograms.io/languages/nim) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) was written by:
 
 - Michael Olson
 

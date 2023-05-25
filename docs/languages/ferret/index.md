@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Ferret](https://sampleprograms.io/projects/hello-world/ferret)
+- [Hello World in Ferret](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/ferret)

@@ -7,7 +7,7 @@ last-modified: 2022-12-06
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Granule](https://rzuckerm.github.io/sample-programs-website-copy/languages/granule) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ main = toStdout "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Granule](https://sampleprograms.io/languages/granule) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Granule](https://rzuckerm.github.io/sample-programs-website-copy/languages/granule) was written by:
 
 - Dominic Orchard
 

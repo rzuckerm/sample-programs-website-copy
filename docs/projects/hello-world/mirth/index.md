@@ -7,7 +7,7 @@ last-modified: 2021-05-24
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Mirth](https://sampleprograms.io/languages/mirth) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Mirth](https://rzuckerm.github.io/sample-programs-website-copy/languages/mirth) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ main = "Hello world!" _prim_unsafe_print
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Mirth](https://sampleprograms.io/languages/mirth) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Mirth](https://rzuckerm.github.io/sample-programs-website-copy/languages/mirth) was written by:
 
 - Jeremy Grifski
 

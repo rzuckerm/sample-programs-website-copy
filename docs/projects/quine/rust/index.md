@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ fn main(){println!("fn main(){{println!({0:?},{0:?})}}","fn main(){{println!({0:
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

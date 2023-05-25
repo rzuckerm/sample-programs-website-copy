@@ -7,7 +7,7 @@ last-modified: 2019-10-17
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -33,7 +33,7 @@ main(arg[1])
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - Berry Semexan
 

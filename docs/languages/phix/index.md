@@ -100,5 +100,5 @@ If you'd like more information about this language, please see the
 
 ## Articles
 
-- [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
-- [Hello World in Phix](https://sampleprograms.io/projects/hello-world/phix)
+- [Baklava in Phix](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/phix)
+- [Hello World in Phix](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/phix)

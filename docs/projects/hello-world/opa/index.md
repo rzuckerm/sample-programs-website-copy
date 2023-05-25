@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Opa](https://rzuckerm.github.io/sample-programs-website-copy/languages/opa) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ Server.start(
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Opa](https://sampleprograms.io/languages/opa) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Opa](https://rzuckerm.github.io/sample-programs-website-copy/languages/opa) was written by:
 
 - Nico Villanueva
 

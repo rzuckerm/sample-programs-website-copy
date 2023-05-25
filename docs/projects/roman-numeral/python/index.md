@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

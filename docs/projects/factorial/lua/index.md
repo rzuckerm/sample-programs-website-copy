@@ -7,7 +7,7 @@ last-modified: 2019-10-10
 
 ---
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ main(arg[1])
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - Jeremy Grifski
 - Matt Wiley

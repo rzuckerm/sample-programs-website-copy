@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Solidity](https://sampleprograms.io/languages/solidity) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Solidity](https://rzuckerm.github.io/sample-programs-website-copy/languages/solidity) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ function renderHelloWorld () public pure returns (string) {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Solidity](https://sampleprograms.io/languages/solidity) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Solidity](https://rzuckerm.github.io/sample-programs-website-copy/languages/solidity) was written by:
 
 - Maximillian Naza
 

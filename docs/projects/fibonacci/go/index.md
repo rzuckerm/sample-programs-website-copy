@@ -7,7 +7,7 @@ last-modified: 2019-02-24
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ func main() {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - Parker Johansen
 

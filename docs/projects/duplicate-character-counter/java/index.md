@@ -7,7 +7,7 @@ last-modified: 2022-10-03
 
 ---
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ public class DuplicateCharacterCounter {
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav

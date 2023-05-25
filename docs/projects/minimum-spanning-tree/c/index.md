@@ -7,7 +7,7 @@ last-modified: 2019-10-20
 
 ---
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -158,7 +158,7 @@ int main(int argc,char **argv)
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [C](https://sampleprograms.io/languages/c) was written by:
+[Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Jeremy Grifski
 - LezendarySandwich

@@ -79,12 +79,12 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 ## Articles
 
-- [Transpose Matrix in Algol68](https://sampleprograms.io/projects/transpose-matrix/algol68)
-- [Transpose Matrix in Euphoria](https://sampleprograms.io/projects/transpose-matrix/euphoria)
-- [Transpose Matrix in Mathematica](https://sampleprograms.io/projects/transpose-matrix/mathematica)
-- [Transpose Matrix in Php](https://sampleprograms.io/projects/transpose-matrix/php)
-- [Transpose Matrix in Python](https://sampleprograms.io/projects/transpose-matrix/python)
-- [Transpose Matrix in Rust](https://sampleprograms.io/projects/transpose-matrix/rust)
+- [Transpose Matrix in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/algol68)
+- [Transpose Matrix in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/euphoria)
+- [Transpose Matrix in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/mathematica)
+- [Transpose Matrix in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/php)
+- [Transpose Matrix in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/python)
+- [Transpose Matrix in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix/rust)
 
 ***
 
@@ -92,13 +92,13 @@ Usage: please enter the dimension of the matrix and the serialized matrix
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Sleep Sort)](https://sampleprograms.io/projects/sleep-sort)
+[<-- Previous Project (Sleep Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Baklava) -->](https://sampleprograms.io/projects/baklava)
+[Next Project (Baklava) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava)
 
 </div>
 

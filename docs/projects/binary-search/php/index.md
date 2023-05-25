@@ -7,7 +7,7 @@ last-modified: 2023-03-21
 
 ---
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -145,7 +145,7 @@ printf("%s\n", ($index >= 0) ? "true" : "false");
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - rzuckerm
 

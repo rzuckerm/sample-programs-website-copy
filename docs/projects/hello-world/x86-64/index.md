@@ -7,7 +7,7 @@ last-modified: 2023-05-04
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [X86 64](https://sampleprograms.io/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [X86 64](https://rzuckerm.github.io/sample-programs-website-copy/languages/x86-64) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ _start:
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [X86 64](https://sampleprograms.io/languages/x86-64) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [X86 64](https://rzuckerm.github.io/sample-programs-website-copy/languages/x86-64) was written by:
 
 - alope107
 

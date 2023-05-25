@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Verve](https://sampleprograms.io/projects/hello-world/verve)
+- [Hello World in Verve](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/verve)

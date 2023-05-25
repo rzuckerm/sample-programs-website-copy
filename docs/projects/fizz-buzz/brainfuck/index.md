@@ -7,7 +7,7 @@ last-modified: 2018-08-24
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Bra
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
 

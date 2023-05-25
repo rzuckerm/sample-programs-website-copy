@@ -7,7 +7,7 @@ last-modified: 2019-10-28
 
 ---
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ print(convertToDecimal(input))
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - Jeremy Grifski
 - jketterer

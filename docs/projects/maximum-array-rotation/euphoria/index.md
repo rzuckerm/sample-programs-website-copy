@@ -7,7 +7,7 @@ last-modified: 2023-02-25
 
 ---
 
-Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -164,7 +164,7 @@ printf(STDOUT, "%d\n", value)
 
 {% endraw %}
 
-[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Maximum Array Rotation](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

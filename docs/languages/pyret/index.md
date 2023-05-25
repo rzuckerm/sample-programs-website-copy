@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Pyret](https://sampleprograms.io/projects/hello-world/pyret)
+- [Hello World in Pyret](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/pyret)

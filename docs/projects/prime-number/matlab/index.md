@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ end
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
 
 - rpartha
 

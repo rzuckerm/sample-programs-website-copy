@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Logo](https://sampleprograms.io/projects/hello-world/logo)
+- [Hello World in Logo](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/logo)

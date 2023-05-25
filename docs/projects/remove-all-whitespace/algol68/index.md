@@ -7,7 +7,7 @@ last-modified: 2023-01-24
 
 ---
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

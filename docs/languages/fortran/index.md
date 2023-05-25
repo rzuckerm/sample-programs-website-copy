@@ -15,11 +15,11 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
-- [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
-- [Even Odd in Fortran](https://sampleprograms.io/projects/even-odd/fortran)
-- [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
-- [Fizz Buzz in Fortran](https://sampleprograms.io/projects/fizz-buzz/fortran)
-- [Hello World in Fortran](https://sampleprograms.io/projects/hello-world/fortran)
-- [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
-- [Reverse String in Fortran](https://sampleprograms.io/projects/reverse-string/fortran)
+- [Baklava in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/fortran)
+- [Capitalize in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/fortran)
+- [Even Odd in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/fortran)
+- [Factorial in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/fortran)
+- [Fizz Buzz in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/fortran)
+- [Hello World in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/fortran)
+- [Prime Number in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/fortran)
+- [Reverse String in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/fortran)

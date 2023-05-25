@@ -7,7 +7,7 @@ last-modified: 2023-02-25
 
 ---
 
-Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -214,7 +214,7 @@ show_points(hull_points)
 
 {% endraw %}
 
-[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Convex Hull](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

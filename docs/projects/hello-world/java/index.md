@@ -7,7 +7,7 @@ last-modified: 2018-03-15
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ class HelloWorld {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Jeremy Griffith
 - Jeremy Grifski

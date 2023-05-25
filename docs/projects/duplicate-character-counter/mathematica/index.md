@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ duplicateCharacterCounterMain /@ {
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

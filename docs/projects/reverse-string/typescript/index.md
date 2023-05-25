@@ -7,7 +7,7 @@ last-modified: 2019-10-03
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ console.log(reverse(myString));
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) was written by:
 
 - Ray
 - rzuckerm

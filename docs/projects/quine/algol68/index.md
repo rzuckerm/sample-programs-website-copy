@@ -7,7 +7,7 @@ last-modified: 2023-01-22
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ STRINGs:="STRINGs:="";printf(($gl$,s[:10]*2+s[10:]*2))";printf(($gl$,s[:10]*2+s[
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2019-10-02
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in 
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) was written by:
 
 - Kateryna Tokar
 - Tobias Schröder

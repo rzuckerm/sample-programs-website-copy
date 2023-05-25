@@ -49,4 +49,4 @@ the language in action.
 
 ## Articles
 
-- [Hello World in Goby](https://sampleprograms.io/projects/hello-world/goby)
+- [Hello World in Goby](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/goby)

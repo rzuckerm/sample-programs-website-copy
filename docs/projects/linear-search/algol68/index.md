@@ -7,7 +7,7 @@ last-modified: 2023-01-30
 
 ---
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -153,7 +153,7 @@ printf(($gl$, (index > 0 | "true" | "false")))
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

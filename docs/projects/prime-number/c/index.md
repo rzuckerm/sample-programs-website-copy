@@ -10,7 +10,7 @@ authors:
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ int main(int ac, char **av)
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [C](https://sampleprograms.io/languages/c) was written by:
+[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Matias
 

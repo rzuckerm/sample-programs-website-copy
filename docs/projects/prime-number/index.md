@@ -70,30 +70,30 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-- [Prime Number in Algol68](https://sampleprograms.io/projects/prime-number/algol68)
-- [Prime Number in Bash](https://sampleprograms.io/projects/prime-number/bash)
-- [Prime Number in C](https://sampleprograms.io/projects/prime-number/c)
-- [Prime Number in C#](https://sampleprograms.io/projects/prime-number/c-sharp)
-- [Prime Number in C++](https://sampleprograms.io/projects/prime-number/c-plus-plus)
-- [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)
-- [Prime Number in Euphoria](https://sampleprograms.io/projects/prime-number/euphoria)
-- [Prime Number in Fortran](https://sampleprograms.io/projects/prime-number/fortran)
-- [Prime Number in Go](https://sampleprograms.io/projects/prime-number/go)
-- [Prime Number in Haskell](https://sampleprograms.io/projects/prime-number/haskell)
-- [Prime Number in Java](https://sampleprograms.io/projects/prime-number/java)
-- [Prime Number in Javascript](https://sampleprograms.io/projects/prime-number/javascript)
-- [Prime Number in Kotlin](https://sampleprograms.io/projects/prime-number/kotlin)
-- [Prime Number in Lisp](https://sampleprograms.io/projects/prime-number/lisp)
-- [Prime Number in Lua](https://sampleprograms.io/projects/prime-number/lua)
-- [Prime Number in Mathematica](https://sampleprograms.io/projects/prime-number/mathematica)
-- [Prime Number in Matlab](https://sampleprograms.io/projects/prime-number/matlab)
-- [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
-- [Prime Number in Perl](https://sampleprograms.io/projects/prime-number/perl)
-- [Prime Number in Php](https://sampleprograms.io/projects/prime-number/php)
-- [Prime Number in Python](https://sampleprograms.io/projects/prime-number/python)
-- [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
-- [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)
-- [Prime Number in Rust](https://sampleprograms.io/projects/prime-number/rust)
+- [Prime Number in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/algol68)
+- [Prime Number in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/bash)
+- [Prime Number in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/c)
+- [Prime Number in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/c-sharp)
+- [Prime Number in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/c-plus-plus)
+- [Prime Number in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/cobol)
+- [Prime Number in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/euphoria)
+- [Prime Number in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/fortran)
+- [Prime Number in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/go)
+- [Prime Number in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/haskell)
+- [Prime Number in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/java)
+- [Prime Number in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/javascript)
+- [Prime Number in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/kotlin)
+- [Prime Number in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/lisp)
+- [Prime Number in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/lua)
+- [Prime Number in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/mathematica)
+- [Prime Number in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/matlab)
+- [Prime Number in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/pascal)
+- [Prime Number in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/perl)
+- [Prime Number in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/php)
+- [Prime Number in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/python)
+- [Prime Number in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/r)
+- [Prime Number in Rexx](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/rexx)
+- [Prime Number in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/rust)
 
 ***
 
@@ -101,13 +101,13 @@ Usage: please input a non-negative integer
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Palindromic Number)](https://sampleprograms.io/projects/palindromic-number)
+[<-- Previous Project (Palindromic Number)](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Quick Sort) -->](https://sampleprograms.io/projects/quick-sort)
+[Next Project (Quick Sort) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort)
 
 </div>
 

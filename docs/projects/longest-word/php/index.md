@@ -7,7 +7,7 @@ last-modified: 2023-03-23
 
 ---
 
-Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ echo "${longest_len}\n";
 
 {% endraw %}
 
-[Longest Word](https://sampleprograms.io/projects/longest-word) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - rzuckerm
 

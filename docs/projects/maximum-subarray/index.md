@@ -73,12 +73,12 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 ## Articles
 
-- [Maximum Subarray in Algol68](https://sampleprograms.io/projects/maximum-subarray/algol68)
-- [Maximum Subarray in Euphoria](https://sampleprograms.io/projects/maximum-subarray/euphoria)
-- [Maximum Subarray in Mathematica](https://sampleprograms.io/projects/maximum-subarray/mathematica)
-- [Maximum Subarray in Php](https://sampleprograms.io/projects/maximum-subarray/php)
-- [Maximum Subarray in Python](https://sampleprograms.io/projects/maximum-subarray/python)
-- [Maximum Subarray in Rust](https://sampleprograms.io/projects/maximum-subarray/rust)
+- [Maximum Subarray in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/algol68)
+- [Maximum Subarray in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/euphoria)
+- [Maximum Subarray in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/mathematica)
+- [Maximum Subarray in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/php)
+- [Maximum Subarray in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/python)
+- [Maximum Subarray in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray/rust)
 
 ***
 
@@ -86,13 +86,13 @@ Usage: Please provide a list of integers in the format: "1, 2, 3, 4, 5"
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Maximum Array Rotation)](https://sampleprograms.io/projects/maximum-array-rotation)
+[<-- Previous Project (Maximum Array Rotation)](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Merge Sort) -->](https://sampleprograms.io/projects/merge-sort)
+[Next Project (Merge Sort) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort)
 
 </div>
 

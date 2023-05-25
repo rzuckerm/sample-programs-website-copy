@@ -7,7 +7,7 @@ last-modified: 2023-01-18
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ OD
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2023-04-18
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -100,7 +100,7 @@ fn main() {
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

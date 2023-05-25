@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ fractionMathMain[{"", "+", "4/5"}]
 
 {% endraw %}
 
-[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

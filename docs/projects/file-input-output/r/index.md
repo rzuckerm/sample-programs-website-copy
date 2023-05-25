@@ -7,7 +7,7 @@ last-modified: 2020-10-25
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ if(file.exists("output.txt")){
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [R](https://sampleprograms.io/languages/r) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) was written by:
 
 - manasmithamn
 

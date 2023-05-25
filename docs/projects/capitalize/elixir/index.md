@@ -7,7 +7,7 @@ last-modified: 2020-10-06
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ Capitalize.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) was written by:
 
 - Jonas Halstrup
 

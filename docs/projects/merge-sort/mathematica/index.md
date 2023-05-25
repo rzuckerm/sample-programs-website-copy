@@ -7,7 +7,7 @@ last-modified: 2023-01-19
 
 ---
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -81,7 +81,7 @@ mergeSortMain["4 5 3"]
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

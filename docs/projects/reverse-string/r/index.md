@@ -7,7 +7,7 @@ last-modified: 2020-10-19
 
 ---
 
-Welcome to the [R](https://sampleprograms.io/languages/r)everse String in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r)everse String in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ if(length(args) > 0 ){
 
 {% endraw %}
 
-[R](https://sampleprograms.io/languages/r)everse String in [R](https://sampleprograms.io/languages/r) was written by:
+[R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r)everse String in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) was written by:
 
 - Veena ManikPrabhu
 

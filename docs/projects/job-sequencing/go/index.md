@@ -7,7 +7,7 @@ last-modified: 2019-03-16
 
 ---
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -125,7 +125,7 @@ func main() {
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - Parker Johansen
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Wu](https://sampleprograms.io/projects/hello-world/wu)
+- [Hello World in Wu](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/wu)

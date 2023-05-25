@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -136,7 +136,7 @@ if __name__ == '__main__':
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Grifski
 - Yuchuan Liu

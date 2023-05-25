@@ -103,13 +103,13 @@ Usage: please provide a comma-separated list of integers
 
 ## Articles
 
-- [Minimum Spanning Tree in Algol68](https://sampleprograms.io/projects/minimum-spanning-tree/algol68)
-- [Minimum Spanning Tree in C](https://sampleprograms.io/projects/minimum-spanning-tree/c)
-- [Minimum Spanning Tree in Euphoria](https://sampleprograms.io/projects/minimum-spanning-tree/euphoria)
-- [Minimum Spanning Tree in Mathematica](https://sampleprograms.io/projects/minimum-spanning-tree/mathematica)
-- [Minimum Spanning Tree in Php](https://sampleprograms.io/projects/minimum-spanning-tree/php)
-- [Minimum Spanning Tree in Python](https://sampleprograms.io/projects/minimum-spanning-tree/python)
-- [Minimum Spanning Tree in Rust](https://sampleprograms.io/projects/minimum-spanning-tree/rust)
+- [Minimum Spanning Tree in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/algol68)
+- [Minimum Spanning Tree in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/c)
+- [Minimum Spanning Tree in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/euphoria)
+- [Minimum Spanning Tree in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/mathematica)
+- [Minimum Spanning Tree in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/php)
+- [Minimum Spanning Tree in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/python)
+- [Minimum Spanning Tree in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree/rust)
 
 ***
 
@@ -117,13 +117,13 @@ Usage: please provide a comma-separated list of integers
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Merge Sort)](https://sampleprograms.io/projects/merge-sort)
+[<-- Previous Project (Merge Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Palindromic Number) -->](https://sampleprograms.io/projects/palindromic-number)
+[Next Project (Palindromic Number) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number)
 
 </div>
 

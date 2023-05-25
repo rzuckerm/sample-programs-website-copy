@@ -7,7 +7,7 @@ last-modified: 2020-10-17
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Befunge
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) was written by:
 
 - Stuart Irwin
 

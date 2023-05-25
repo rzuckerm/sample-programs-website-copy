@@ -7,7 +7,7 @@ last-modified: 2022-10-03
 
 ---
 
-Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -146,7 +146,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+[Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
 
 - Ajay Maheshwari
 - Jeremy Grifski

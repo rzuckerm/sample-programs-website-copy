@@ -114,15 +114,15 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 ## Articles
 
-- [Linear Search in Algol68](https://sampleprograms.io/projects/linear-search/algol68)
-- [Linear Search in C++](https://sampleprograms.io/projects/linear-search/c-plus-plus)
-- [Linear Search in Euphoria](https://sampleprograms.io/projects/linear-search/euphoria)
-- [Linear Search in Java](https://sampleprograms.io/projects/linear-search/java)
-- [Linear Search in Javascript](https://sampleprograms.io/projects/linear-search/javascript)
-- [Linear Search in Mathematica](https://sampleprograms.io/projects/linear-search/mathematica)
-- [Linear Search in Php](https://sampleprograms.io/projects/linear-search/php)
-- [Linear Search in Python](https://sampleprograms.io/projects/linear-search/python)
-- [Linear Search in Rust](https://sampleprograms.io/projects/linear-search/rust)
+- [Linear Search in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/algol68)
+- [Linear Search in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/c-plus-plus)
+- [Linear Search in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/euphoria)
+- [Linear Search in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/java)
+- [Linear Search in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/javascript)
+- [Linear Search in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/mathematica)
+- [Linear Search in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/php)
+- [Linear Search in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/python)
+- [Linear Search in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search/rust)
 
 ***
 
@@ -130,13 +130,13 @@ Usage: please provide a list of integers ("1, 4, 5, 11, 12") and the integer to 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Josephus Problem)](https://sampleprograms.io/projects/josephus-problem)
+[<-- Previous Project (Josephus Problem)](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Common Subsequence) -->](https://sampleprograms.io/projects/longest-common-subsequence)
+[Next Project (Longest Common Subsequence) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence)
 
 </div>
 

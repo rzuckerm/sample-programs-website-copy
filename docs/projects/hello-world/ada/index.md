@@ -7,7 +7,7 @@ last-modified: 2018-04-24
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ada](https://sampleprograms.io/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ada](https://rzuckerm.github.io/sample-programs-website-copy/languages/ada) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ end Hello_World;
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Ada](https://sampleprograms.io/languages/ada) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ada](https://rzuckerm.github.io/sample-programs-website-copy/languages/ada) was written by:
 
 - Jeremy Grifski
 

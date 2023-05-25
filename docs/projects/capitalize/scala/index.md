@@ -7,7 +7,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ object Capitalize {
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2019-10-17
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,7 +31,7 @@ print ucfirst $string, "\n";
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
 
 - Gabriela Kandová
 - Jeremy Grifski

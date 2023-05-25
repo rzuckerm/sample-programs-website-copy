@@ -7,7 +7,7 @@ last-modified: 2019-10-13
 
 ---
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ echo implode(', ', $out);
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

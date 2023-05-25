@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Pinecone](https://sampleprograms.io/projects/hello-world/pinecone)
+- [Hello World in Pinecone](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/pinecone)

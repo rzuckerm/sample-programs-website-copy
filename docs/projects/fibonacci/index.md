@@ -74,39 +74,39 @@ Usage: please input the count of fibonacci numbers to output
 
 ## Articles
 
-- [Fibonacci in Algol68](https://sampleprograms.io/projects/fibonacci/algol68)
-- [Fibonacci in Bash](https://sampleprograms.io/projects/fibonacci/bash)
-- [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
-- [Fibonacci in C](https://sampleprograms.io/projects/fibonacci/c)
-- [Fibonacci in C#](https://sampleprograms.io/projects/fibonacci/c-sharp)
-- [Fibonacci in C++](https://sampleprograms.io/projects/fibonacci/c-plus-plus)
-- [Fibonacci in Dart](https://sampleprograms.io/projects/fibonacci/dart)
-- [Fibonacci in Euphoria](https://sampleprograms.io/projects/fibonacci/euphoria)
-- [Fibonacci in Go](https://sampleprograms.io/projects/fibonacci/go)
-- [Fibonacci in Groovy](https://sampleprograms.io/projects/fibonacci/groovy)
-- [Fibonacci in Haskell](https://sampleprograms.io/projects/fibonacci/haskell)
-- [Fibonacci in Java](https://sampleprograms.io/projects/fibonacci/java)
-- [Fibonacci in Javascript](https://sampleprograms.io/projects/fibonacci/javascript)
-- [Fibonacci in Julia](https://sampleprograms.io/projects/fibonacci/julia)
-- [Fibonacci in Kotlin](https://sampleprograms.io/projects/fibonacci/kotlin)
-- [Fibonacci in Lisp](https://sampleprograms.io/projects/fibonacci/lisp)
-- [Fibonacci in Lua](https://sampleprograms.io/projects/fibonacci/lua)
-- [Fibonacci in Mathematica](https://sampleprograms.io/projects/fibonacci/mathematica)
-- [Fibonacci in Matlab](https://sampleprograms.io/projects/fibonacci/matlab)
-- [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
-- [Fibonacci in Objective C](https://sampleprograms.io/projects/fibonacci/objective-c)
-- [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
-- [Fibonacci in Perl](https://sampleprograms.io/projects/fibonacci/perl)
-- [Fibonacci in Php](https://sampleprograms.io/projects/fibonacci/php)
-- [Fibonacci in Python](https://sampleprograms.io/projects/fibonacci/python)
-- [Fibonacci in Quack](https://sampleprograms.io/projects/fibonacci/quack)
-- [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
-- [Fibonacci in Ruby](https://sampleprograms.io/projects/fibonacci/ruby)
-- [Fibonacci in Rust](https://sampleprograms.io/projects/fibonacci/rust)
-- [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
-- [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
-- [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
-- [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
+- [Fibonacci in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/algol68)
+- [Fibonacci in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/bash)
+- [Fibonacci in Boo](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/boo)
+- [Fibonacci in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/c)
+- [Fibonacci in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/c-sharp)
+- [Fibonacci in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/c-plus-plus)
+- [Fibonacci in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/dart)
+- [Fibonacci in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/euphoria)
+- [Fibonacci in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/go)
+- [Fibonacci in Groovy](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/groovy)
+- [Fibonacci in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/haskell)
+- [Fibonacci in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/java)
+- [Fibonacci in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/javascript)
+- [Fibonacci in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/julia)
+- [Fibonacci in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/kotlin)
+- [Fibonacci in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/lisp)
+- [Fibonacci in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/lua)
+- [Fibonacci in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/mathematica)
+- [Fibonacci in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/matlab)
+- [Fibonacci in Nim](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/nim)
+- [Fibonacci in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/objective-c)
+- [Fibonacci in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/pascal)
+- [Fibonacci in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/perl)
+- [Fibonacci in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/php)
+- [Fibonacci in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/python)
+- [Fibonacci in Quack](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/quack)
+- [Fibonacci in Racket](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/racket)
+- [Fibonacci in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/ruby)
+- [Fibonacci in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/rust)
+- [Fibonacci in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/scala)
+- [Fibonacci in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/swift)
+- [Fibonacci in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/typescript)
+- [Fibonacci in Verilog](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/verilog)
 
 ***
 
@@ -114,13 +114,13 @@ Usage: please input the count of fibonacci numbers to output
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Factorial)](https://sampleprograms.io/projects/factorial)
+[<-- Previous Project (Factorial)](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (File Input Output) -->](https://sampleprograms.io/projects/file-input-output)
+[Next Project (File Input Output) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output)
 
 </div>
 

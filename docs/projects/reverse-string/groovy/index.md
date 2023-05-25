@@ -7,7 +7,7 @@ last-modified: 2019-07-01
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ class ReverseAString {
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) was written by:
 
 - robin
 

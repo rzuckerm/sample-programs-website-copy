@@ -7,7 +7,7 @@ last-modified: 2023-01-24
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

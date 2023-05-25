@@ -7,7 +7,7 @@ last-modified: 2018-06-15
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ballerina](https://rzuckerm.github.io/sample-programs-website-copy/languages/ballerina) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ballerina](https://sampleprograms.io/languages/ballerina) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,7 +22,7 @@ function main(string... args) {
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ballerina](https://rzuckerm.github.io/sample-programs-website-copy/languages/ballerina) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Ballerina](https://sampleprograms.io/languages/ballerina) was written by:
 
 - Jeremy Grifski
 

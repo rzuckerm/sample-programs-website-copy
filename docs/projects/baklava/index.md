@@ -66,43 +66,43 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-- [Baklava in Ada](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/ada)
-- [Baklava in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/algol68)
-- [Baklava in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/bash)
-- [Baklava in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/befunge)
-- [Baklava in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/c)
-- [Baklava in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/c-sharp)
-- [Baklava in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/c-plus-plus)
-- [Baklava in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/coffeescript)
-- [Baklava in Crystal](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/crystal)
-- [Baklava in D](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/d)
-- [Baklava in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/dart)
-- [Baklava in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/elixir)
-- [Baklava in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/erlang)
-- [Baklava in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/euphoria)
-- [Baklava in F#](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/f-sharp)
-- [Baklava in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/fortran)
-- [Baklava in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/go)
-- [Baklava in Groovy](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/groovy)
-- [Baklava in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/haskell)
-- [Baklava in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/java)
-- [Baklava in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/javascript)
-- [Baklava in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/julia)
-- [Baklava in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/kotlin)
-- [Baklava in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/lisp)
-- [Baklava in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/lua)
-- [Baklava in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/mathematica)
-- [Baklava in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/perl)
-- [Baklava in Phix](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/phix)
-- [Baklava in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/php)
-- [Baklava in Piet](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/piet)
-- [Baklava in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/python)
-- [Baklava in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/ruby)
-- [Baklava in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/rust)
-- [Baklava in Solisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/solisp)
-- [Baklava in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/swift)
-- [Baklava in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/typescript)
-- [Baklava in X86 64](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/x86-64)
+- [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
+- [Baklava in Algol68](https://sampleprograms.io/projects/baklava/algol68)
+- [Baklava in Bash](https://sampleprograms.io/projects/baklava/bash)
+- [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
+- [Baklava in C](https://sampleprograms.io/projects/baklava/c)
+- [Baklava in C#](https://sampleprograms.io/projects/baklava/c-sharp)
+- [Baklava in C++](https://sampleprograms.io/projects/baklava/c-plus-plus)
+- [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
+- [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
+- [Baklava in D](https://sampleprograms.io/projects/baklava/d)
+- [Baklava in Dart](https://sampleprograms.io/projects/baklava/dart)
+- [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
+- [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
+- [Baklava in Euphoria](https://sampleprograms.io/projects/baklava/euphoria)
+- [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
+- [Baklava in Fortran](https://sampleprograms.io/projects/baklava/fortran)
+- [Baklava in Go](https://sampleprograms.io/projects/baklava/go)
+- [Baklava in Groovy](https://sampleprograms.io/projects/baklava/groovy)
+- [Baklava in Haskell](https://sampleprograms.io/projects/baklava/haskell)
+- [Baklava in Java](https://sampleprograms.io/projects/baklava/java)
+- [Baklava in Javascript](https://sampleprograms.io/projects/baklava/javascript)
+- [Baklava in Julia](https://sampleprograms.io/projects/baklava/julia)
+- [Baklava in Kotlin](https://sampleprograms.io/projects/baklava/kotlin)
+- [Baklava in Lisp](https://sampleprograms.io/projects/baklava/lisp)
+- [Baklava in Lua](https://sampleprograms.io/projects/baklava/lua)
+- [Baklava in Mathematica](https://sampleprograms.io/projects/baklava/mathematica)
+- [Baklava in Perl](https://sampleprograms.io/projects/baklava/perl)
+- [Baklava in Phix](https://sampleprograms.io/projects/baklava/phix)
+- [Baklava in Php](https://sampleprograms.io/projects/baklava/php)
+- [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
+- [Baklava in Python](https://sampleprograms.io/projects/baklava/python)
+- [Baklava in Ruby](https://sampleprograms.io/projects/baklava/ruby)
+- [Baklava in Rust](https://sampleprograms.io/projects/baklava/rust)
+- [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
+- [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
+- [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
+- [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
 
 ***
 
@@ -110,13 +110,13 @@ Verify that the actual output matches the expected output
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Transpose Matrix)](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix)
+[<-- Previous Project (Transpose Matrix)](https://sampleprograms.io/projects/transpose-matrix)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Binary Search) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search)
+[Next Project (Binary Search) -->](https://sampleprograms.io/projects/binary-search)
 
 </div>
 

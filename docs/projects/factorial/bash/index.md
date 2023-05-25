@@ -7,7 +7,7 @@ last-modified: 2019-10-09
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -46,7 +46,7 @@ echo $value
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - Amanda Hager Lopes de Andrade Katz
 

@@ -7,7 +7,7 @@ last-modified: 2019-07-15
 
 ---
 
-Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ fn main() {
 
 {% endraw %}
 
-[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Rot13](https://sampleprograms.io/projects/rot13) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Jeremy Grifski
 - Vincent Caron

@@ -15,10 +15,10 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/swift)
-- [Even Odd in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/swift)
-- [Fibonacci in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/swift)
-- [Fizz Buzz in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/swift)
-- [Fraction Math in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/swift)
-- [Hello World in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/swift)
-- [Reverse String in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/swift)
+- [Baklava in Swift](https://sampleprograms.io/projects/baklava/swift)
+- [Even Odd in Swift](https://sampleprograms.io/projects/even-odd/swift)
+- [Fibonacci in Swift](https://sampleprograms.io/projects/fibonacci/swift)
+- [Fizz Buzz in Swift](https://sampleprograms.io/projects/fizz-buzz/swift)
+- [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
+- [Hello World in Swift](https://sampleprograms.io/projects/hello-world/swift)
+- [Reverse String in Swift](https://sampleprograms.io/projects/reverse-string/swift)

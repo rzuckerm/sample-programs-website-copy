@@ -7,7 +7,7 @@ last-modified: 2019-10-04
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ print(N, star) ->
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
 

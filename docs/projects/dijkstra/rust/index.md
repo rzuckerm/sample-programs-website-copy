@@ -7,7 +7,7 @@ last-modified: 2023-04-20
 
 ---
 
-Welcome to the [Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -181,7 +181,7 @@ fn main() {
 
 {% endraw %}
 
-[Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

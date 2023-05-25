@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ fizzBuzz();
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Marty Hernandez Avedon
 

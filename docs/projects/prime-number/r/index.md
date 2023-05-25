@@ -7,7 +7,7 @@ last-modified: 2020-10-19
 
 ---
 
-Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [R](https://sampleprograms.io/languages/r) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ if(length(args) > 0){
 
 {% endraw %}
 
-[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [R](https://rzuckerm.github.io/sample-programs-website-copy/languages/r) was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [R](https://sampleprograms.io/languages/r) was written by:
 
 - Veena ManikPrabhu
 

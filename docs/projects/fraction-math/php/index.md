@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -238,7 +238,7 @@ show_fraction_result($result);
 
 {% endraw %}
 
-[Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

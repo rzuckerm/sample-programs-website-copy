@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ end
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Jeremy Grifski
 - sakurakhadag

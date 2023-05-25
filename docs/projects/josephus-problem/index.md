@@ -82,13 +82,13 @@ Usage: please input the total number of people and number of people to skip.
 
 ## Articles
 
-- [Josephus Problem in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/algol68)
-- [Josephus Problem in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/euphoria)
-- [Josephus Problem in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/javascript)
-- [Josephus Problem in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/mathematica)
-- [Josephus Problem in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/php)
-- [Josephus Problem in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/python)
-- [Josephus Problem in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem/rust)
+- [Josephus Problem in Algol68](https://sampleprograms.io/projects/josephus-problem/algol68)
+- [Josephus Problem in Euphoria](https://sampleprograms.io/projects/josephus-problem/euphoria)
+- [Josephus Problem in Javascript](https://sampleprograms.io/projects/josephus-problem/javascript)
+- [Josephus Problem in Mathematica](https://sampleprograms.io/projects/josephus-problem/mathematica)
+- [Josephus Problem in Php](https://sampleprograms.io/projects/josephus-problem/php)
+- [Josephus Problem in Python](https://sampleprograms.io/projects/josephus-problem/python)
+- [Josephus Problem in Rust](https://sampleprograms.io/projects/josephus-problem/rust)
 
 ***
 
@@ -96,13 +96,13 @@ Usage: please input the total number of people and number of people to skip.
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Job Sequencing)](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing)
+[<-- Previous Project (Job Sequencing)](https://sampleprograms.io/projects/job-sequencing)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Linear Search) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search)
+[Next Project (Linear Search) -->](https://sampleprograms.io/projects/linear-search)
 
 </div>
 

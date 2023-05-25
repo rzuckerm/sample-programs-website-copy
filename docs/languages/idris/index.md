@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Idris](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/idris)
+- [Hello World in Idris](https://sampleprograms.io/projects/hello-world/idris)

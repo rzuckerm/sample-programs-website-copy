@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Elena](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/elena)
+- [Hello World in Elena](https://sampleprograms.io/projects/hello-world/elena)

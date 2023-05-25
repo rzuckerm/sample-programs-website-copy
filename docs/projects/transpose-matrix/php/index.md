@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -138,7 +138,7 @@ show_matrix_as_list($matrix_t);
 
 {% endraw %}
 
-[Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ fun mergeSort(arr1: IntArray):IntArray
 
 {% endraw %}
 
-[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - Jeremy Grifski

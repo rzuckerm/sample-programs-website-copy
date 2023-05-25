@@ -7,7 +7,7 @@ last-modified: 2018-08-14
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ namespace FizzBuzz
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

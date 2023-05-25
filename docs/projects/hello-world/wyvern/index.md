@@ -7,7 +7,7 @@ last-modified: 2018-06-21
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Wyvern](https://rzuckerm.github.io/sample-programs-website-copy/languages/wyvern) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Wyvern](https://sampleprograms.io/languages/wyvern) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ stdout.print("Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Wyvern](https://rzuckerm.github.io/sample-programs-website-copy/languages/wyvern) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Wyvern](https://sampleprograms.io/languages/wyvern) was written by:
 
 - Jeremy Grifski
 

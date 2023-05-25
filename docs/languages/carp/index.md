@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Carp](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/carp)
+- [Hello World in Carp](https://sampleprograms.io/projects/hello-world/carp)

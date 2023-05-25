@@ -124,21 +124,21 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Insertion Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/algol68)
-- [Insertion Sort in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/c)
-- [Insertion Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/c-sharp)
-- [Insertion Sort in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/c-plus-plus)
-- [Insertion Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/euphoria)
-- [Insertion Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/go)
-- [Insertion Sort in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/haskell)
-- [Insertion Sort in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/java)
-- [Insertion Sort in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/javascript)
-- [Insertion Sort in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/mathematica)
-- [Insertion Sort in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/matlab)
-- [Insertion Sort in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/perl)
-- [Insertion Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/php)
-- [Insertion Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/python)
-- [Insertion Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort/rust)
+- [Insertion Sort in Algol68](https://sampleprograms.io/projects/insertion-sort/algol68)
+- [Insertion Sort in C](https://sampleprograms.io/projects/insertion-sort/c)
+- [Insertion Sort in C#](https://sampleprograms.io/projects/insertion-sort/c-sharp)
+- [Insertion Sort in C++](https://sampleprograms.io/projects/insertion-sort/c-plus-plus)
+- [Insertion Sort in Euphoria](https://sampleprograms.io/projects/insertion-sort/euphoria)
+- [Insertion Sort in Go](https://sampleprograms.io/projects/insertion-sort/go)
+- [Insertion Sort in Haskell](https://sampleprograms.io/projects/insertion-sort/haskell)
+- [Insertion Sort in Java](https://sampleprograms.io/projects/insertion-sort/java)
+- [Insertion Sort in Javascript](https://sampleprograms.io/projects/insertion-sort/javascript)
+- [Insertion Sort in Mathematica](https://sampleprograms.io/projects/insertion-sort/mathematica)
+- [Insertion Sort in Matlab](https://sampleprograms.io/projects/insertion-sort/matlab)
+- [Insertion Sort in Perl](https://sampleprograms.io/projects/insertion-sort/perl)
+- [Insertion Sort in Php](https://sampleprograms.io/projects/insertion-sort/php)
+- [Insertion Sort in Python](https://sampleprograms.io/projects/insertion-sort/python)
+- [Insertion Sort in Rust](https://sampleprograms.io/projects/insertion-sort/rust)
 
 ***
 
@@ -146,13 +146,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Hello World)](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world)
+[<-- Previous Project (Hello World)](https://sampleprograms.io/projects/hello-world)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Job Sequencing) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing)
+[Next Project (Job Sequencing) -->](https://sampleprograms.io/projects/job-sequencing)
 
 </div>
 

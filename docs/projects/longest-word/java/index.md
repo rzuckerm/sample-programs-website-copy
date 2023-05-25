@@ -7,7 +7,7 @@ last-modified: 2022-10-03
 
 ---
 
-Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ class LongestWord {
 
 {% endraw %}
 
-[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Longest Word](https://sampleprograms.io/projects/longest-word) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Vipin Yadav

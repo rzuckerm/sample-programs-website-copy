@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ public class BubbleSort {
 
 {% endraw %}
 
-[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Tim Lange

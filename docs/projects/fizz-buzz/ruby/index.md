@@ -7,7 +7,7 @@ last-modified: 2018-08-12
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ end
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
 

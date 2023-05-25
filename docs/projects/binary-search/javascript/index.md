@@ -7,7 +7,7 @@ last-modified: 2020-10-23
 
 ---
 
-Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ console.log(array && target ? binarySearch(array.split(', '), target) : error);
 
 {% endraw %}
 
-[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - izexi
 

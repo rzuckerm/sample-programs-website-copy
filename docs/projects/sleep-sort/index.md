@@ -73,14 +73,14 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Sleep Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/algol68)
-- [Sleep Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/c-sharp)
-- [Sleep Sort in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/dart)
-- [Sleep Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/euphoria)
-- [Sleep Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/go)
-- [Sleep Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/php)
-- [Sleep Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/python)
-- [Sleep Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort/rust)
+- [Sleep Sort in Algol68](https://sampleprograms.io/projects/sleep-sort/algol68)
+- [Sleep Sort in C#](https://sampleprograms.io/projects/sleep-sort/c-sharp)
+- [Sleep Sort in Dart](https://sampleprograms.io/projects/sleep-sort/dart)
+- [Sleep Sort in Euphoria](https://sampleprograms.io/projects/sleep-sort/euphoria)
+- [Sleep Sort in Go](https://sampleprograms.io/projects/sleep-sort/go)
+- [Sleep Sort in Php](https://sampleprograms.io/projects/sleep-sort/php)
+- [Sleep Sort in Python](https://sampleprograms.io/projects/sleep-sort/python)
+- [Sleep Sort in Rust](https://sampleprograms.io/projects/sleep-sort/rust)
 
 ***
 
@@ -88,13 +88,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Selection Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort)
+[<-- Previous Project (Selection Sort)](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Transpose Matrix) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix)
+[Next Project (Transpose Matrix) -->](https://sampleprograms.io/projects/transpose-matrix)
 
 </div>
 

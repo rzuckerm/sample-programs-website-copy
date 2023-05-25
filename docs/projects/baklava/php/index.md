@@ -7,7 +7,7 @@ last-modified: 2018-09-17
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ for ($i = 10;-1 < $i; $i--) {
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 

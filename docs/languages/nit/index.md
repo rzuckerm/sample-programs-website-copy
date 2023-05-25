@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Nit](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/nit)
+- [Hello World in Nit](https://sampleprograms.io/projects/hello-world/nit)

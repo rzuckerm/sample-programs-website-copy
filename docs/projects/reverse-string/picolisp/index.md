@@ -7,7 +7,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Picolisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-websi
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Picolisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/picolisp) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Picolisp](https://sampleprograms.io/languages/picolisp) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-26
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Flix](https://rzuckerm.github.io/sample-programs-website-copy/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Flix](https://sampleprograms.io/languages/flix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ def main(): String = "Hello World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Flix](https://rzuckerm.github.io/sample-programs-website-copy/languages/flix) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Flix](https://sampleprograms.io/languages/flix) was written by:
 
 - Javier "Javi" Carrion
 

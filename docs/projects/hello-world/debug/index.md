@@ -7,7 +7,7 @@ last-modified: 2020-10-09
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Debug](https://rzuckerm.github.io/sample-programs-website-copy/languages/debug) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Debug](https://sampleprograms.io/languages/debug) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ _main:                            ; the entry point! void main()
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Debug](https://rzuckerm.github.io/sample-programs-website-copy/languages/debug) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Debug](https://sampleprograms.io/languages/debug) was written by:
 
 - Subhasmita Swain
 

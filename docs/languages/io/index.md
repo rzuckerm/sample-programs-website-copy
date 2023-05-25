@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Io](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/io)
+- [Hello World in Io](https://sampleprograms.io/projects/hello-world/io)

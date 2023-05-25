@@ -7,7 +7,7 @@ last-modified: 2018-07-04
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ fn main() {
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Sebastian Veitleder
 

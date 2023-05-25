@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ public class Factorial {
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Bharath
 - Jeremy Grifski

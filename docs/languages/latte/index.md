@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Latte](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/latte)
+- [Hello World in Latte](https://sampleprograms.io/projects/hello-world/latte)

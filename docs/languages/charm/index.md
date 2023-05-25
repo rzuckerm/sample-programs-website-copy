@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Charm](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/charm)
+- [Hello World in Charm](https://sampleprograms.io/projects/hello-world/charm)

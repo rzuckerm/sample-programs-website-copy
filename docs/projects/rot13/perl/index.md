@@ -7,7 +7,7 @@ last-modified: 2019-10-30
 
 ---
 
-Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ print $str . "\n";
 
 {% endraw %}
 
-[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
+[Rot13](https://sampleprograms.io/projects/rot13) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Gijs Hendriksen
 

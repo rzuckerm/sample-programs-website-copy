@@ -7,7 +7,7 @@ last-modified: 2019-10-31
 
 ---
 
-Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -83,7 +83,7 @@ else {
 
 {% endraw %}
 
-[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Mallikarjuna S J
 

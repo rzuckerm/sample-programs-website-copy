@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ exit 0
 
 {% endraw %}
 
-[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Bash](https://sampleprograms.io/languages/bash) was written by:
 
 - tehtbl
 - thetbl

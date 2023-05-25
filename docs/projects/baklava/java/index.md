@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ public class Baklava {
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

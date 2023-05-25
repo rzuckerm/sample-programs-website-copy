@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Apex](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/apex)
-- [Reverse String in Apex](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/apex)
+- [Hello World in Apex](https://sampleprograms.io/projects/hello-world/apex)
+- [Reverse String in Apex](https://sampleprograms.io/projects/reverse-string/apex)

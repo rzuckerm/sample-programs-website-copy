@@ -44,4 +44,4 @@ JavaScript. Game developers should be pretty happy about this.
 
 ## Articles
 
-- [Hello World in Wren](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/wren)
+- [Hello World in Wren](https://sampleprograms.io/projects/hello-world/wren)

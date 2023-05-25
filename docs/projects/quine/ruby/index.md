@@ -7,7 +7,7 @@ last-modified: 2018-08-12
 
 ---
 
-Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ s="s=%c%s%c; printf s,34,s,34,10%c"; printf s,34,s,34,10
 
 {% endraw %}
 
-[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
 
 - Jeremy Grifski
 

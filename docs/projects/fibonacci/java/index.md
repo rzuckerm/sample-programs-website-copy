@@ -7,7 +7,7 @@ last-modified: 2018-10-03
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ public class Fibonacci {
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Marius

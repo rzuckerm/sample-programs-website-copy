@@ -7,7 +7,7 @@ last-modified: 2018-05-03
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Factor](https://rzuckerm.github.io/sample-programs-website-copy/languages/factor) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Factor](https://sampleprograms.io/languages/factor) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Factor](https://rzuckerm.github.io/sample-programs-website-copy/languages/factor) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Factor](https://sampleprograms.io/languages/factor) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2018-04-24
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gravity](https://rzuckerm.github.io/sample-programs-website-copy/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gravity](https://sampleprograms.io/languages/gravity) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ func main() {
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gravity](https://rzuckerm.github.io/sample-programs-website-copy/languages/gravity) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Gravity](https://sampleprograms.io/languages/gravity) was written by:
 
 - Jeremy Grifski
 

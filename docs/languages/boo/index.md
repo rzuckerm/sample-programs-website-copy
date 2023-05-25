@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fibonacci in Boo](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/boo)
-- [Hello World in Boo](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/boo)
+- [Fibonacci in Boo](https://sampleprograms.io/projects/fibonacci/boo)
+- [Hello World in Boo](https://sampleprograms.io/projects/hello-world/boo)

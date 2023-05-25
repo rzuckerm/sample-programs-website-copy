@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Factor](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/factor)
+- [Hello World in Factor](https://sampleprograms.io/projects/hello-world/factor)

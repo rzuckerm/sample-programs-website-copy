@@ -7,7 +7,7 @@ last-modified: 2019-10-13
 
 ---
 
-Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Haskell](https://sampleprograms.io/languages/haskell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ main = do
 
 {% endraw %}
 
-[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Haskell](https://rzuckerm.github.io/sample-programs-website-copy/languages/haskell) was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Haskell](https://sampleprograms.io/languages/haskell) was written by:
 
 - Amanda Eubanks
 - Jeremy Grifski

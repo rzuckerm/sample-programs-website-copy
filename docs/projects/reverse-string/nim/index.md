@@ -7,7 +7,7 @@ last-modified: 2019-10-22
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -33,7 +33,7 @@ echo reversed_text
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
 - rzuckerm

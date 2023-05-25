@@ -7,7 +7,7 @@ last-modified: 2023-02-27
 
 ---
 
-Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -167,7 +167,7 @@ printf(STDOUT, "%d\n", total_profit)
 
 {% endraw %}
 
-[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

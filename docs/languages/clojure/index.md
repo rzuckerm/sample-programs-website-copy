@@ -15,8 +15,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Bubble Sort in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/clojure)
-- [Capitalize in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/clojure)
-- [Fizz Buzz in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/clojure)
-- [Hello World in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/clojure)
-- [Reverse String in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/clojure)
+- [Bubble Sort in Clojure](https://sampleprograms.io/projects/bubble-sort/clojure)
+- [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
+- [Fizz Buzz in Clojure](https://sampleprograms.io/projects/fizz-buzz/clojure)
+- [Hello World in Clojure](https://sampleprograms.io/projects/hello-world/clojure)
+- [Reverse String in Clojure](https://sampleprograms.io/projects/reverse-string/clojure)

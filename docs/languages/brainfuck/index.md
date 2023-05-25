@@ -40,6 +40,6 @@ That's it!
 
 ## Articles
 
-- [Fizz Buzz in Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/brainfuck)
-- [Hello World in Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/brainfuck)
-- [Reverse String in Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/brainfuck)
+- [Fizz Buzz in Brainfuck](https://sampleprograms.io/projects/fizz-buzz/brainfuck)
+- [Hello World in Brainfuck](https://sampleprograms.io/projects/hello-world/brainfuck)
+- [Reverse String in Brainfuck](https://sampleprograms.io/projects/reverse-string/brainfuck)

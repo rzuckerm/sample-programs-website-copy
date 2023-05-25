@@ -7,7 +7,7 @@ last-modified: 2020-10-07
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Rexx](https://rzuckerm.github.io/sample-programs-website-copy/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,7 +29,7 @@ say 'Usage: please input a number'; exit
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Rexx](https://rzuckerm.github.io/sample-programs-website-copy/languages/rexx) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Rexx](https://sampleprograms.io/languages/rexx) was written by:
 
 - Sudhanshu Dubey
 

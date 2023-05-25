@@ -7,7 +7,7 @@ last-modified: 2022-05-16
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -97,7 +97,7 @@ public class LongestCommonSubsequence {
 
 {% endraw %}
 
-[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2018-09-20
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Never](https://rzuckerm.github.io/sample-programs-website-copy/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ func main() -> int
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Never](https://rzuckerm.github.io/sample-programs-website-copy/languages/never) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Never](https://sampleprograms.io/languages/never) was written by:
 
 - smaludzi
 

@@ -15,8 +15,8 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [File Input Output in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/dg)
-- [Fizz Buzz in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/dg)
-- [Hello World in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/dg)
-- [Quine in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/dg)
-- [Reverse String in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/dg)
+- [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
+- [Fizz Buzz in Dg](https://sampleprograms.io/projects/fizz-buzz/dg)
+- [Hello World in Dg](https://sampleprograms.io/projects/hello-world/dg)
+- [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
+- [Reverse String in Dg](https://sampleprograms.io/projects/reverse-string/dg)

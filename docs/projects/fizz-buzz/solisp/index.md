@@ -7,7 +7,7 @@ last-modified: 2020-02-25
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Solisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Solisp](https://sampleprograms.io/languages/solisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-co
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Solisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/solisp) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Solisp](https://sampleprograms.io/languages/solisp) was written by:
 
 - Stuart Irwin
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Baik](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/baik)
+- [Hello World in Baik](https://sampleprograms.io/projects/hello-world/baik)

@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -136,7 +136,7 @@ printf("%s\n", implode(", ", $result));
 
 {% endraw %}
 
-[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2023-02-17
 
 ---
 
-Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ printf(STDOUT, "%d\n", longest_word(s))
 
 {% endraw %}
 
-[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Longest Word](https://sampleprograms.io/projects/longest-word) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Modula2](https://rzuckerm.github.io/sample-programs-website-copy/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Modula2](https://sampleprograms.io/languages/modula2) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ END PrintHelloWorld.
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Modula2](https://rzuckerm.github.io/sample-programs-website-copy/languages/modula2) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Modula2](https://sampleprograms.io/languages/modula2) was written by:
 
 - Shashank KV
 

@@ -7,7 +7,7 @@ last-modified: 2023-02-28
 
 ---
 
-Welcome to the [Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -115,7 +115,7 @@ printf(STDOUT, "%d\n", max_value)
 
 {% endraw %}
 
-[Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

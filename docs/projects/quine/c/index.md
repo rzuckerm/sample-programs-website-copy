@@ -7,7 +7,7 @@ last-modified: 2019-10-18
 
 ---
 
-Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ int main() { char* s="#include %cstdio.h%c%cint main() { char* s=%c%s%c; printf(
 
 {% endraw %}
 
-[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Juan D Frias
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in F\*](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/f-star)
+- [Hello World in F\*](https://sampleprograms.io/projects/hello-world/f-star)

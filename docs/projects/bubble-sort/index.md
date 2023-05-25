@@ -134,32 +134,32 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Bubble Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/algol68)
-- [Bubble Sort in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/bash)
-- [Bubble Sort in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/c)
-- [Bubble Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/c-sharp)
-- [Bubble Sort in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/c-plus-plus)
-- [Bubble Sort in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/clojure)
-- [Bubble Sort in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/dart)
-- [Bubble Sort in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/elixir)
-- [Bubble Sort in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/erlang)
-- [Bubble Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/euphoria)
-- [Bubble Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/go)
-- [Bubble Sort in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/haskell)
-- [Bubble Sort in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/java)
-- [Bubble Sort in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/javascript)
-- [Bubble Sort in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/julia)
-- [Bubble Sort in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/kotlin)
-- [Bubble Sort in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/lua)
-- [Bubble Sort in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/mathematica)
-- [Bubble Sort in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/matlab)
-- [Bubble Sort in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/perl)
-- [Bubble Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/php)
-- [Bubble Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/python)
-- [Bubble Sort in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/ruby)
-- [Bubble Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/rust)
-- [Bubble Sort in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/scala)
-- [Bubble Sort in Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/visual-basic)
+- [Bubble Sort in Algol68](https://sampleprograms.io/projects/bubble-sort/algol68)
+- [Bubble Sort in Bash](https://sampleprograms.io/projects/bubble-sort/bash)
+- [Bubble Sort in C](https://sampleprograms.io/projects/bubble-sort/c)
+- [Bubble Sort in C#](https://sampleprograms.io/projects/bubble-sort/c-sharp)
+- [Bubble Sort in C++](https://sampleprograms.io/projects/bubble-sort/c-plus-plus)
+- [Bubble Sort in Clojure](https://sampleprograms.io/projects/bubble-sort/clojure)
+- [Bubble Sort in Dart](https://sampleprograms.io/projects/bubble-sort/dart)
+- [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
+- [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
+- [Bubble Sort in Euphoria](https://sampleprograms.io/projects/bubble-sort/euphoria)
+- [Bubble Sort in Go](https://sampleprograms.io/projects/bubble-sort/go)
+- [Bubble Sort in Haskell](https://sampleprograms.io/projects/bubble-sort/haskell)
+- [Bubble Sort in Java](https://sampleprograms.io/projects/bubble-sort/java)
+- [Bubble Sort in Javascript](https://sampleprograms.io/projects/bubble-sort/javascript)
+- [Bubble Sort in Julia](https://sampleprograms.io/projects/bubble-sort/julia)
+- [Bubble Sort in Kotlin](https://sampleprograms.io/projects/bubble-sort/kotlin)
+- [Bubble Sort in Lua](https://sampleprograms.io/projects/bubble-sort/lua)
+- [Bubble Sort in Mathematica](https://sampleprograms.io/projects/bubble-sort/mathematica)
+- [Bubble Sort in Matlab](https://sampleprograms.io/projects/bubble-sort/matlab)
+- [Bubble Sort in Perl](https://sampleprograms.io/projects/bubble-sort/perl)
+- [Bubble Sort in Php](https://sampleprograms.io/projects/bubble-sort/php)
+- [Bubble Sort in Python](https://sampleprograms.io/projects/bubble-sort/python)
+- [Bubble Sort in Ruby](https://sampleprograms.io/projects/bubble-sort/ruby)
+- [Bubble Sort in Rust](https://sampleprograms.io/projects/bubble-sort/rust)
+- [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
+- [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
 
 ***
 
@@ -167,13 +167,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Binary Search)](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search)
+[<-- Previous Project (Binary Search)](https://sampleprograms.io/projects/binary-search)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Capitalize) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize)
+[Next Project (Capitalize) -->](https://sampleprograms.io/projects/capitalize)
 
 </div>
 

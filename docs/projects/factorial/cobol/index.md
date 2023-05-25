@@ -7,7 +7,7 @@ last-modified: 2021-10-14
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Cobol](https://rzuckerm.github.io/sample-programs-website-copy/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-co
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Cobol](https://rzuckerm.github.io/sample-programs-website-copy/languages/cobol) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 - Sudhanshu Dubey
 

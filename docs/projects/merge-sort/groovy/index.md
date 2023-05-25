@@ -7,7 +7,7 @@ last-modified: 2019-10-20
 
 ---
 
-Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ class MergeSort {
 
 {% endraw %}
 
-[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
 
 - Mykhaylo Samonov
 

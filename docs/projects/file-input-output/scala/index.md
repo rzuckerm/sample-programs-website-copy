@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ object FileInputOutput {
 
 {% endraw %}
 
-[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) was written by:
+[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,7 +99,7 @@ print((whole(fact, 0), newline))
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

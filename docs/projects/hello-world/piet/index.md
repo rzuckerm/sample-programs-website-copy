@@ -7,13 +7,13 @@ last-modified: 2023-04-25
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Piet](https://rzuckerm.github.io/sample-programs-website-copy/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
 ![Hello World in Piet](/projects/hello-world/piet/hello-world.png)
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Piet](https://rzuckerm.github.io/sample-programs-website-copy/languages/piet) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Piet](https://sampleprograms.io/languages/piet) was written by:
 
 - alope107
 

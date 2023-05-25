@@ -7,7 +7,7 @@ last-modified: 2023-03-21
 
 ---
 
-Welcome to the [Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -128,7 +128,7 @@ printf("%s\n", implode(", ", $values));
 
 {% endraw %}
 
-[Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

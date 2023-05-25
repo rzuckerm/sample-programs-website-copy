@@ -7,7 +7,7 @@ last-modified: 2020-10-01
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -42,7 +42,7 @@ end
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - sniklas142
 

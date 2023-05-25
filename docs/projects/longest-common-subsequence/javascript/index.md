@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -81,7 +81,7 @@ else{
 
 {% endraw %}
 
-[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
+[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Sayantan Sarkar
 

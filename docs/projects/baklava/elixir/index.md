@@ -7,7 +7,7 @@ last-modified: 2019-05-22
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ Baklava.baklava() |> IO.puts()
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Oleksii Filonenko
 

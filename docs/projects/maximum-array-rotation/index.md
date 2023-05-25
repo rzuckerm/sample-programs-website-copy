@@ -91,12 +91,12 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 ## Articles
 
-- [Maximum Array Rotation in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/algol68)
-- [Maximum Array Rotation in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/euphoria)
-- [Maximum Array Rotation in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/mathematica)
-- [Maximum Array Rotation in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/php)
-- [Maximum Array Rotation in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/python)
-- [Maximum Array Rotation in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation/rust)
+- [Maximum Array Rotation in Algol68](https://sampleprograms.io/projects/maximum-array-rotation/algol68)
+- [Maximum Array Rotation in Euphoria](https://sampleprograms.io/projects/maximum-array-rotation/euphoria)
+- [Maximum Array Rotation in Mathematica](https://sampleprograms.io/projects/maximum-array-rotation/mathematica)
+- [Maximum Array Rotation in Php](https://sampleprograms.io/projects/maximum-array-rotation/php)
+- [Maximum Array Rotation in Python](https://sampleprograms.io/projects/maximum-array-rotation/python)
+- [Maximum Array Rotation in Rust](https://sampleprograms.io/projects/maximum-array-rotation/rust)
 
 ***
 
@@ -104,13 +104,13 @@ Usage: please provide a list of integers (e.g. "8, 3, 1, 2")
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Word)](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word)
+[<-- Previous Project (Longest Word)](https://sampleprograms.io/projects/longest-word)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Maximum Subarray) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray)
+[Next Project (Maximum Subarray) -->](https://sampleprograms.io/projects/maximum-subarray)
 
 </div>
 

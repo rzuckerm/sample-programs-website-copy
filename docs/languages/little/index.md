@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Little](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/little)
+- [Hello World in Little](https://sampleprograms.io/projects/hello-world/little)

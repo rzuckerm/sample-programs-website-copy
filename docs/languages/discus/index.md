@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Discus](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/discus)
+- [Hello World in Discus](https://sampleprograms.io/projects/hello-world/discus)

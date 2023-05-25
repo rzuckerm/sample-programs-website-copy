@@ -7,7 +7,7 @@ last-modified: 2018-12-28
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ namespace SamplePrograms
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

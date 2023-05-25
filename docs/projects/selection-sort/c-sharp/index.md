@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ public class SelectionSort
 
 {% endraw %}
 
-[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

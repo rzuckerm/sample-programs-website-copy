@@ -7,7 +7,7 @@ last-modified: 2019-05-02
 
 ---
 
-Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -60,7 +60,7 @@ func main() {
 
 {% endraw %}
 
-[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
 

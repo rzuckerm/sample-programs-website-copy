@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ EvenOdd.main(System.argv()) |> IO.puts
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Zapnuk
 

@@ -7,7 +7,7 @@ last-modified: 2022-05-13
 
 ---
 
-Welcome to the [Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Word](https://sampleprograms.io/projects/longest-word) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,7 +29,7 @@ print(longest_word)
 
 {% endraw %}
 
-[Longest Word](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Longest Word](https://sampleprograms.io/projects/longest-word) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

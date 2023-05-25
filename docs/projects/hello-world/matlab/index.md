@@ -9,7 +9,7 @@ author:
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ disp('Hello, World!');
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
 
 - Jeremy Griffith
 

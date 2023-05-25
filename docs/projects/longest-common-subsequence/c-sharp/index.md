@@ -7,7 +7,7 @@ last-modified: 2018-10-28
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ namespace SamplePrograms
 
 {% endraw %}
 
-[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
+[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
 
 - Parker Johansen
 

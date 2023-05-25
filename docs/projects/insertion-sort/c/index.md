@@ -7,7 +7,7 @@ last-modified: 2019-10-18
 
 ---
 
-Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -128,7 +128,7 @@ void insertion_sort(long * arr_sort, int n)
 
 {% endraw %}
 
-[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - sourabbr
 

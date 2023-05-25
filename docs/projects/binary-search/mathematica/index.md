@@ -7,7 +7,7 @@ last-modified: 2023-01-19
 
 ---
 
-Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ binarySearchMain["", "5"]
 
 {% endraw %}
 
-[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -15,9 +15,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/typescript)
-- [Capitalize in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/typescript)
-- [Fibonacci in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/typescript)
-- [Fizz Buzz in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/typescript)
-- [Hello World in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/typescript)
-- [Reverse String in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/typescript)
+- [Baklava in Typescript](https://sampleprograms.io/projects/baklava/typescript)
+- [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
+- [Fibonacci in Typescript](https://sampleprograms.io/projects/fibonacci/typescript)
+- [Fizz Buzz in Typescript](https://sampleprograms.io/projects/fizz-buzz/typescript)
+- [Hello World in Typescript](https://sampleprograms.io/projects/hello-world/typescript)
+- [Reverse String in Typescript](https://sampleprograms.io/projects/reverse-string/typescript)

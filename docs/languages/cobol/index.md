@@ -15,7 +15,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Even Odd in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/cobol)
-- [Factorial in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/cobol)
-- [Hello World in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/cobol)
-- [Prime Number in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/cobol)
+- [Even Odd in Cobol](https://sampleprograms.io/projects/even-odd/cobol)
+- [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
+- [Hello World in Cobol](https://sampleprograms.io/projects/hello-world/cobol)
+- [Prime Number in Cobol](https://sampleprograms.io/projects/prime-number/cobol)

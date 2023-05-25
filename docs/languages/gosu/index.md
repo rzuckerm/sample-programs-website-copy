@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Gosu](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/gosu)
+- [Hello World in Gosu](https://sampleprograms.io/projects/hello-world/gosu)

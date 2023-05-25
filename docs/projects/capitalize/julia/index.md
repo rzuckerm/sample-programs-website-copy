@@ -7,7 +7,7 @@ last-modified: 2022-10-02
 
 ---
 
-Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ end
 
 {% endraw %}
 
-[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - smjalageri
 

@@ -85,16 +85,16 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 ## Articles
 
-- [Binary Search in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/algol68)
-- [Binary Search in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/c-plus-plus)
-- [Binary Search in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/euphoria)
-- [Binary Search in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/go)
-- [Binary Search in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/java)
-- [Binary Search in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/javascript)
-- [Binary Search in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/mathematica)
-- [Binary Search in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/php)
-- [Binary Search in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/python)
-- [Binary Search in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search/rust)
+- [Binary Search in Algol68](https://sampleprograms.io/projects/binary-search/algol68)
+- [Binary Search in C++](https://sampleprograms.io/projects/binary-search/c-plus-plus)
+- [Binary Search in Euphoria](https://sampleprograms.io/projects/binary-search/euphoria)
+- [Binary Search in Go](https://sampleprograms.io/projects/binary-search/go)
+- [Binary Search in Java](https://sampleprograms.io/projects/binary-search/java)
+- [Binary Search in Javascript](https://sampleprograms.io/projects/binary-search/javascript)
+- [Binary Search in Mathematica](https://sampleprograms.io/projects/binary-search/mathematica)
+- [Binary Search in Php](https://sampleprograms.io/projects/binary-search/php)
+- [Binary Search in Python](https://sampleprograms.io/projects/binary-search/python)
+- [Binary Search in Rust](https://sampleprograms.io/projects/binary-search/rust)
 
 ***
 
@@ -102,13 +102,13 @@ Usage: please provide a list of sorted integers ("1, 4, 5, 11, 12") and the inte
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Baklava)](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava)
+[<-- Previous Project (Baklava)](https://sampleprograms.io/projects/baklava)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Bubble Sort) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort)
+[Next Project (Bubble Sort) -->](https://sampleprograms.io/projects/bubble-sort)
 
 </div>
 

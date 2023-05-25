@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Gluon](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/gluon)
+- [Hello World in Gluon](https://sampleprograms.io/projects/hello-world/gluon)

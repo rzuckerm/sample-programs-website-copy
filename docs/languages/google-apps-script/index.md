@@ -35,4 +35,4 @@ write add-ons for G Suite applications. Otherwise, you'll probably never use it.
 
 ## Articles
 
-- [Hello World in Google Apps Script](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/google-apps-script)
+- [Hello World in Google Apps Script](https://sampleprograms.io/projects/hello-world/google-apps-script)

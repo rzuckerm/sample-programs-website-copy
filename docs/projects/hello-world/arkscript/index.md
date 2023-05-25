@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Arkscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Arkscript](https://sampleprograms.io/languages/arkscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Arkscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/arkscript) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Arkscript](https://sampleprograms.io/languages/arkscript) was written by:
 
 - SuperFola
 

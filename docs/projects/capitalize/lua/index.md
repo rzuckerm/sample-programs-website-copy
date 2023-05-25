@@ -7,7 +7,7 @@ last-modified: 2019-10-17
 
 ---
 
-Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -30,7 +30,7 @@ end
 
 {% endraw %}
 
-[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lua](https://sampleprograms.io/languages/lua) was written by:
 
 - Berry Semexan
 - Jeremy Grifski

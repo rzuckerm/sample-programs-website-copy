@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -344,7 +344,7 @@ int main(int argc, char const *argv[])
 
 {% endraw %}
 
-[Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Niraj Kamdar

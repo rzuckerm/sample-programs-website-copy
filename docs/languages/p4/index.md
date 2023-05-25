@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Even Odd in P4](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/p4)
-- [Hello World in P4](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/p4)
+- [Even Odd in P4](https://sampleprograms.io/projects/even-odd/p4)
+- [Hello World in P4](https://sampleprograms.io/projects/hello-world/p4)

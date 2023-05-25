@@ -7,7 +7,7 @@ last-modified: 2020-10-01
 
 ---
 
-Welcome to the [Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -174,7 +174,7 @@ default:
 
 {% endraw %}
 
-[Fraction Math](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) was written by:
+[Fraction Math](https://sampleprograms.io/projects/fraction-math) in [Swift](https://sampleprograms.io/languages/swift) was written by:
 
 - Zapnuk
 

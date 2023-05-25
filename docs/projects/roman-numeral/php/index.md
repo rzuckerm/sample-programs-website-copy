@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ try {
 
 {% endraw %}
 
-[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - Jeremy Grifski
 - Juan D Frias

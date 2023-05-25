@@ -7,7 +7,7 @@ last-modified: 2023-02-17
 
 ---
 
-Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -57,7 +57,7 @@ printf(STDOUT, "%s\n", {t})
 
 {% endraw %}
 
-[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Rot13](https://sampleprograms.io/projects/rot13) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2018-10-17
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ocaml](https://rzuckerm.github.io/sample-programs-website-copy/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Ocaml](https://sampleprograms.io/languages/ocaml) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ print_string "Hello, World!\n";;
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Ocaml](https://rzuckerm.github.io/sample-programs-website-copy/languages/ocaml) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Ocaml](https://sampleprograms.io/languages/ocaml) was written by:
 
 - Jeremy Grifski
 

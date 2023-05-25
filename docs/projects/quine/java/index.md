@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ public class Quine{public static void main(String[] args){char quote=34;String c
 
 {% endraw %}
 
-[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Karl Marx
 

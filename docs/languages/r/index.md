@@ -32,11 +32,11 @@ originates.
 
 ## Articles
 
-- [Capitalize in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/r)
-- [Even Odd in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/r)
-- [Factorial in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/r)
-- [File Input Output in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/r)
-- [Fizz Buzz in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/r)
-- [Hello World in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/r)
-- [Prime Number in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/r)
-- [Reverse String in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/r)
+- [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
+- [Even Odd in R](https://sampleprograms.io/projects/even-odd/r)
+- [Factorial in R](https://sampleprograms.io/projects/factorial/r)
+- [File Input Output in R](https://sampleprograms.io/projects/file-input-output/r)
+- [Fizz Buzz in R](https://sampleprograms.io/projects/fizz-buzz/r)
+- [Hello World in R](https://sampleprograms.io/projects/hello-world/r)
+- [Prime Number in R](https://sampleprograms.io/projects/prime-number/r)
+- [Reverse String in R](https://sampleprograms.io/projects/reverse-string/r)

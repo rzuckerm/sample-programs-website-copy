@@ -7,7 +7,7 @@ last-modified: 2021-10-12
 
 ---
 
-Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Cobol](https://rzuckerm.github.io/sample-programs-website-copy/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Cobol](https://sampleprograms.io/languages/cobol) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website
 
 {% endraw %}
 
-[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Cobol](https://rzuckerm.github.io/sample-programs-website-copy/languages/cobol) was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Cobol](https://sampleprograms.io/languages/cobol) was written by:
 
 - Ron Zuckerman
 - Sudhanshu Dubey

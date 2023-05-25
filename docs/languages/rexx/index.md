@@ -15,6 +15,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Even Odd in Rexx](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/rexx)
-- [Hello World in Rexx](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/rexx)
-- [Prime Number in Rexx](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/rexx)
+- [Even Odd in Rexx](https://sampleprograms.io/projects/even-odd/rexx)
+- [Hello World in Rexx](https://sampleprograms.io/projects/hello-world/rexx)
+- [Prime Number in Rexx](https://sampleprograms.io/projects/prime-number/rexx)

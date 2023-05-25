@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Ballerina](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/ballerina)
+- [Hello World in Ballerina](https://sampleprograms.io/projects/hello-world/ballerina)

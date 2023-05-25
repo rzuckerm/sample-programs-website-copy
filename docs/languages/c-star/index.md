@@ -28,4 +28,4 @@ around with that. If you have any additional documentation, let me know.
 
 ## Articles
 
-- [Hello World in C\*](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/c-star)
+- [Hello World in C\*](https://sampleprograms.io/projects/hello-world/c-star)

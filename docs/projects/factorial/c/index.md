@@ -7,7 +7,7 @@ last-modified: 2018-10-26
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -87,7 +87,7 @@ int uint64_overflow(long a, long b) {
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Bharath
 - clarkimusmax

@@ -7,7 +7,7 @@ last-modified: 2023-04-06
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ fn main() {
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

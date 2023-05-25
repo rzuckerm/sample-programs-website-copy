@@ -7,7 +7,7 @@ last-modified: 2019-10-10
 
 ---
 
-Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ writeFile();
 
 {% endraw %}
 
-[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
+[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Jeremy Grifski
 - Manan Gill

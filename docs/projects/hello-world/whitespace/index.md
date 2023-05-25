@@ -7,7 +7,7 @@ last-modified: 2019-10-04
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Whitespace](https://sampleprograms.io/languages/whitespace) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ L
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/languages/whitespace) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Whitespace](https://sampleprograms.io/languages/whitespace) was written by:
 
 - Jayden Thrasher
 

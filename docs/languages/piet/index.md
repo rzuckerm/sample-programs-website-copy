@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Piet](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/piet)
-- [Hello World in Piet](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/piet)
+- [Baklava in Piet](https://sampleprograms.io/projects/baklava/piet)
+- [Hello World in Piet](https://sampleprograms.io/projects/hello-world/piet)

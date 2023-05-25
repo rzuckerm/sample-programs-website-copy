@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ public class Capitalize {
 
 {% endraw %}
 
-[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - dyllew3
 - Jeremy Grifski

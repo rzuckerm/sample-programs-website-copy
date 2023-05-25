@@ -7,7 +7,7 @@ last-modified: 2018-04-27
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Verilog](https://rzuckerm.github.io/sample-programs-website-copy/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Verilog](https://sampleprograms.io/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ endmodule
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Verilog](https://rzuckerm.github.io/sample-programs-website-copy/languages/verilog) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
 
 - Jeremy Grifski
 

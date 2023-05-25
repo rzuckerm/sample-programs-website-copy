@@ -7,7 +7,7 @@ last-modified: 2023-01-20
 
 ---
 
-Welcome to the [Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ josephusMain["0", "1"]
 
 {% endraw %}
 
-[Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
+[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

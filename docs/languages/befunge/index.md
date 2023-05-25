@@ -38,7 +38,7 @@ character instead.
 
 ## Articles
 
-- [Baklava in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/befunge)
-- [Fizz Buzz in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/befunge)
-- [Hello World in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/befunge)
-- [Quine in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/befunge)
+- [Baklava in Befunge](https://sampleprograms.io/projects/baklava/befunge)
+- [Fizz Buzz in Befunge](https://sampleprograms.io/projects/fizz-buzz/befunge)
+- [Hello World in Befunge](https://sampleprograms.io/projects/hello-world/befunge)
+- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)

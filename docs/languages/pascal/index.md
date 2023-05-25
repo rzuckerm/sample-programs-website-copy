@@ -83,11 +83,11 @@ At any rate, I think we've played around enough
 
 ## Articles
 
-- [Capitalize in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/pascal)
-- [Even Odd in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/pascal)
-- [Fibonacci in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/pascal)
-- [Fizz Buzz in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/pascal)
-- [Hello World in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/pascal)
-- [Palindromic Number in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/pascal)
-- [Prime Number in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number/pascal)
-- [Reverse String in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/pascal)
+- [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
+- [Even Odd in Pascal](https://sampleprograms.io/projects/even-odd/pascal)
+- [Fibonacci in Pascal](https://sampleprograms.io/projects/fibonacci/pascal)
+- [Fizz Buzz in Pascal](https://sampleprograms.io/projects/fizz-buzz/pascal)
+- [Hello World in Pascal](https://sampleprograms.io/projects/hello-world/pascal)
+- [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
+- [Prime Number in Pascal](https://sampleprograms.io/projects/prime-number/pascal)
+- [Reverse String in Pascal](https://sampleprograms.io/projects/reverse-string/pascal)

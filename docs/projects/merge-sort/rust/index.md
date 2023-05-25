@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -94,7 +94,7 @@ fn main() {
 
 {% endraw %}
 
-[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - Andrew Johnson
 - rzuckerm

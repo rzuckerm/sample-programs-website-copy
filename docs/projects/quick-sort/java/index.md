@@ -7,7 +7,7 @@ last-modified: 2019-11-01
 
 ---
 
-Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -81,7 +81,7 @@ public class QuickSort {
 
 {% endraw %}
 
-[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Sumathi Varadharajan

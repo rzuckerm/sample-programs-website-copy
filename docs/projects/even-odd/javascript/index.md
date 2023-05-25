@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ if(!Number.isInteger(input)){ //if there is no input, input = undefined and the 
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
 
 - Manan Gill
 

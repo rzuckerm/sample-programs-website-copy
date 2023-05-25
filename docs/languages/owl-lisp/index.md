@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Owl Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/owl-lisp)
+- [Hello World in Owl Lisp](https://sampleprograms.io/projects/hello-world/owl-lisp)

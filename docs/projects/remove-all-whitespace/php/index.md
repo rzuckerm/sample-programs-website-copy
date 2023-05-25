@@ -7,7 +7,7 @@ last-modified: 2023-03-23
 
 ---
 
-Welcome to the [Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ echo "${str}\n";
 
 {% endraw %}
 
-[Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

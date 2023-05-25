@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Kitten](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/kitten)
+- [Hello World in Kitten](https://sampleprograms.io/projects/hello-world/kitten)

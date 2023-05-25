@@ -7,7 +7,7 @@ last-modified: 2021-05-25
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Elvish](https://rzuckerm.github.io/sample-programs-website-copy/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Elvish](https://sampleprograms.io/languages/elvish) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ echo "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Elvish](https://rzuckerm.github.io/sample-programs-website-copy/languages/elvish) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Elvish](https://sampleprograms.io/languages/elvish) was written by:
 
 - Jeremy Grifski
 

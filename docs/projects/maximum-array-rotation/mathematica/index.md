@@ -7,7 +7,7 @@ last-modified: 2023-01-19
 
 ---
 
-Welcome to the [Maximum Array Rotation](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -56,7 +56,7 @@ longestArrayRotationMain[""]
 
 {% endraw %}
 
-[Maximum Array Rotation](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-array-rotation) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
+[Maximum Array Rotation](https://sampleprograms.io/projects/maximum-array-rotation) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

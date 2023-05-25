@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Felix](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/felix)
+- [Hello World in Felix](https://sampleprograms.io/projects/hello-world/felix)

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Gerbil](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/gerbil)
+- [Hello World in Gerbil](https://sampleprograms.io/projects/hello-world/gerbil)

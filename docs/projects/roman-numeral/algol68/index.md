@@ -7,7 +7,7 @@ last-modified: 2023-02-01
 
 ---
 
-Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -103,7 +103,7 @@ FI
 
 {% endraw %}
 
-[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

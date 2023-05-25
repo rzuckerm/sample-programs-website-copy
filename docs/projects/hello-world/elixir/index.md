@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ IO.puts "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
 
 - Jeremy Grifski
 

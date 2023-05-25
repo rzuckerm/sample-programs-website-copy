@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ main()
 
 {% endraw %}
 
-[Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - aymaneMx
 - Jeremy Grifski

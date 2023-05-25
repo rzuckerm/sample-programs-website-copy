@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [D](https://rzuckerm.github.io/sample-programs-website-copy/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -62,7 +62,7 @@ int main(string[] args)
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [D](https://rzuckerm.github.io/sample-programs-website-copy/languages/d) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [D](https://sampleprograms.io/languages/d) was written by:
 
 - rzuckerm
 - Scott Little

@@ -7,7 +7,7 @@ last-modified: 2020-10-09
 
 ---
 
-Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-c
 
 {% endraw %}
 
-[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) was written by:
+[Capitalize](https://sampleprograms.io/projects/capitalize) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-16
 
 ---
 
-Welcome to the [Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ removeAllWhitespaceMain[""]
 
 {% endraw %}
 
-[Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
+[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

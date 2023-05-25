@@ -7,7 +7,7 @@ last-modified: 2018-04-19
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Tcl](https://rzuckerm.github.io/sample-programs-website-copy/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Tcl](https://sampleprograms.io/languages/tcl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ puts "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Tcl](https://rzuckerm.github.io/sample-programs-website-copy/languages/tcl) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Tcl](https://sampleprograms.io/languages/tcl) was written by:
 
 - Jeremy Griffith
 

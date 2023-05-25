@@ -7,7 +7,7 @@ last-modified: 2019-10-15
 
 ---
 
-Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ public class SelectionSort {
 
 {% endraw %}
 
-[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
+[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Java](https://sampleprograms.io/languages/java) was written by:
 
 - Jeremy Grifski
 - Tim Lange

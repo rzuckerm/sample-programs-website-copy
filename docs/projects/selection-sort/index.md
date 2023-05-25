@@ -151,22 +151,22 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Selection Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/algol68)
-- [Selection Sort in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/bash)
-- [Selection Sort in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/c)
-- [Selection Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/c-sharp)
-- [Selection Sort in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/c-plus-plus)
-- [Selection Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/euphoria)
-- [Selection Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/go)
-- [Selection Sort in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/haskell)
-- [Selection Sort in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/java)
-- [Selection Sort in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/javascript)
-- [Selection Sort in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/julia)
-- [Selection Sort in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/mathematica)
-- [Selection Sort in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/matlab)
-- [Selection Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/php)
-- [Selection Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/python)
-- [Selection Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort/rust)
+- [Selection Sort in Algol68](https://sampleprograms.io/projects/selection-sort/algol68)
+- [Selection Sort in Bash](https://sampleprograms.io/projects/selection-sort/bash)
+- [Selection Sort in C](https://sampleprograms.io/projects/selection-sort/c)
+- [Selection Sort in C#](https://sampleprograms.io/projects/selection-sort/c-sharp)
+- [Selection Sort in C++](https://sampleprograms.io/projects/selection-sort/c-plus-plus)
+- [Selection Sort in Euphoria](https://sampleprograms.io/projects/selection-sort/euphoria)
+- [Selection Sort in Go](https://sampleprograms.io/projects/selection-sort/go)
+- [Selection Sort in Haskell](https://sampleprograms.io/projects/selection-sort/haskell)
+- [Selection Sort in Java](https://sampleprograms.io/projects/selection-sort/java)
+- [Selection Sort in Javascript](https://sampleprograms.io/projects/selection-sort/javascript)
+- [Selection Sort in Julia](https://sampleprograms.io/projects/selection-sort/julia)
+- [Selection Sort in Mathematica](https://sampleprograms.io/projects/selection-sort/mathematica)
+- [Selection Sort in Matlab](https://sampleprograms.io/projects/selection-sort/matlab)
+- [Selection Sort in Php](https://sampleprograms.io/projects/selection-sort/php)
+- [Selection Sort in Python](https://sampleprograms.io/projects/selection-sort/python)
+- [Selection Sort in Rust](https://sampleprograms.io/projects/selection-sort/rust)
 
 ***
 
@@ -174,13 +174,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Rot13)](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13)
+[<-- Previous Project (Rot13)](https://sampleprograms.io/projects/rot13)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Sleep Sort) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort)
+[Next Project (Sleep Sort) -->](https://sampleprograms.io/projects/sleep-sort)
 
 </div>
 

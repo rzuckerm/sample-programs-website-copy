@@ -70,20 +70,20 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-- [Palindromic Number in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/algol68)
-- [Palindromic Number in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/c)
-- [Palindromic Number in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/c-plus-plus)
-- [Palindromic Number in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/euphoria)
-- [Palindromic Number in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/java)
-- [Palindromic Number in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/javascript)
-- [Palindromic Number in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/julia)
-- [Palindromic Number in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/kotlin)
-- [Palindromic Number in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/mathematica)
-- [Palindromic Number in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/pascal)
-- [Palindromic Number in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/perl)
-- [Palindromic Number in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/php)
-- [Palindromic Number in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/python)
-- [Palindromic Number in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number/rust)
+- [Palindromic Number in Algol68](https://sampleprograms.io/projects/palindromic-number/algol68)
+- [Palindromic Number in C](https://sampleprograms.io/projects/palindromic-number/c)
+- [Palindromic Number in C++](https://sampleprograms.io/projects/palindromic-number/c-plus-plus)
+- [Palindromic Number in Euphoria](https://sampleprograms.io/projects/palindromic-number/euphoria)
+- [Palindromic Number in Java](https://sampleprograms.io/projects/palindromic-number/java)
+- [Palindromic Number in Javascript](https://sampleprograms.io/projects/palindromic-number/javascript)
+- [Palindromic Number in Julia](https://sampleprograms.io/projects/palindromic-number/julia)
+- [Palindromic Number in Kotlin](https://sampleprograms.io/projects/palindromic-number/kotlin)
+- [Palindromic Number in Mathematica](https://sampleprograms.io/projects/palindromic-number/mathematica)
+- [Palindromic Number in Pascal](https://sampleprograms.io/projects/palindromic-number/pascal)
+- [Palindromic Number in Perl](https://sampleprograms.io/projects/palindromic-number/perl)
+- [Palindromic Number in Php](https://sampleprograms.io/projects/palindromic-number/php)
+- [Palindromic Number in Python](https://sampleprograms.io/projects/palindromic-number/python)
+- [Palindromic Number in Rust](https://sampleprograms.io/projects/palindromic-number/rust)
 
 ***
 
@@ -91,13 +91,13 @@ Usage: please input a non-negative integer
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Minimum Spanning Tree)](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree)
+[<-- Previous Project (Minimum Spanning Tree)](https://sampleprograms.io/projects/minimum-spanning-tree)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Prime Number) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number)
+[Next Project (Prime Number) -->](https://sampleprograms.io/projects/prime-number)
 
 </div>
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Bracmat](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/bracmat)
+- [Hello World in Bracmat](https://sampleprograms.io/projects/hello-world/bracmat)

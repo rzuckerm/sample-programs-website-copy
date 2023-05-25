@@ -7,7 +7,7 @@ last-modified: 2018-07-05
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Clipper](https://rzuckerm.github.io/sample-programs-website-copy/languages/clipper) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -22,7 +22,7 @@ function MAIN
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Clipper](https://rzuckerm.github.io/sample-programs-website-copy/languages/clipper) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Clipper](https://sampleprograms.io/languages/clipper) was written by:
 
 - Abhinav Keshav
 

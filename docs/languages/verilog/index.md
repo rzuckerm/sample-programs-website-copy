@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fibonacci in Verilog](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/verilog)
-- [Hello World in Verilog](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/verilog)
+- [Fibonacci in Verilog](https://sampleprograms.io/projects/fibonacci/verilog)
+- [Hello World in Verilog](https://sampleprograms.io/projects/hello-world/verilog)

@@ -7,7 +7,7 @@ last-modified: 2023-04-17
 
 ---
 
-Welcome to the [Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -101,7 +101,7 @@ fn main() {
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

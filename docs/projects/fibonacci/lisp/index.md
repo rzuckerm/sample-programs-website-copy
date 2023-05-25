@@ -7,7 +7,7 @@ last-modified: 2020-10-10
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-co
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
 
 - Parker Johansen
 

@@ -7,7 +7,7 @@ last-modified: 2019-10-09
 
 ---
 
-Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ int main(int argc, char *argv[]) {
 
 {% endraw %}
 
-[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
+[Rot13](https://sampleprograms.io/projects/rot13) in [C](https://sampleprograms.io/languages/c) was written by:
 
 - Softizo
 

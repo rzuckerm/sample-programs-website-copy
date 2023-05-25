@@ -36,6 +36,6 @@ lower-level languages like C.
 
 ## Articles
 
-- [Baklava in Crystal](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/crystal)
-- [Fizz Buzz in Crystal](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/crystal)
-- [Hello World in Crystal](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/crystal)
+- [Baklava in Crystal](https://sampleprograms.io/projects/baklava/crystal)
+- [Fizz Buzz in Crystal](https://sampleprograms.io/projects/fizz-buzz/crystal)
+- [Hello World in Crystal](https://sampleprograms.io/projects/hello-world/crystal)

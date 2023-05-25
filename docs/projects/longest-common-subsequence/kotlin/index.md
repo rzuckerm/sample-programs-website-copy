@@ -7,7 +7,7 @@ last-modified: 2020-10-05
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ fun main(args: Array<String>) {
 
 {% endraw %}
 
-[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) was written by:
+[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - David Phillips

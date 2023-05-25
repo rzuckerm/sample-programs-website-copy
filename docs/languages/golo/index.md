@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Golo](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/golo)
+- [Hello World in Golo](https://sampleprograms.io/projects/hello-world/golo)

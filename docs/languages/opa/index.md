@@ -47,4 +47,4 @@ Luckily, there's this cute technology called containers.
 
 ## Articles
 
-- [Hello World in Opa](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/opa)
+- [Hello World in Opa](https://sampleprograms.io/projects/hello-world/opa)

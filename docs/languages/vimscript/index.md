@@ -15,6 +15,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fizz Buzz in Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/vimscript)
-- [Hello World in Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/vimscript)
-- [Reverse String in Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/vimscript)
+- [Fizz Buzz in Vimscript](https://sampleprograms.io/projects/fizz-buzz/vimscript)
+- [Hello World in Vimscript](https://sampleprograms.io/projects/hello-world/vimscript)
+- [Reverse String in Vimscript](https://sampleprograms.io/projects/reverse-string/vimscript)

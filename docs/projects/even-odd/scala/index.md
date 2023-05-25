@@ -7,7 +7,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ object EvenOdd
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Scala](https://sampleprograms.io/languages/scala) was written by:
 
 - rzuckerm
 

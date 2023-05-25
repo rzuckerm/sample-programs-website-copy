@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in C2](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/c2)
+- [Hello World in C2](https://sampleprograms.io/projects/hello-world/c2)

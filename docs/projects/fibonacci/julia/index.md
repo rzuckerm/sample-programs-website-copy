@@ -7,7 +7,7 @@ last-modified: 2018-10-12
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ end
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Julia](https://sampleprograms.io/languages/julia) was written by:
 
 - Jeremy Grifski
 - Michael King

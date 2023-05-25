@@ -7,7 +7,7 @@ last-modified: 2022-10-06
 
 ---
 
-Welcome to the [Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -166,7 +166,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
+[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
 
 - Ajay Maheshwari
 - Jeremy Grifski

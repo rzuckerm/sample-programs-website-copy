@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -250,7 +250,7 @@ echo "${total_weight}\n";
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

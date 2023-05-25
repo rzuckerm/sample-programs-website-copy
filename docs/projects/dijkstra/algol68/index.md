@@ -7,7 +7,7 @@ last-modified: 2023-02-09
 
 ---
 
-Welcome to the [Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -318,7 +318,7 @@ printf(($gl$, whole(dist, 0)))
 
 {% endraw %}
 
-[Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

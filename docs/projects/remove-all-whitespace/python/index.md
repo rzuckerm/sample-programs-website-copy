@@ -7,7 +7,7 @@ last-modified: 2022-05-12
 
 ---
 
-Welcome to the [Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ print("".join(input_string.split()))
 
 {% endraw %}
 
-[Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-24
 
 ---
 
-Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ printf(($gl$, s))
 
 {% endraw %}
 
-[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Rot13](https://sampleprograms.io/projects/rot13) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

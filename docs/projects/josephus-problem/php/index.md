@@ -7,7 +7,7 @@ last-modified: 2023-03-24
 
 ---
 
-Welcome to the [Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,7 +92,7 @@ echo "${g}\n";
 
 {% endraw %}
 
-[Josephus Problem](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Josephus Problem](https://sampleprograms.io/projects/josephus-problem) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

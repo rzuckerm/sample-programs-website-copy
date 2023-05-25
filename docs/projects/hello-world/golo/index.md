@@ -7,7 +7,7 @@ last-modified: 2018-05-24
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Golo](https://rzuckerm.github.io/sample-programs-website-copy/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Golo](https://sampleprograms.io/languages/golo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ function main = |args| {
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Golo](https://rzuckerm.github.io/sample-programs-website-copy/languages/golo) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Golo](https://sampleprograms.io/languages/golo) was written by:
 
 - Jeremy Grifski
 

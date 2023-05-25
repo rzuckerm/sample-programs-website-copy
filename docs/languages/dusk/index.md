@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Dusk](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/dusk)
+- [Hello World in Dusk](https://sampleprograms.io/projects/hello-world/dusk)

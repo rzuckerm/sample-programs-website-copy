@@ -7,7 +7,7 @@ last-modified: 2023-02-19
 
 ---
 
-Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -130,7 +130,7 @@ puts(STDOUT, iif(index > 0, "true\n", "false\n"))
 
 {% endraw %}
 
-[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Binary Search](https://sampleprograms.io/projects/binary-search) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

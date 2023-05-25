@@ -7,7 +7,7 @@ last-modified: 2019-10-21
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ main() {
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Dart](https://sampleprograms.io/languages/dart) was written by:
 
 - Paddy
 

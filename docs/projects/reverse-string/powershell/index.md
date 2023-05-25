@@ -7,7 +7,7 @@ last-modified: 2018-05-28
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Powershell](https://rzuckerm.github.io/sample-programs-website-copy/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ Write-Host $StringBuilder.ToString()
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Powershell](https://rzuckerm.github.io/sample-programs-website-copy/languages/powershell) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Powershell](https://sampleprograms.io/languages/powershell) was written by:
 
 - Devin Leaman
 - Jeremy Grifski

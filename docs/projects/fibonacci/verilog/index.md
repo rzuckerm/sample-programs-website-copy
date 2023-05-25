@@ -7,7 +7,7 @@ last-modified: 2019-10-06
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Verilog](https://rzuckerm.github.io/sample-programs-website-copy/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Verilog](https://sampleprograms.io/languages/verilog) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ endmodule
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Verilog](https://rzuckerm.github.io/sample-programs-website-copy/languages/verilog) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Verilog](https://sampleprograms.io/languages/verilog) was written by:
 
 - TheSupremePatel
 

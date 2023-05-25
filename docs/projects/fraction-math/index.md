@@ -78,14 +78,14 @@ Usage: ./fraction-math operand1 operator operand2
 
 ## Articles
 
-- [Fraction Math in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/algol68)
-- [Fraction Math in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/c-plus-plus)
-- [Fraction Math in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/euphoria)
-- [Fraction Math in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/mathematica)
-- [Fraction Math in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/php)
-- [Fraction Math in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/python)
-- [Fraction Math in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/rust)
-- [Fraction Math in Swift](https://rzuckerm.github.io/sample-programs-website-copy/projects/fraction-math/swift)
+- [Fraction Math in Algol68](https://sampleprograms.io/projects/fraction-math/algol68)
+- [Fraction Math in C++](https://sampleprograms.io/projects/fraction-math/c-plus-plus)
+- [Fraction Math in Euphoria](https://sampleprograms.io/projects/fraction-math/euphoria)
+- [Fraction Math in Mathematica](https://sampleprograms.io/projects/fraction-math/mathematica)
+- [Fraction Math in Php](https://sampleprograms.io/projects/fraction-math/php)
+- [Fraction Math in Python](https://sampleprograms.io/projects/fraction-math/python)
+- [Fraction Math in Rust](https://sampleprograms.io/projects/fraction-math/rust)
+- [Fraction Math in Swift](https://sampleprograms.io/projects/fraction-math/swift)
 
 ***
 
@@ -93,13 +93,13 @@ Usage: ./fraction-math operand1 operator operand2
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Fizz Buzz)](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz)
+[<-- Previous Project (Fizz Buzz)](https://sampleprograms.io/projects/fizz-buzz)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Hello World) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world)
+[Next Project (Hello World) -->](https://sampleprograms.io/projects/hello-world)
 
 </div>
 

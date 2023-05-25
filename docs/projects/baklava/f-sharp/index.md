@@ -7,7 +7,7 @@ last-modified: 2019-09-12
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [F#](https://rzuckerm.github.io/sample-programs-website-copy/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [F#](https://sampleprograms.io/languages/f-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ let main argv =
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [F#](https://rzuckerm.github.io/sample-programs-website-copy/languages/f-sharp) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [F#](https://sampleprograms.io/languages/f-sharp) was written by:
 
 - Parker Johansen
 

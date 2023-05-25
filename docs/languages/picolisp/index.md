@@ -34,5 +34,5 @@ information, check out the [PicoLisp Official Website][5].
 
 ## Articles
 
-- [Hello World in Picolisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/picolisp)
-- [Reverse String in Picolisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/picolisp)
+- [Hello World in Picolisp](https://sampleprograms.io/projects/hello-world/picolisp)
+- [Reverse String in Picolisp](https://sampleprograms.io/projects/reverse-string/picolisp)

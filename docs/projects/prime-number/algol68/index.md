@@ -7,7 +7,7 @@ last-modified: 2023-01-20
 
 ---
 
-Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -100,7 +100,7 @@ printf(($gl$, (is prime(n) | "Prime" | "Composite")))
 
 {% endraw %}
 
-[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Prime Number](https://sampleprograms.io/projects/prime-number) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

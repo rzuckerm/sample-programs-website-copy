@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Nim](https://sampleprograms.io/languages/nim) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ echo "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Nim](https://rzuckerm.github.io/sample-programs-website-copy/languages/nim) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Nim](https://sampleprograms.io/languages/nim) was written by:
 
 - Michael Olson
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-18
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Pascal](https://rzuckerm.github.io/sample-programs-website-copy/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ end.
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Pascal](https://rzuckerm.github.io/sample-programs-website-copy/languages/pascal) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
 
 - smjalageri
 

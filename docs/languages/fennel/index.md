@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Fennel](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/fennel)
+- [Hello World in Fennel](https://sampleprograms.io/projects/hello-world/fennel)

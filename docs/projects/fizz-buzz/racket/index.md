@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Racket](https://rzuckerm.github.io/sample-programs-website-copy/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -31,7 +31,7 @@ Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-co
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Racket](https://rzuckerm.github.io/sample-programs-website-copy/languages/racket) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Racket](https://sampleprograms.io/languages/racket) was written by:
 
 - RubinMathias
 

@@ -7,7 +7,7 @@ last-modified: 2018-04-29
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Felix](https://rzuckerm.github.io/sample-programs-website-copy/languages/felix) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Felix](https://sampleprograms.io/languages/felix) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ println$ "Hello, World!";
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Felix](https://rzuckerm.github.io/sample-programs-website-copy/languages/felix) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Felix](https://sampleprograms.io/languages/felix) was written by:
 
 - Jeremy Grifski
 

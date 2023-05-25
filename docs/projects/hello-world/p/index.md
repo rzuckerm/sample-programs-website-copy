@@ -7,7 +7,7 @@ last-modified: 2019-10-09
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [P](https://rzuckerm.github.io/sample-programs-website-copy/languages/p) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [P](https://sampleprograms.io/languages/p) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ machine HelloWorld
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [P](https://rzuckerm.github.io/sample-programs-website-copy/languages/p) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [P](https://sampleprograms.io/languages/p) was written by:
 
 - Amanda Hager Lopes de Andrade Katz
 

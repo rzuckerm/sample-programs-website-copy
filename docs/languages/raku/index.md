@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Raku](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/raku)
+- [Hello World in Raku](https://sampleprograms.io/projects/hello-world/raku)

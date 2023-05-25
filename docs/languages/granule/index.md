@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Granule](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/granule)
+- [Hello World in Granule](https://sampleprograms.io/projects/hello-world/granule)

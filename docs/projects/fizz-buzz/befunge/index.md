@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,7 +29,7 @@ Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-co
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
 
 - Stuart
 

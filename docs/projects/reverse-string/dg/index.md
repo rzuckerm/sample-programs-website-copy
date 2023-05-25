@@ -7,7 +7,7 @@ last-modified: 2018-10-03
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,7 +29,7 @@ print $ reverse <| snd_if_exists argv
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Dg](https://sampleprograms.io/languages/dg) was written by:
 
 - Riley Martine
 

@@ -39,25 +39,25 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-- [Quine in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/algol68)
-- [Quine in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/bash)
-- [Quine in Befunge](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/befunge)
-- [Quine in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/c)
-- [Quine in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/c-sharp)
-- [Quine in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/coffeescript)
-- [Quine in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/dg)
-- [Quine in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/euphoria)
-- [Quine in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/go)
-- [Quine in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/haskell)
-- [Quine in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/java)
-- [Quine in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/javascript)
-- [Quine in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/kotlin)
-- [Quine in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/mathematica)
-- [Quine in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/perl)
-- [Quine in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/php)
-- [Quine in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/python)
-- [Quine in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/ruby)
-- [Quine in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/rust)
+- [Quine in Algol68](https://sampleprograms.io/projects/quine/algol68)
+- [Quine in Bash](https://sampleprograms.io/projects/quine/bash)
+- [Quine in Befunge](https://sampleprograms.io/projects/quine/befunge)
+- [Quine in C](https://sampleprograms.io/projects/quine/c)
+- [Quine in C#](https://sampleprograms.io/projects/quine/c-sharp)
+- [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
+- [Quine in Dg](https://sampleprograms.io/projects/quine/dg)
+- [Quine in Euphoria](https://sampleprograms.io/projects/quine/euphoria)
+- [Quine in Go](https://sampleprograms.io/projects/quine/go)
+- [Quine in Haskell](https://sampleprograms.io/projects/quine/haskell)
+- [Quine in Java](https://sampleprograms.io/projects/quine/java)
+- [Quine in Javascript](https://sampleprograms.io/projects/quine/javascript)
+- [Quine in Kotlin](https://sampleprograms.io/projects/quine/kotlin)
+- [Quine in Mathematica](https://sampleprograms.io/projects/quine/mathematica)
+- [Quine in Perl](https://sampleprograms.io/projects/quine/perl)
+- [Quine in Php](https://sampleprograms.io/projects/quine/php)
+- [Quine in Python](https://sampleprograms.io/projects/quine/python)
+- [Quine in Ruby](https://sampleprograms.io/projects/quine/ruby)
+- [Quine in Rust](https://sampleprograms.io/projects/quine/rust)
 
 ***
 
@@ -65,13 +65,13 @@ Verify that the actual output matches the expected output
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Quick Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort)
+[<-- Previous Project (Quick Sort)](https://sampleprograms.io/projects/quick-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Remove All Whitespace) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace)
+[Next Project (Remove All Whitespace) -->](https://sampleprograms.io/projects/remove-all-whitespace)
 
 </div>
 

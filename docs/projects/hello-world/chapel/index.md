@@ -7,7 +7,7 @@ last-modified: 2018-11-22
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Chapel](https://rzuckerm.github.io/sample-programs-website-copy/languages/chapel) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Chapel](https://sampleprograms.io/languages/chapel) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ writeln("Hello, World!");
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Chapel](https://rzuckerm.github.io/sample-programs-website-copy/languages/chapel) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Chapel](https://sampleprograms.io/languages/chapel) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -51,7 +51,7 @@ int main (int argc, const char *argv[]){
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Tim Lange
 

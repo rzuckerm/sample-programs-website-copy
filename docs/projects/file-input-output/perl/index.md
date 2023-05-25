@@ -7,7 +7,7 @@ last-modified: 2019-10-15
 
 ---
 
-Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ Main();
 
 {% endraw %}
 
-[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
+[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Perl](https://sampleprograms.io/languages/perl) was written by:
 
 - Ewerton Queiroz
 

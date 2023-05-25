@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Grain](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/grain)
+- [Hello World in Grain](https://sampleprograms.io/projects/hello-world/grain)

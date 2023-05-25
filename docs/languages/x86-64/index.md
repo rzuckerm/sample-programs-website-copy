@@ -15,7 +15,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in X86 64](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/x86-64)
-- [Even Odd in X86 64](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/x86-64)
-- [Fizz Buzz in X86 64](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/x86-64)
-- [Hello World in X86 64](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/x86-64)
+- [Baklava in X86 64](https://sampleprograms.io/projects/baklava/x86-64)
+- [Even Odd in X86 64](https://sampleprograms.io/projects/even-odd/x86-64)
+- [Fizz Buzz in X86 64](https://sampleprograms.io/projects/fizz-buzz/x86-64)
+- [Hello World in X86 64](https://sampleprograms.io/projects/hello-world/x86-64)

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Eve](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/eve)
+- [Hello World in Eve](https://sampleprograms.io/projects/hello-world/eve)

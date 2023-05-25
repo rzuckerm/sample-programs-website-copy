@@ -100,17 +100,17 @@ Usage: please provide a list of profits and a list of deadlines
 
 ## Articles
 
-- [Job Sequencing in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/algol68)
-- [Job Sequencing in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/euphoria)
-- [Job Sequencing in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/go)
-- [Job Sequencing in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/haskell)
-- [Job Sequencing in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/java)
-- [Job Sequencing in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/javascript)
-- [Job Sequencing in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/kotlin)
-- [Job Sequencing in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/mathematica)
-- [Job Sequencing in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/php)
-- [Job Sequencing in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/python)
-- [Job Sequencing in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing/rust)
+- [Job Sequencing in Algol68](https://sampleprograms.io/projects/job-sequencing/algol68)
+- [Job Sequencing in Euphoria](https://sampleprograms.io/projects/job-sequencing/euphoria)
+- [Job Sequencing in Go](https://sampleprograms.io/projects/job-sequencing/go)
+- [Job Sequencing in Haskell](https://sampleprograms.io/projects/job-sequencing/haskell)
+- [Job Sequencing in Java](https://sampleprograms.io/projects/job-sequencing/java)
+- [Job Sequencing in Javascript](https://sampleprograms.io/projects/job-sequencing/javascript)
+- [Job Sequencing in Kotlin](https://sampleprograms.io/projects/job-sequencing/kotlin)
+- [Job Sequencing in Mathematica](https://sampleprograms.io/projects/job-sequencing/mathematica)
+- [Job Sequencing in Php](https://sampleprograms.io/projects/job-sequencing/php)
+- [Job Sequencing in Python](https://sampleprograms.io/projects/job-sequencing/python)
+- [Job Sequencing in Rust](https://sampleprograms.io/projects/job-sequencing/rust)
 
 ***
 
@@ -118,13 +118,13 @@ Usage: please provide a list of profits and a list of deadlines
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Insertion Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort)
+[<-- Previous Project (Insertion Sort)](https://sampleprograms.io/projects/insertion-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Josephus Problem) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/josephus-problem)
+[Next Project (Josephus Problem) -->](https://sampleprograms.io/projects/josephus-problem)
 
 </div>
 

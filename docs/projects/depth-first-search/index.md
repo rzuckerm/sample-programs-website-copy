@@ -111,13 +111,13 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 ## Articles
 
-- [Depth First Search in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/algol68)
-- [Depth First Search in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/c-plus-plus)
-- [Depth First Search in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/euphoria)
-- [Depth First Search in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/mathematica)
-- [Depth First Search in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/php)
-- [Depth First Search in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/python)
-- [Depth First Search in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search/rust)
+- [Depth First Search in Algol68](https://sampleprograms.io/projects/depth-first-search/algol68)
+- [Depth First Search in C++](https://sampleprograms.io/projects/depth-first-search/c-plus-plus)
+- [Depth First Search in Euphoria](https://sampleprograms.io/projects/depth-first-search/euphoria)
+- [Depth First Search in Mathematica](https://sampleprograms.io/projects/depth-first-search/mathematica)
+- [Depth First Search in Php](https://sampleprograms.io/projects/depth-first-search/php)
+- [Depth First Search in Python](https://sampleprograms.io/projects/depth-first-search/python)
+- [Depth First Search in Rust](https://sampleprograms.io/projects/depth-first-search/rust)
 
 ***
 
@@ -125,13 +125,13 @@ Usage: please provide a tree in an adjacency matrix form ("0, 1, 1, 0, 0, 1, 0, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Convex Hull)](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull)
+[<-- Previous Project (Convex Hull)](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Dijkstra) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra)
+[Next Project (Dijkstra) -->](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 

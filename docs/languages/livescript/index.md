@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Livescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/livescript)
+- [Hello World in Livescript](https://sampleprograms.io/projects/hello-world/livescript)

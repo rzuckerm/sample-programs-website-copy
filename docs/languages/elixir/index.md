@@ -64,11 +64,11 @@ we have to get to our implementation of Hello World in Elixir.
 
 ## Articles
 
-- [Baklava in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/elixir)
-- [Bubble Sort in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/elixir)
-- [Capitalize in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/elixir)
-- [Even Odd in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/elixir)
-- [Factorial in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/elixir)
-- [Fizz Buzz in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/elixir)
-- [Hello World in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/elixir)
-- [Longest Common Subsequence in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence/elixir)
+- [Baklava in Elixir](https://sampleprograms.io/projects/baklava/elixir)
+- [Bubble Sort in Elixir](https://sampleprograms.io/projects/bubble-sort/elixir)
+- [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
+- [Even Odd in Elixir](https://sampleprograms.io/projects/even-odd/elixir)
+- [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
+- [Fizz Buzz in Elixir](https://sampleprograms.io/projects/fizz-buzz/elixir)
+- [Hello World in Elixir](https://sampleprograms.io/projects/hello-world/elixir)
+- [Longest Common Subsequence in Elixir](https://sampleprograms.io/projects/longest-common-subsequence/elixir)

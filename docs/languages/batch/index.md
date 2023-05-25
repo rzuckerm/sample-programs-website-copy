@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Batch](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/batch)
+- [Hello World in Batch](https://sampleprograms.io/projects/hello-world/batch)

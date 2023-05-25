@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Ada](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/ada)
-- [Hello World in Ada](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/ada)
+- [Baklava in Ada](https://sampleprograms.io/projects/baklava/ada)
+- [Hello World in Ada](https://sampleprograms.io/projects/hello-world/ada)

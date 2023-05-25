@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ console.log("Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
 
 - Parker Johansen
 

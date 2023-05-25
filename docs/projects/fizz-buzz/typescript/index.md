@@ -7,7 +7,7 @@ last-modified: 2018-10-11
 
 ---
 
-Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Typescript](https://sampleprograms.io/languages/typescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ for (let i = 1; i <= 100; i++) {
 
 {% endraw %}
 
-[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Typescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/typescript) was written by:
+[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Typescript](https://sampleprograms.io/languages/typescript) was written by:
 
 - Nadir Fayazov
 - rzuckerm

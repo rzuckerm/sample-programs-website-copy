@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Hobbes](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/hobbes)
+- [Hello World in Hobbes](https://sampleprograms.io/projects/hello-world/hobbes)

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Chapel](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/chapel)
+- [Hello World in Chapel](https://sampleprograms.io/projects/hello-world/chapel)

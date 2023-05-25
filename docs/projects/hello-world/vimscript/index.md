@@ -7,7 +7,7 @@ last-modified: 2018-08-27
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ au BufEnter,BufReadPost * call Hello()
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/vimscript) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 

@@ -84,4 +84,4 @@ let's get to the solution!
 
 ## Articles
 
-- [Hello World in Elm](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/elm)
+- [Hello World in Elm](https://sampleprograms.io/projects/hello-world/elm)

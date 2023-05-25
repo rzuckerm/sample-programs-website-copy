@@ -7,7 +7,7 @@ last-modified: 2023-02-26
 
 ---
 
-Welcome to the [Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -103,7 +103,7 @@ printf(STDOUT, "%s\n", {longest})
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
+[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
 
 - rzuckerm
 

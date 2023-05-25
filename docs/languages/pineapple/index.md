@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Pineapple](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/pineapple)
+- [Hello World in Pineapple](https://sampleprograms.io/projects/hello-world/pineapple)

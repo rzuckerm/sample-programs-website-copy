@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Lily](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/lily)
+- [Hello World in Lily](https://sampleprograms.io/projects/hello-world/lily)

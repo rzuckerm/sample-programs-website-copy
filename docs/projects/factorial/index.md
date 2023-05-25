@@ -69,36 +69,36 @@ Usage: please input a non-negative integer
 
 ## Articles
 
-- [Factorial in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/algol68)
-- [Factorial in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/bash)
-- [Factorial in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/c)
-- [Factorial in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/c-sharp)
-- [Factorial in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/c-plus-plus)
-- [Factorial in Cobol](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/cobol)
-- [Factorial in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/coffeescript)
-- [Factorial in D](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/d)
-- [Factorial in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/elixir)
-- [Factorial in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/erlang)
-- [Factorial in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/euphoria)
-- [Factorial in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/fortran)
-- [Factorial in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/go)
-- [Factorial in Groovy](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/groovy)
-- [Factorial in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/haskell)
-- [Factorial in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/java)
-- [Factorial in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/javascript)
-- [Factorial in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/julia)
-- [Factorial in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/kotlin)
-- [Factorial in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/lisp)
-- [Factorial in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/lua)
-- [Factorial in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/mathematica)
-- [Factorial in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/matlab)
-- [Factorial in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/objective-c)
-- [Factorial in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/perl)
-- [Factorial in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/php)
-- [Factorial in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/python)
-- [Factorial in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/r)
-- [Factorial in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/rust)
-- [Factorial in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/scala)
+- [Factorial in Algol68](https://sampleprograms.io/projects/factorial/algol68)
+- [Factorial in Bash](https://sampleprograms.io/projects/factorial/bash)
+- [Factorial in C](https://sampleprograms.io/projects/factorial/c)
+- [Factorial in C#](https://sampleprograms.io/projects/factorial/c-sharp)
+- [Factorial in C++](https://sampleprograms.io/projects/factorial/c-plus-plus)
+- [Factorial in Cobol](https://sampleprograms.io/projects/factorial/cobol)
+- [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
+- [Factorial in D](https://sampleprograms.io/projects/factorial/d)
+- [Factorial in Elixir](https://sampleprograms.io/projects/factorial/elixir)
+- [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
+- [Factorial in Euphoria](https://sampleprograms.io/projects/factorial/euphoria)
+- [Factorial in Fortran](https://sampleprograms.io/projects/factorial/fortran)
+- [Factorial in Go](https://sampleprograms.io/projects/factorial/go)
+- [Factorial in Groovy](https://sampleprograms.io/projects/factorial/groovy)
+- [Factorial in Haskell](https://sampleprograms.io/projects/factorial/haskell)
+- [Factorial in Java](https://sampleprograms.io/projects/factorial/java)
+- [Factorial in Javascript](https://sampleprograms.io/projects/factorial/javascript)
+- [Factorial in Julia](https://sampleprograms.io/projects/factorial/julia)
+- [Factorial in Kotlin](https://sampleprograms.io/projects/factorial/kotlin)
+- [Factorial in Lisp](https://sampleprograms.io/projects/factorial/lisp)
+- [Factorial in Lua](https://sampleprograms.io/projects/factorial/lua)
+- [Factorial in Mathematica](https://sampleprograms.io/projects/factorial/mathematica)
+- [Factorial in Matlab](https://sampleprograms.io/projects/factorial/matlab)
+- [Factorial in Objective C](https://sampleprograms.io/projects/factorial/objective-c)
+- [Factorial in Perl](https://sampleprograms.io/projects/factorial/perl)
+- [Factorial in Php](https://sampleprograms.io/projects/factorial/php)
+- [Factorial in Python](https://sampleprograms.io/projects/factorial/python)
+- [Factorial in R](https://sampleprograms.io/projects/factorial/r)
+- [Factorial in Rust](https://sampleprograms.io/projects/factorial/rust)
+- [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
 
 ***
 
@@ -106,13 +106,13 @@ Usage: please input a non-negative integer
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Even Odd)](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd)
+[<-- Previous Project (Even Odd)](https://sampleprograms.io/projects/even-odd)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Fibonacci) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci)
+[Next Project (Fibonacci) -->](https://sampleprograms.io/projects/fibonacci)
 
 </div>
 

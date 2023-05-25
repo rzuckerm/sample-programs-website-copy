@@ -7,7 +7,7 @@ last-modified: 2018-09-17
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ for i in range(10, -1, -1):
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 

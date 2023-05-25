@@ -7,7 +7,7 @@ last-modified: 2023-04-09
 
 ---
 
-Welcome to the [Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ fn main() {
 
 {% endraw %}
 
-[Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

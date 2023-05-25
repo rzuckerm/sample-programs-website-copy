@@ -7,7 +7,7 @@ last-modified: 2018-04-27
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eve](https://rzuckerm.github.io/sample-programs-website-copy/languages/eve) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Eve](https://sampleprograms.io/languages/eve) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ bind @browser
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eve](https://rzuckerm.github.io/sample-programs-website-copy/languages/eve) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Eve](https://sampleprograms.io/languages/eve) was written by:
 
 - Jeremy Grifski
 

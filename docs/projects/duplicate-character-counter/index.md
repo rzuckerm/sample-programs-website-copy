@@ -63,15 +63,15 @@ Usage: please provide a string
 
 ## Articles
 
-- [Duplicate Character Counter in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/algol68)
-- [Duplicate Character Counter in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/c)
-- [Duplicate Character Counter in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/c-plus-plus)
-- [Duplicate Character Counter in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/euphoria)
-- [Duplicate Character Counter in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/java)
-- [Duplicate Character Counter in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/mathematica)
-- [Duplicate Character Counter in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/php)
-- [Duplicate Character Counter in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/python)
-- [Duplicate Character Counter in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter/rust)
+- [Duplicate Character Counter in Algol68](https://sampleprograms.io/projects/duplicate-character-counter/algol68)
+- [Duplicate Character Counter in C](https://sampleprograms.io/projects/duplicate-character-counter/c)
+- [Duplicate Character Counter in C++](https://sampleprograms.io/projects/duplicate-character-counter/c-plus-plus)
+- [Duplicate Character Counter in Euphoria](https://sampleprograms.io/projects/duplicate-character-counter/euphoria)
+- [Duplicate Character Counter in Java](https://sampleprograms.io/projects/duplicate-character-counter/java)
+- [Duplicate Character Counter in Mathematica](https://sampleprograms.io/projects/duplicate-character-counter/mathematica)
+- [Duplicate Character Counter in Php](https://sampleprograms.io/projects/duplicate-character-counter/php)
+- [Duplicate Character Counter in Python](https://sampleprograms.io/projects/duplicate-character-counter/python)
+- [Duplicate Character Counter in Rust](https://sampleprograms.io/projects/duplicate-character-counter/rust)
 
 ***
 
@@ -79,13 +79,13 @@ Usage: please provide a string
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Dijkstra)](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra)
+[<-- Previous Project (Dijkstra)](https://sampleprograms.io/projects/dijkstra)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Even Odd) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd)
+[Next Project (Even Odd) -->](https://sampleprograms.io/projects/even-odd)
 
 </div>
 

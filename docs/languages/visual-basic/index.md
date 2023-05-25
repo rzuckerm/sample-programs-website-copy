@@ -15,7 +15,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Bubble Sort in Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/visual-basic)
-- [Fizz Buzz in Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/visual-basic)
-- [Hello World in Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/visual-basic)
-- [Reverse String in Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/visual-basic)
+- [Bubble Sort in Visual Basic](https://sampleprograms.io/projects/bubble-sort/visual-basic)
+- [Fizz Buzz in Visual Basic](https://sampleprograms.io/projects/fizz-buzz/visual-basic)
+- [Hello World in Visual Basic](https://sampleprograms.io/projects/hello-world/visual-basic)
+- [Reverse String in Visual Basic](https://sampleprograms.io/projects/reverse-string/visual-basic)

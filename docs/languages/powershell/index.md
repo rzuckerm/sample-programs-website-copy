@@ -52,6 +52,6 @@ is it's now open-source and will now be called PowerShell Core as it runs on
 
 ## Articles
 
-- [Fizz Buzz in Powershell](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/powershell)
-- [Hello World in Powershell](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/powershell)
-- [Reverse String in Powershell](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/powershell)
+- [Fizz Buzz in Powershell](https://sampleprograms.io/projects/fizz-buzz/powershell)
+- [Hello World in Powershell](https://sampleprograms.io/projects/hello-world/powershell)
+- [Reverse String in Powershell](https://sampleprograms.io/projects/reverse-string/powershell)

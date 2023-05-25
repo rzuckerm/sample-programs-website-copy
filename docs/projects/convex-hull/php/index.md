@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Convex Hull](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -211,7 +211,7 @@ show_points($hull_points);
 
 {% endraw %}
 
-[Convex Hull](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Convex Hull](https://sampleprograms.io/projects/convex-hull) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

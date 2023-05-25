@@ -7,7 +7,7 @@ last-modified: 2020-10-01
 
 ---
 
-Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ int main (int argc, char *argv[])
 
 {% endraw %}
 
-[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) was written by:
+[Even Odd](https://sampleprograms.io/projects/even-odd) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - Siddhant
 

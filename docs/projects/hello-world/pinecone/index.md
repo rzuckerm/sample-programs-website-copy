@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Pinecone](https://rzuckerm.github.io/sample-programs-website-copy/languages/pinecone) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Pinecone](https://sampleprograms.io/languages/pinecone) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ print: "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Pinecone](https://rzuckerm.github.io/sample-programs-website-copy/languages/pinecone) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Pinecone](https://sampleprograms.io/languages/pinecone) was written by:
 
 - iwishiwasaneagle
 

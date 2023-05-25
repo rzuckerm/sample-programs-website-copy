@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Lucee](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/lucee)
+- [Hello World in Lucee](https://sampleprograms.io/projects/hello-world/lucee)

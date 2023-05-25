@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Formality](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/formality)
+- [Hello World in Formality](https://sampleprograms.io/projects/hello-world/formality)

@@ -7,7 +7,7 @@ last-modified: 2019-10-06
 
 ---
 
-Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ factorial(N,Acc) ->
 
 {% endraw %}
 
-[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) was written by:
+[Factorial](https://sampleprograms.io/projects/factorial) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
 
 - Mark Magahis
 

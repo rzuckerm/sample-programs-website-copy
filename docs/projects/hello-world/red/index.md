@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Red](https://rzuckerm.github.io/sample-programs-website-copy/languages/red) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Red](https://sampleprograms.io/languages/red) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ print "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Red](https://rzuckerm.github.io/sample-programs-website-copy/languages/red) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Red](https://sampleprograms.io/languages/red) was written by:
 
 - Jeremy Griffith
 

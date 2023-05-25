@@ -7,7 +7,7 @@ last-modified: 2018-06-15
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Odin](https://rzuckerm.github.io/sample-programs-website-copy/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Odin](https://sampleprograms.io/languages/odin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ main :: proc() {
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Odin](https://rzuckerm.github.io/sample-programs-website-copy/languages/odin) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Odin](https://sampleprograms.io/languages/odin) was written by:
 
 - Jeremy Grifski
 

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

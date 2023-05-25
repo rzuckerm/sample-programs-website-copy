@@ -7,7 +7,7 @@ last-modified: 2018-05-03
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Agda](https://rzuckerm.github.io/sample-programs-website-copy/languages/agda) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Agda](https://sampleprograms.io/languages/agda) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ module helloworld where
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Agda](https://rzuckerm.github.io/sample-programs-website-copy/languages/agda) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Agda](https://sampleprograms.io/languages/agda) was written by:
 
 - Jeremy Grifski
 

@@ -7,7 +7,7 @@ last-modified: 2018-08-28
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Orc](https://rzuckerm.github.io/sample-programs-website-copy/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Orc](https://sampleprograms.io/languages/orc) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ stop
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Orc](https://rzuckerm.github.io/sample-programs-website-copy/languages/orc) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Orc](https://sampleprograms.io/languages/orc) was written by:
 
 - Bassem Mohamed
 

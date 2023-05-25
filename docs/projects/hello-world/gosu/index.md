@@ -7,7 +7,7 @@ last-modified: 2020-11-03
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gosu](https://rzuckerm.github.io/sample-programs-website-copy/languages/gosu) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gosu](https://sampleprograms.io/languages/gosu) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ print("Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gosu](https://rzuckerm.github.io/sample-programs-website-copy/languages/gosu) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Gosu](https://sampleprograms.io/languages/gosu) was written by:
 
 - Prakhar Pande
 

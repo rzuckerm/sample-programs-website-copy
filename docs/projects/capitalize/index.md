@@ -77,37 +77,37 @@ Usage: please provide a string
 
 ## Articles
 
-- [Capitalize in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/algol68)
-- [Capitalize in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/bash)
-- [Capitalize in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/c)
-- [Capitalize in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/c-sharp)
-- [Capitalize in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/c-plus-plus)
-- [Capitalize in Clojure](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/clojure)
-- [Capitalize in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/dart)
-- [Capitalize in Elixir](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/elixir)
-- [Capitalize in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/euphoria)
-- [Capitalize in Fortran](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/fortran)
-- [Capitalize in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/go)
-- [Capitalize in Groovy](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/groovy)
-- [Capitalize in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/haskell)
-- [Capitalize in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/java)
-- [Capitalize in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/javascript)
-- [Capitalize in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/julia)
-- [Capitalize in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/kotlin)
-- [Capitalize in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/lisp)
-- [Capitalize in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/lua)
-- [Capitalize in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/mathematica)
-- [Capitalize in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/matlab)
-- [Capitalize in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/objective-c)
-- [Capitalize in Pascal](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/pascal)
-- [Capitalize in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/perl)
-- [Capitalize in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/php)
-- [Capitalize in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/python)
-- [Capitalize in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/r)
-- [Capitalize in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/ruby)
-- [Capitalize in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/rust)
-- [Capitalize in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/scala)
-- [Capitalize in Typescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/typescript)
+- [Capitalize in Algol68](https://sampleprograms.io/projects/capitalize/algol68)
+- [Capitalize in Bash](https://sampleprograms.io/projects/capitalize/bash)
+- [Capitalize in C](https://sampleprograms.io/projects/capitalize/c)
+- [Capitalize in C#](https://sampleprograms.io/projects/capitalize/c-sharp)
+- [Capitalize in C++](https://sampleprograms.io/projects/capitalize/c-plus-plus)
+- [Capitalize in Clojure](https://sampleprograms.io/projects/capitalize/clojure)
+- [Capitalize in Dart](https://sampleprograms.io/projects/capitalize/dart)
+- [Capitalize in Elixir](https://sampleprograms.io/projects/capitalize/elixir)
+- [Capitalize in Euphoria](https://sampleprograms.io/projects/capitalize/euphoria)
+- [Capitalize in Fortran](https://sampleprograms.io/projects/capitalize/fortran)
+- [Capitalize in Go](https://sampleprograms.io/projects/capitalize/go)
+- [Capitalize in Groovy](https://sampleprograms.io/projects/capitalize/groovy)
+- [Capitalize in Haskell](https://sampleprograms.io/projects/capitalize/haskell)
+- [Capitalize in Java](https://sampleprograms.io/projects/capitalize/java)
+- [Capitalize in Javascript](https://sampleprograms.io/projects/capitalize/javascript)
+- [Capitalize in Julia](https://sampleprograms.io/projects/capitalize/julia)
+- [Capitalize in Kotlin](https://sampleprograms.io/projects/capitalize/kotlin)
+- [Capitalize in Lisp](https://sampleprograms.io/projects/capitalize/lisp)
+- [Capitalize in Lua](https://sampleprograms.io/projects/capitalize/lua)
+- [Capitalize in Mathematica](https://sampleprograms.io/projects/capitalize/mathematica)
+- [Capitalize in Matlab](https://sampleprograms.io/projects/capitalize/matlab)
+- [Capitalize in Objective C](https://sampleprograms.io/projects/capitalize/objective-c)
+- [Capitalize in Pascal](https://sampleprograms.io/projects/capitalize/pascal)
+- [Capitalize in Perl](https://sampleprograms.io/projects/capitalize/perl)
+- [Capitalize in Php](https://sampleprograms.io/projects/capitalize/php)
+- [Capitalize in Python](https://sampleprograms.io/projects/capitalize/python)
+- [Capitalize in R](https://sampleprograms.io/projects/capitalize/r)
+- [Capitalize in Ruby](https://sampleprograms.io/projects/capitalize/ruby)
+- [Capitalize in Rust](https://sampleprograms.io/projects/capitalize/rust)
+- [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
+- [Capitalize in Typescript](https://sampleprograms.io/projects/capitalize/typescript)
 
 ***
 
@@ -115,13 +115,13 @@ Usage: please provide a string
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Bubble Sort)](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort)
+[<-- Previous Project (Bubble Sort)](https://sampleprograms.io/projects/bubble-sort)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Convex Hull) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull)
+[Next Project (Convex Hull) -->](https://sampleprograms.io/projects/convex-hull)
 
 </div>
 

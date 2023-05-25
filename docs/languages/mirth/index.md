@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Mirth](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/mirth)
+- [Hello World in Mirth](https://sampleprograms.io/projects/hello-world/mirth)

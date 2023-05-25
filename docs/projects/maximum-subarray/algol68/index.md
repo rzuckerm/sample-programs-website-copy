@@ -7,7 +7,7 @@ last-modified: 2023-02-06
 
 ---
 
-Welcome to the [Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -145,7 +145,7 @@ printf(($gl$, whole(max value, 0)))
 
 {% endraw %}
 
-[Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

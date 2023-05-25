@@ -7,7 +7,7 @@ last-modified: 2018-11-19
 
 ---
 
-Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Python](https://sampleprograms.io/languages/python) was written by:
 
 - Parker Johansen
 - rzuckerm

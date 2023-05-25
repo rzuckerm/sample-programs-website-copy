@@ -116,14 +116,14 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 ## Articles
 
-- [Dijkstra in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/algol68)
-- [Dijkstra in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/c-plus-plus)
-- [Dijkstra in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/euphoria)
-- [Dijkstra in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/javascript)
-- [Dijkstra in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/mathematica)
-- [Dijkstra in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/php)
-- [Dijkstra in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/python)
-- [Dijkstra in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra/rust)
+- [Dijkstra in Algol68](https://sampleprograms.io/projects/dijkstra/algol68)
+- [Dijkstra in C++](https://sampleprograms.io/projects/dijkstra/c-plus-plus)
+- [Dijkstra in Euphoria](https://sampleprograms.io/projects/dijkstra/euphoria)
+- [Dijkstra in Javascript](https://sampleprograms.io/projects/dijkstra/javascript)
+- [Dijkstra in Mathematica](https://sampleprograms.io/projects/dijkstra/mathematica)
+- [Dijkstra in Php](https://sampleprograms.io/projects/dijkstra/php)
+- [Dijkstra in Python](https://sampleprograms.io/projects/dijkstra/python)
+- [Dijkstra in Rust](https://sampleprograms.io/projects/dijkstra/rust)
 
 ***
 
@@ -131,13 +131,13 @@ Usage: please provide three inputs: a serialized matrix, a source node and a des
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Depth First Search)](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search)
+[<-- Previous Project (Depth First Search)](https://sampleprograms.io/projects/depth-first-search)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Duplicate Character Counter) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter)
+[Next Project (Duplicate Character Counter) -->](https://sampleprograms.io/projects/duplicate-character-counter)
 
 </div>
 

@@ -83,13 +83,13 @@ Usage: please provide a string
 
 ## Articles
 
-- [Remove All Whitespace in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/algol68)
-- [Remove All Whitespace in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/euphoria)
-- [Remove All Whitespace in Julia](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/julia)
-- [Remove All Whitespace in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/mathematica)
-- [Remove All Whitespace in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/php)
-- [Remove All Whitespace in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/python)
-- [Remove All Whitespace in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace/rust)
+- [Remove All Whitespace in Algol68](https://sampleprograms.io/projects/remove-all-whitespace/algol68)
+- [Remove All Whitespace in Euphoria](https://sampleprograms.io/projects/remove-all-whitespace/euphoria)
+- [Remove All Whitespace in Julia](https://sampleprograms.io/projects/remove-all-whitespace/julia)
+- [Remove All Whitespace in Mathematica](https://sampleprograms.io/projects/remove-all-whitespace/mathematica)
+- [Remove All Whitespace in Php](https://sampleprograms.io/projects/remove-all-whitespace/php)
+- [Remove All Whitespace in Python](https://sampleprograms.io/projects/remove-all-whitespace/python)
+- [Remove All Whitespace in Rust](https://sampleprograms.io/projects/remove-all-whitespace/rust)
 
 ***
 
@@ -97,13 +97,13 @@ Usage: please provide a string
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Quine)](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine)
+[<-- Previous Project (Quine)](https://sampleprograms.io/projects/quine)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Reverse String) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string)
+[Next Project (Reverse String) -->](https://sampleprograms.io/projects/reverse-string)
 
 </div>
 

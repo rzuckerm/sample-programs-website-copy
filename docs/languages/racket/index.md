@@ -42,6 +42,6 @@ of Racket, there's a module for that: typed/racket.
 
 ## Articles
 
-- [Fibonacci in Racket](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/racket)
-- [Fizz Buzz in Racket](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/racket)
-- [Hello World in Racket](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/racket)
+- [Fibonacci in Racket](https://sampleprograms.io/projects/fibonacci/racket)
+- [Fizz Buzz in Racket](https://sampleprograms.io/projects/fizz-buzz/racket)
+- [Hello World in Racket](https://sampleprograms.io/projects/hello-world/racket)

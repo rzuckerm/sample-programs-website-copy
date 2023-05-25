@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -112,7 +112,7 @@ int main(int argc, const char * argv[]) {
 
 {% endraw %}
 
-[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) was written by:
+[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
 
 - niftycode
 

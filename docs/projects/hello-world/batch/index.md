@@ -7,7 +7,7 @@ last-modified: 2020-04-23
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Batch](https://rzuckerm.github.io/sample-programs-website-copy/languages/batch) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Batch](https://sampleprograms.io/languages/batch) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ echo Hello world!
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Batch](https://rzuckerm.github.io/sample-programs-website-copy/languages/batch) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Batch](https://sampleprograms.io/languages/batch) was written by:
 
 - Jeremy Grifski
 

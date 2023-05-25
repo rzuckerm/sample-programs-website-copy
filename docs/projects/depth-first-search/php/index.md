@@ -7,7 +7,7 @@ last-modified: 2023-03-21
 
 ---
 
-Welcome to the [Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -195,7 +195,7 @@ printf("%s\n", (!is_null($node) ? "true" : "false"));
 
 {% endraw %}
 
-[Depth First Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Depth First Search](https://sampleprograms.io/projects/depth-first-search) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 

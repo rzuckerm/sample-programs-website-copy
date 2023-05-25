@@ -7,7 +7,7 @@ last-modified: 2023-04-17
 
 ---
 
-Welcome to the [Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -115,7 +115,7 @@ fn main() {
 
 {% endraw %}
 
-[Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
+[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Rust](https://sampleprograms.io/languages/rust) was written by:
 
 - rzuckerm
 

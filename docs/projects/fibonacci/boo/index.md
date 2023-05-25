@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Boo](https://rzuckerm.github.io/sample-programs-website-copy/languages/boo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Boo](https://sampleprograms.io/languages/boo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ for index as int, element in zip(range(5), fib()):
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Boo](https://rzuckerm.github.io/sample-programs-website-copy/languages/boo) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Boo](https://sampleprograms.io/languages/boo) was written by:
 
 - Subhayu Roy
 

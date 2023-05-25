@@ -7,7 +7,7 @@ last-modified: 2020-10-08
 
 ---
 
-Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ fun String.toIntArray() = split(",").mapNotNull { it.trim().toIntOrNull() }
 
 {% endraw %}
 
-[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) was written by:
+[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
 
 - Blake.Ke
 - smallblack9

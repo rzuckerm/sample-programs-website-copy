@@ -7,7 +7,7 @@ last-modified: 2023-01-17
 
 ---
 
-Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ Print[ToString[#0][]] &[]
 
 {% endraw %}
 
-[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
+[Quine](https://sampleprograms.io/projects/quine) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
 
 - Ben Hekster
 

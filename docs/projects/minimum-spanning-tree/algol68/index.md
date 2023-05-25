@@ -7,7 +7,7 @@ last-modified: 2023-02-06
 
 ---
 
-Welcome to the [Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -243,7 +243,7 @@ printf(($gl$, whole(total weight, 0)))
 
 {% endraw %}
 
-[Minimum Spanning Tree](https://rzuckerm.github.io/sample-programs-website-copy/projects/minimum-spanning-tree) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
+[Minimum Spanning Tree](https://sampleprograms.io/projects/minimum-spanning-tree) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
 
 - rzuckerm
 

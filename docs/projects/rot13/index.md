@@ -85,22 +85,22 @@ Usage: please provide a string to encrypt
 
 ## Articles
 
-- [Rot13 in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/algol68)
-- [Rot13 in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/c)
-- [Rot13 in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/c-sharp)
-- [Rot13 in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/dart)
-- [Rot13 in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/euphoria)
-- [Rot13 in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/go)
-- [Rot13 in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/haskell)
-- [Rot13 in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/java)
-- [Rot13 in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/javascript)
-- [Rot13 in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/kotlin)
-- [Rot13 in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/lua)
-- [Rot13 in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/mathematica)
-- [Rot13 in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/perl)
-- [Rot13 in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/php)
-- [Rot13 in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/python)
-- [Rot13 in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13/rust)
+- [Rot13 in Algol68](https://sampleprograms.io/projects/rot13/algol68)
+- [Rot13 in C](https://sampleprograms.io/projects/rot13/c)
+- [Rot13 in C#](https://sampleprograms.io/projects/rot13/c-sharp)
+- [Rot13 in Dart](https://sampleprograms.io/projects/rot13/dart)
+- [Rot13 in Euphoria](https://sampleprograms.io/projects/rot13/euphoria)
+- [Rot13 in Go](https://sampleprograms.io/projects/rot13/go)
+- [Rot13 in Haskell](https://sampleprograms.io/projects/rot13/haskell)
+- [Rot13 in Java](https://sampleprograms.io/projects/rot13/java)
+- [Rot13 in Javascript](https://sampleprograms.io/projects/rot13/javascript)
+- [Rot13 in Kotlin](https://sampleprograms.io/projects/rot13/kotlin)
+- [Rot13 in Lua](https://sampleprograms.io/projects/rot13/lua)
+- [Rot13 in Mathematica](https://sampleprograms.io/projects/rot13/mathematica)
+- [Rot13 in Perl](https://sampleprograms.io/projects/rot13/perl)
+- [Rot13 in Php](https://sampleprograms.io/projects/rot13/php)
+- [Rot13 in Python](https://sampleprograms.io/projects/rot13/python)
+- [Rot13 in Rust](https://sampleprograms.io/projects/rot13/rust)
 
 ***
 
@@ -108,13 +108,13 @@ Usage: please provide a string to encrypt
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Roman Numeral)](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral)
+[<-- Previous Project (Roman Numeral)](https://sampleprograms.io/projects/roman-numeral)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Selection Sort) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort)
+[Next Project (Selection Sort) -->](https://sampleprograms.io/projects/selection-sort)
 
 </div>
 

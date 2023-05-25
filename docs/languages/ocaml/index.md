@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Ocaml](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/ocaml)
+- [Hello World in Ocaml](https://sampleprograms.io/projects/hello-world/ocaml)

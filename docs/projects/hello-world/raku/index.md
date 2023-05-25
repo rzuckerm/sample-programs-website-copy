@@ -7,7 +7,7 @@ last-modified: 2020-11-02
 
 ---
 
-Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Raku](https://rzuckerm.github.io/sample-programs-website-copy/languages/raku) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Raku](https://sampleprograms.io/languages/raku) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ say 'Hello, World!'
 
 {% endraw %}
 
-[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Raku](https://rzuckerm.github.io/sample-programs-website-copy/languages/raku) was written by:
+[Hello World](https://sampleprograms.io/projects/hello-world) in [Raku](https://sampleprograms.io/languages/raku) was written by:
 
 - Jeremy Grifski
 

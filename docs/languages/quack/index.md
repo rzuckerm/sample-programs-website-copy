@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fibonacci in Quack](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/quack)
-- [Hello World in Quack](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/quack)
+- [Fibonacci in Quack](https://sampleprograms.io/projects/fibonacci/quack)
+- [Hello World in Quack](https://sampleprograms.io/projects/hello-world/quack)

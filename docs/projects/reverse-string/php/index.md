@@ -7,7 +7,7 @@ last-modified: 2019-07-15
 
 ---
 
-Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -23,7 +23,7 @@ if (count($argv) > 1) {
 
 {% endraw %}
 
-[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
+[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Php](https://sampleprograms.io/languages/php) was written by:
 
 - rzuckerm
 - samgan-khan

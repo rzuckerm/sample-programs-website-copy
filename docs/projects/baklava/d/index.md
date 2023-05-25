@@ -7,7 +7,7 @@ last-modified: 2018-09-17
 
 ---
 
-Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [D](https://rzuckerm.github.io/sample-programs-website-copy/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [D](https://sampleprograms.io/languages/d) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ void main (string[ ] args)
 
 {% endraw %}
 
-[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [D](https://rzuckerm.github.io/sample-programs-website-copy/languages/d) was written by:
+[Baklava](https://sampleprograms.io/projects/baklava) in [D](https://sampleprograms.io/languages/d) was written by:
 
 - Jeremy Grifski
 

@@ -15,6 +15,6 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fibonacci in Nim](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/nim)
-- [Hello World in Nim](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/nim)
-- [Reverse String in Nim](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/nim)
+- [Fibonacci in Nim](https://sampleprograms.io/projects/fibonacci/nim)
+- [Hello World in Nim](https://sampleprograms.io/projects/hello-world/nim)
+- [Reverse String in Nim](https://sampleprograms.io/projects/reverse-string/nim)

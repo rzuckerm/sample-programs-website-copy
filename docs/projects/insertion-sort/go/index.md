@@ -7,7 +7,7 @@ last-modified: 2019-03-15
 
 ---
 
-Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -80,7 +80,7 @@ func main() {
 
 {% endraw %}
 
-[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
+[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Go](https://sampleprograms.io/languages/go) was written by:
 
 - Parker Johansen
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Quack](https://rzuckerm.github.io/sample-programs-website-copy/languages/quack) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ fn fibonacci(n) :- fibonacci(n - 1) + fibonacci(n - 2)
 
 {% endraw %}
 
-[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Quack](https://rzuckerm.github.io/sample-programs-website-copy/languages/quack) was written by:
+[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Quack](https://sampleprograms.io/languages/quack) was written by:
 
 - Aneendya
 

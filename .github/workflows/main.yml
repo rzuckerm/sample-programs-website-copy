@@ -38,8 +38,17 @@ jobs:
             mv "$images$edit" "$images$filename" 
           done
       
-      - name: Publish docs
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v9 
         with:
-          folder: docs/_site
-          token: ${{ secrets.REPO_TOKEN }}
+          message: |
+            Generated Sample Programs website automatically
+            
+            
+            on-behalf-of: @TheRenegadeCoder <jeremy.grifski@therenegadecoder.com>
+          author_name: GitHub Actions
+          author_email: action@github.com
+
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }} # Leave this line unchanged

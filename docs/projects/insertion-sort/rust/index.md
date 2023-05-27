@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ fn main() {
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - Andrew Johnson
 - rzuckerm

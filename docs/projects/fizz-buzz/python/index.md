@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ for n in range(1, 101):
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - xPolar
 

@@ -7,7 +7,7 @@ last-modified: 2018-10-03
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ read_file filename
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) was written by:
 
 - Jeremy Grifski
 - Riley Martine

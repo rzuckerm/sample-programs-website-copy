@@ -7,7 +7,7 @@ last-modified: 2023-05-15
 
 ---
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Scala](https://sampleprograms.io/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ object Factorial
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Scala](https://sampleprograms.io/languages/scala) was written by:
+[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Scala](https://rzuckerm.github.io/sample-programs-website-copy/languages/scala) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -75,7 +75,7 @@ printf(($gl$, (n MOD 2 = 0 | "Even" | "Odd")))
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

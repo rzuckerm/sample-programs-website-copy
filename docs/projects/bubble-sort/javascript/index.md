@@ -7,7 +7,7 @@ last-modified: 2019-10-12
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -106,7 +106,7 @@ else {
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - Zachary Smith
 

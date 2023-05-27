@@ -7,7 +7,7 @@ last-modified: 2023-02-19
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ printf(STDOUT, "%s\n", {t})
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

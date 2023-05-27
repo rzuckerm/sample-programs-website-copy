@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Befunge](https://sampleprograms.io/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Befunge](https://sampleprograms.io/languages/befunge) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Befunge](https://rzuckerm.github.io/sample-programs-website-copy/languages/befunge) was written by:
 
 - Stuart Irwin
 

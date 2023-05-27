@@ -46,4 +46,4 @@ Now, that's awesome!
 
 ## Articles
 
-- [Hello World in Red](https://sampleprograms.io/projects/hello-world/red)
+- [Hello World in Red](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/red)

@@ -7,7 +7,7 @@ last-modified: 2019-10-28
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -32,7 +32,7 @@ diamondStarPattern(11)
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - bhaskar_datta
 - Jeremy Grifski

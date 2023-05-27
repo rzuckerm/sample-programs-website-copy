@@ -7,7 +7,7 @@ last-modified: 2023-01-27
 
 ---
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Algol68](https://sampleprograms.io/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -186,7 +186,7 @@ printf(($gl$, (index > 0 | "true" | "false")))
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Algol68](https://sampleprograms.io/languages/algol68) was written by:
+[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Algol68](https://rzuckerm.github.io/sample-programs-website-copy/languages/algol68) was written by:
 
 - rzuckerm
 

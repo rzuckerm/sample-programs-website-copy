@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fizz Buzz in Tex](https://sampleprograms.io/projects/fizz-buzz/tex)
-- [Hello World in Tex](https://sampleprograms.io/projects/hello-world/tex)
+- [Fizz Buzz in Tex](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/tex)
+- [Hello World in Tex](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/tex)

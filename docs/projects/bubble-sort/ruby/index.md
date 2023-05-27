@@ -7,7 +7,7 @@ last-modified: 2019-03-20
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -45,7 +45,7 @@ end
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

@@ -46,29 +46,29 @@ Verify that the actual output matches the expected output
 
 ## Articles
 
-- [File Input Output in Algol68](https://sampleprograms.io/projects/file-input-output/algol68)
-- [File Input Output in Bash](https://sampleprograms.io/projects/file-input-output/bash)
-- [File Input Output in C](https://sampleprograms.io/projects/file-input-output/c)
-- [File Input Output in C#](https://sampleprograms.io/projects/file-input-output/c-sharp)
-- [File Input Output in C++](https://sampleprograms.io/projects/file-input-output/c-plus-plus)
-- [File Input Output in Dg](https://sampleprograms.io/projects/file-input-output/dg)
-- [File Input Output in Euphoria](https://sampleprograms.io/projects/file-input-output/euphoria)
-- [File Input Output in Go](https://sampleprograms.io/projects/file-input-output/go)
-- [File Input Output in Haskell](https://sampleprograms.io/projects/file-input-output/haskell)
-- [File Input Output in Java](https://sampleprograms.io/projects/file-input-output/java)
-- [File Input Output in Javascript](https://sampleprograms.io/projects/file-input-output/javascript)
-- [File Input Output in Kotlin](https://sampleprograms.io/projects/file-input-output/kotlin)
-- [File Input Output in Lua](https://sampleprograms.io/projects/file-input-output/lua)
-- [File Input Output in Mathematica](https://sampleprograms.io/projects/file-input-output/mathematica)
-- [File Input Output in Matlab](https://sampleprograms.io/projects/file-input-output/matlab)
-- [File Input Output in Objective C](https://sampleprograms.io/projects/file-input-output/objective-c)
-- [File Input Output in Perl](https://sampleprograms.io/projects/file-input-output/perl)
-- [File Input Output in Php](https://sampleprograms.io/projects/file-input-output/php)
-- [File Input Output in Python](https://sampleprograms.io/projects/file-input-output/python)
-- [File Input Output in R](https://sampleprograms.io/projects/file-input-output/r)
-- [File Input Output in Ruby](https://sampleprograms.io/projects/file-input-output/ruby)
-- [File Input Output in Rust](https://sampleprograms.io/projects/file-input-output/rust)
-- [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
+- [File Input Output in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/algol68)
+- [File Input Output in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/bash)
+- [File Input Output in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/c)
+- [File Input Output in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/c-sharp)
+- [File Input Output in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/c-plus-plus)
+- [File Input Output in Dg](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/dg)
+- [File Input Output in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/euphoria)
+- [File Input Output in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/go)
+- [File Input Output in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/haskell)
+- [File Input Output in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/java)
+- [File Input Output in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/javascript)
+- [File Input Output in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/kotlin)
+- [File Input Output in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/lua)
+- [File Input Output in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/mathematica)
+- [File Input Output in Matlab](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/matlab)
+- [File Input Output in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/objective-c)
+- [File Input Output in Perl](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/perl)
+- [File Input Output in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/php)
+- [File Input Output in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/python)
+- [File Input Output in R](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/r)
+- [File Input Output in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/ruby)
+- [File Input Output in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/rust)
+- [File Input Output in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/scala)
 
 ***
 
@@ -76,13 +76,13 @@ Verify that the actual output matches the expected output
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Fibonacci)](https://sampleprograms.io/projects/fibonacci)
+[<-- Previous Project (Fibonacci)](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Fizz Buzz) -->](https://sampleprograms.io/projects/fizz-buzz)
+[Next Project (Fizz Buzz) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz)
 
 </div>
 

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Agda](https://sampleprograms.io/projects/hello-world/agda)
+- [Hello World in Agda](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/agda)

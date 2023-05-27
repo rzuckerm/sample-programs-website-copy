@@ -7,7 +7,7 @@ last-modified: 2019-10-08
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ echo ${1^}
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
 
 - Jeremy Grifski
 - lohxx

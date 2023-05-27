@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Modula2](https://sampleprograms.io/projects/hello-world/modula2)
+- [Hello World in Modula2](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/modula2)

@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Dale](https://sampleprograms.io/projects/hello-world/dale)
+- [Hello World in Dale](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/dale)

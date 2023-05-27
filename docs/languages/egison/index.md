@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Egison](https://sampleprograms.io/projects/hello-world/egison)
+- [Hello World in Egison](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/egison)

@@ -7,7 +7,7 @@ last-modified: 2018-10-20
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ baklava(maxWidth: 10)
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) was written by:
 
 - Mark Magahis
 

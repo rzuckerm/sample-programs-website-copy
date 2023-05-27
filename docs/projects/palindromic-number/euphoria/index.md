@@ -7,7 +7,7 @@ last-modified: 2023-02-19
 
 ---
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -92,7 +92,7 @@ puts(STDOUT, iif(is_palindromic_number(value), "true\n", "false\n"))
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

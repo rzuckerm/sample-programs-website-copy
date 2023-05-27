@@ -7,7 +7,7 @@ last-modified: 2019-10-10
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -43,7 +43,7 @@ Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [C
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) was written by:
 
 - Jeremy Grifski
 - pablocostass

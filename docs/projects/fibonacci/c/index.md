@@ -7,7 +7,7 @@ last-modified: 2018-10-04
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -67,7 +67,7 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [C](https://sampleprograms.io/languages/c) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Christoph Böhmwalder
 - Jeremy Grifski

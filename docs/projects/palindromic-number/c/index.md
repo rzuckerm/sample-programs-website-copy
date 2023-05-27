@@ -7,7 +7,7 @@ last-modified: 2021-11-01
 
 ---
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -78,7 +78,7 @@ int main(int argc, char **argv)
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [C](https://sampleprograms.io/languages/c) was written by:
+[Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Jeremy Grifski
 - rzuckerm

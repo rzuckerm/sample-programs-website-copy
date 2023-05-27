@@ -7,7 +7,7 @@ last-modified: 2022-10-05
 
 ---
 
-Welcome to the [Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -41,7 +41,7 @@ end
 
 {% endraw %}
 
-[Remove All Whitespace](https://sampleprograms.io/projects/remove-all-whitespace) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+[Remove All Whitespace](https://rzuckerm.github.io/sample-programs-website-copy/projects/remove-all-whitespace) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
 
 - smjalageri
 

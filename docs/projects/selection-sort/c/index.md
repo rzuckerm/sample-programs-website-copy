@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -142,7 +142,7 @@ void selectionSort(long arr[], size_t n)
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [C](https://sampleprograms.io/languages/c) was written by:
+[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - vidit624
 

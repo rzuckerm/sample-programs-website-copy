@@ -7,7 +7,7 @@ last-modified: 2018-08-28
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Vimscript](https://sampleprograms.io/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/vimscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ au BufEnter,BufReadPost * call FizzBuzz()
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Vimscript](https://sampleprograms.io/languages/vimscript) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Vimscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/vimscript) was written by:
 
 - Christoph Böhmwalder
 

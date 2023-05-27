@@ -7,7 +7,7 @@ last-modified: 2018-10-15
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Mojiscript](https://sampleprograms.io/languages/mojiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Mojiscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/mojiscript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -29,7 +29,7 @@ run ({ state, main })
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Mojiscript](https://sampleprograms.io/languages/mojiscript) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Mojiscript](https://rzuckerm.github.io/sample-programs-website-copy/languages/mojiscript) was written by:
 
 - Noah Nichols
 - Patrick Biffle

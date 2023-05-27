@@ -7,7 +7,7 @@ last-modified: 2019-10-11
 
 ---
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ end
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
 
 - sdmmssa
 

@@ -7,7 +7,7 @@ last-modified: 2018-10-03
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ print $ s%s
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Dg](https://sampleprograms.io/languages/dg) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Dg](https://rzuckerm.github.io/sample-programs-website-copy/languages/dg) was written by:
 
 - Riley Martine
 

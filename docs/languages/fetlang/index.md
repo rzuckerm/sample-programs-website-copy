@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Fetlang](https://sampleprograms.io/projects/hello-world/fetlang)
+- [Hello World in Fetlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/fetlang)

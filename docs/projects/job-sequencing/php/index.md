@@ -7,7 +7,7 @@ last-modified: 2019-10-28
 
 ---
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -61,7 +61,7 @@ function return_error()
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Jeremy Grifski
 - Kateryna Tokar

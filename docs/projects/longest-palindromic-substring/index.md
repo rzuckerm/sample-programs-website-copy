@@ -105,14 +105,14 @@ Usage: please provide a string that contains at least one palindrome
 
 ## Articles
 
-- [Longest Palindromic Substring in Algol68](https://sampleprograms.io/projects/longest-palindromic-substring/algol68)
-- [Longest Palindromic Substring in Euphoria](https://sampleprograms.io/projects/longest-palindromic-substring/euphoria)
-- [Longest Palindromic Substring in Go](https://sampleprograms.io/projects/longest-palindromic-substring/go)
-- [Longest Palindromic Substring in Javascript](https://sampleprograms.io/projects/longest-palindromic-substring/javascript)
-- [Longest Palindromic Substring in Mathematica](https://sampleprograms.io/projects/longest-palindromic-substring/mathematica)
-- [Longest Palindromic Substring in Php](https://sampleprograms.io/projects/longest-palindromic-substring/php)
-- [Longest Palindromic Substring in Python](https://sampleprograms.io/projects/longest-palindromic-substring/python)
-- [Longest Palindromic Substring in Rust](https://sampleprograms.io/projects/longest-palindromic-substring/rust)
+- [Longest Palindromic Substring in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/algol68)
+- [Longest Palindromic Substring in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/euphoria)
+- [Longest Palindromic Substring in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/go)
+- [Longest Palindromic Substring in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/javascript)
+- [Longest Palindromic Substring in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/mathematica)
+- [Longest Palindromic Substring in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/php)
+- [Longest Palindromic Substring in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/python)
+- [Longest Palindromic Substring in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring/rust)
 
 ***
 
@@ -120,13 +120,13 @@ Usage: please provide a string that contains at least one palindrome
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Longest Common Subsequence)](https://sampleprograms.io/projects/longest-common-subsequence)
+[<-- Previous Project (Longest Common Subsequence)](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Longest Word) -->](https://sampleprograms.io/projects/longest-word)
+[Next Project (Longest Word) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-word)
 
 </div>
 

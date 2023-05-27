@@ -7,7 +7,7 @@ last-modified: 2020-10-11
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Swift](https://sampleprograms.io/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -49,7 +49,7 @@ fibonacciProgram(number)
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Swift](https://sampleprograms.io/languages/swift) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Swift](https://rzuckerm.github.io/sample-programs-website-copy/languages/swift) was written by:
 
 - smallblack9
 

@@ -88,21 +88,21 @@ In order to keep things simple, we split up the testing as follows:
 
 ## Articles
 
-- [Roman Numeral in Algol68](https://sampleprograms.io/projects/roman-numeral/algol68)
-- [Roman Numeral in C](https://sampleprograms.io/projects/roman-numeral/c)
-- [Roman Numeral in C#](https://sampleprograms.io/projects/roman-numeral/c-sharp)
-- [Roman Numeral in C++](https://sampleprograms.io/projects/roman-numeral/c-plus-plus)
-- [Roman Numeral in Dart](https://sampleprograms.io/projects/roman-numeral/dart)
-- [Roman Numeral in Euphoria](https://sampleprograms.io/projects/roman-numeral/euphoria)
-- [Roman Numeral in Go](https://sampleprograms.io/projects/roman-numeral/go)
-- [Roman Numeral in Haskell](https://sampleprograms.io/projects/roman-numeral/haskell)
-- [Roman Numeral in Javascript](https://sampleprograms.io/projects/roman-numeral/javascript)
-- [Roman Numeral in Lua](https://sampleprograms.io/projects/roman-numeral/lua)
-- [Roman Numeral in Mathematica](https://sampleprograms.io/projects/roman-numeral/mathematica)
-- [Roman Numeral in Php](https://sampleprograms.io/projects/roman-numeral/php)
-- [Roman Numeral in Python](https://sampleprograms.io/projects/roman-numeral/python)
-- [Roman Numeral in Ruby](https://sampleprograms.io/projects/roman-numeral/ruby)
-- [Roman Numeral in Rust](https://sampleprograms.io/projects/roman-numeral/rust)
+- [Roman Numeral in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/algol68)
+- [Roman Numeral in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/c)
+- [Roman Numeral in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/c-sharp)
+- [Roman Numeral in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/c-plus-plus)
+- [Roman Numeral in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/dart)
+- [Roman Numeral in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/euphoria)
+- [Roman Numeral in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/go)
+- [Roman Numeral in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/haskell)
+- [Roman Numeral in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/javascript)
+- [Roman Numeral in Lua](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/lua)
+- [Roman Numeral in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/mathematica)
+- [Roman Numeral in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/php)
+- [Roman Numeral in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/python)
+- [Roman Numeral in Ruby](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/ruby)
+- [Roman Numeral in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral/rust)
 
 ***
 
@@ -110,13 +110,13 @@ In order to keep things simple, we split up the testing as follows:
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Reverse String)](https://sampleprograms.io/projects/reverse-string)
+[<-- Previous Project (Reverse String)](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Rot13) -->](https://sampleprograms.io/projects/rot13)
+[Next Project (Rot13) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13)
 
 </div>
 

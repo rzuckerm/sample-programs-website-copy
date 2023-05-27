@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Scheme](https://rzuckerm.github.io/sample-programs-website-copy/languages/scheme) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Scheme](https://sampleprograms.io/languages/scheme) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Scheme](https://rzuckerm.github.io/sample-programs-website-copy/languages/scheme) was written by:
 
 - Francisco Peters
 - Jeremy Grifski

@@ -7,7 +7,7 @@ last-modified: 2020-10-08
 
 ---
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ end
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
 
 - Nikhil Gupta
 

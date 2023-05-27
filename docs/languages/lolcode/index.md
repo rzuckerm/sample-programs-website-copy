@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Fizz Buzz in Lolcode](https://sampleprograms.io/projects/fizz-buzz/lolcode)
-- [Hello World in Lolcode](https://sampleprograms.io/projects/hello-world/lolcode)
+- [Fizz Buzz in Lolcode](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/lolcode)
+- [Hello World in Lolcode](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/lolcode)

@@ -7,7 +7,7 @@ last-modified: 2020-10-05
 
 ---
 
-Welcome to the [Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ echo $str
 
 {% endraw %}
 
-[Selection Sort](https://sampleprograms.io/projects/selection-sort) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+[Selection Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/selection-sort) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
 
 - Jan-Hendrik Ewers
 

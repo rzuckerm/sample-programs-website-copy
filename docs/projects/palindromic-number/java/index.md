@@ -7,7 +7,7 @@ last-modified: 2020-10-11
 
 ---
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ public class PalindromicNumber {
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Jeremy Grifski
 - smallblack9

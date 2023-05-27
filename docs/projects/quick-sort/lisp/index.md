@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -73,7 +73,7 @@ Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [L
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) was written by:
 
 - Palash Dubey
 - Parker Johansen

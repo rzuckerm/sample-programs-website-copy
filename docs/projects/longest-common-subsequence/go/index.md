@@ -7,7 +7,7 @@ last-modified: 2019-03-17
 
 ---
 
-Welcome to the [Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -89,7 +89,7 @@ func main() {
 
 {% endraw %}
 
-[Longest Common Subsequence](https://sampleprograms.io/projects/longest-common-subsequence) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Longest Common Subsequence](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-common-subsequence) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - Parker Johansen
 

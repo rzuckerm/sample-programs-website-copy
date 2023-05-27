@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Kotlin](https://sampleprograms.io/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ fun main (args: Array<String>)
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Kotlin](https://sampleprograms.io/languages/kotlin) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/languages/kotlin) was written by:
 
 - Jeremy Grifski
 

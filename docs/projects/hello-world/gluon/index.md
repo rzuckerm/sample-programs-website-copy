@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Gluon](https://sampleprograms.io/languages/gluon) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gluon](https://rzuckerm.github.io/sample-programs-website-copy/languages/gluon) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ io.print "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Gluon](https://sampleprograms.io/languages/gluon) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Gluon](https://rzuckerm.github.io/sample-programs-website-copy/languages/gluon) was written by:
 
 - Jeremy Grifski
 

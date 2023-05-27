@@ -66,4 +66,4 @@ Welcome to solidity!
 
 ## Articles
 
-- [Hello World in Solidity](https://sampleprograms.io/projects/hello-world/solidity)
+- [Hello World in Solidity](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/solidity)

@@ -7,7 +7,7 @@ last-modified: 2023-04-09
 
 ---
 
-Welcome to the [Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ fn main() {
 
 {% endraw %}
 
-[Maximum Subarray](https://sampleprograms.io/projects/maximum-subarray) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Maximum Subarray](https://rzuckerm.github.io/sample-programs-website-copy/projects/maximum-subarray) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

@@ -7,7 +7,7 @@ last-modified: 2020-12-07
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Bracmat](https://sampleprograms.io/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Bracmat](https://rzuckerm.github.io/sample-programs-website-copy/languages/bracmat) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ put$"Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Bracmat](https://sampleprograms.io/languages/bracmat) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Bracmat](https://rzuckerm.github.io/sample-programs-website-copy/languages/bracmat) was written by:
 
 - Shivam Choudhary
 

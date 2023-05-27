@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Smalltalk](https://sampleprograms.io/projects/hello-world/smalltalk)
+- [Hello World in Smalltalk](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/smalltalk)

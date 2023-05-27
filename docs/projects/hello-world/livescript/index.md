@@ -7,7 +7,7 @@ last-modified: 2019-10-10
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Livescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/livescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ console.log 'hello, world!'
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Livescript](https://sampleprograms.io/languages/livescript) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Livescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/livescript) was written by:
 
 - Michael Beebower
 

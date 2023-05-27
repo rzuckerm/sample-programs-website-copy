@@ -7,7 +7,7 @@ last-modified: 2019-10-06
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Erlang](https://sampleprograms.io/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ start(Number) when is_integer(Number) ->
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Erlang](https://sampleprograms.io/languages/erlang) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Erlang](https://rzuckerm.github.io/sample-programs-website-copy/languages/erlang) was written by:
 
 - Mark Magahis
 

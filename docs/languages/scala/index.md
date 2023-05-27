@@ -58,13 +58,13 @@ yet to implement Hello World in Scala.
 
 ## Articles
 
-- [Bubble Sort in Scala](https://sampleprograms.io/projects/bubble-sort/scala)
-- [Capitalize in Scala](https://sampleprograms.io/projects/capitalize/scala)
-- [Even Odd in Scala](https://sampleprograms.io/projects/even-odd/scala)
-- [Factorial in Scala](https://sampleprograms.io/projects/factorial/scala)
-- [Fibonacci in Scala](https://sampleprograms.io/projects/fibonacci/scala)
-- [File Input Output in Scala](https://sampleprograms.io/projects/file-input-output/scala)
-- [Fizz Buzz in Scala](https://sampleprograms.io/projects/fizz-buzz/scala)
-- [Hello World in Scala](https://sampleprograms.io/projects/hello-world/scala)
-- [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
-- [Reverse String in Scala](https://sampleprograms.io/projects/reverse-string/scala)
+- [Bubble Sort in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/scala)
+- [Capitalize in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize/scala)
+- [Even Odd in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/scala)
+- [Factorial in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/scala)
+- [Fibonacci in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/scala)
+- [File Input Output in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/scala)
+- [Fizz Buzz in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/scala)
+- [Hello World in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/scala)
+- [Quick Sort in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/scala)
+- [Reverse String in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/scala)

@@ -7,7 +7,7 @@ last-modified: 2020-12-14
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Logo](https://sampleprograms.io/languages/logo) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Logo](https://rzuckerm.github.io/sample-programs-website-copy/languages/logo) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ print [Hello World!]
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Logo](https://sampleprograms.io/languages/logo) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Logo](https://rzuckerm.github.io/sample-programs-website-copy/languages/logo) was written by:
 
 - Shivam Choudhary
 

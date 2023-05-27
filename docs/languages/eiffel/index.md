@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Eiffel](https://sampleprograms.io/projects/hello-world/eiffel)
+- [Hello World in Eiffel](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/eiffel)

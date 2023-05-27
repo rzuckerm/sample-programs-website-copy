@@ -7,7 +7,7 @@ last-modified: 2018-08-23
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-strin
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Brainfuck](https://sampleprograms.io/languages/brainfuck) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Brainfuck](https://rzuckerm.github.io/sample-programs-website-copy/languages/brainfuck) was written by:
 
 - Christoph Böhmwalder
 

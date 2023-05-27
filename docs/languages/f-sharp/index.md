@@ -15,5 +15,5 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in F#](https://sampleprograms.io/projects/baklava/f-sharp)
-- [Hello World in F#](https://sampleprograms.io/projects/hello-world/f-sharp)
+- [Baklava in F#](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/f-sharp)
+- [Hello World in F#](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/f-sharp)

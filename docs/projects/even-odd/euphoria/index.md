@@ -7,7 +7,7 @@ last-modified: 2023-02-19
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -75,7 +75,7 @@ puts(STDOUT, iif(is_even(value), "Even\n", "Odd\n"))
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

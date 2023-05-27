@@ -7,7 +7,7 @@ last-modified: 2018-10-18
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -35,7 +35,7 @@ class Fibonacci {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Groovy](https://sampleprograms.io/languages/groovy) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Groovy](https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy) was written by:
 
 - Jeremy Grifski
 - Loic Beylot

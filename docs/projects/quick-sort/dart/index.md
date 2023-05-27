@@ -7,7 +7,7 @@ last-modified: 2019-10-28
 
 ---
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -84,7 +84,7 @@ main(List<String> args) {
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) was written by:
 
 - Oxymora
 

@@ -7,7 +7,7 @@ last-modified: 2018-10-28
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -30,7 +30,7 @@ read_file
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
 
 - Parker Johansen
 

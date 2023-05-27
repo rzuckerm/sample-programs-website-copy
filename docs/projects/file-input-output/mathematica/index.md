@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ Module[{file = CreateFile["output.txt"]},
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -59,7 +59,7 @@ NSArray* mergeSort(NSArray* randomArray){
 
 {% endraw %}
 
-[Merge Sort](https://sampleprograms.io/projects/merge-sort) in [Objective C](https://sampleprograms.io/languages/objective-c) was written by:
+[Merge Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort) in [Objective C](https://rzuckerm.github.io/sample-programs-website-copy/languages/objective-c) was written by:
 
 - Harshal Singh Raushan
 

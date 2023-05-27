@@ -7,7 +7,7 @@ last-modified: 2021-05-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Scilab](https://sampleprograms.io/languages/scilab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Scilab](https://rzuckerm.github.io/sample-programs-website-copy/languages/scilab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ disp('Hello, World!')
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Scilab](https://sampleprograms.io/languages/scilab) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Scilab](https://rzuckerm.github.io/sample-programs-website-copy/languages/scilab) was written by:
 
 - Jeremy Grifski
 

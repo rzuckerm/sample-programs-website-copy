@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Haxe](https://sampleprograms.io/projects/hello-world/haxe)
+- [Hello World in Haxe](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/haxe)

@@ -7,7 +7,7 @@ last-modified: 2021-10-29
 
 ---
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Pascal](https://rzuckerm.github.io/sample-programs-website-copy/languages/pascal) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -76,7 +76,7 @@ end.  (* Begin Program Block*)
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Pascal](https://sampleprograms.io/languages/pascal) was written by:
+[Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Pascal](https://rzuckerm.github.io/sample-programs-website-copy/languages/pascal) was written by:
 
 - Jeremy Grifski
 - manasmithamn

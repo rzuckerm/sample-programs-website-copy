@@ -7,7 +7,7 @@ last-modified: 2022-10-03
 
 ---
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ fn main() {
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - Paolo Cretaro
 

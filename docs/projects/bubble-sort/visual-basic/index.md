@@ -7,7 +7,7 @@ last-modified: 2020-10-01
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/languages/visual-basic) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -72,7 +72,7 @@ End Module
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Visual Basic](https://sampleprograms.io/languages/visual-basic) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Visual Basic](https://rzuckerm.github.io/sample-programs-website-copy/languages/visual-basic) was written by:
 
 - rzuckerm
 - Thomas Braccia

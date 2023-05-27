@@ -7,7 +7,7 @@ last-modified: 2019-10-14
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Bash](https://sampleprograms.io/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ exit 0
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Bash](https://sampleprograms.io/languages/bash) was written by:
+[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Bash](https://rzuckerm.github.io/sample-programs-website-copy/languages/bash) was written by:
 
 - Jeremy Grifski
 - thetbl

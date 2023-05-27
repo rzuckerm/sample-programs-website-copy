@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ if ($num_args == 0) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
 
 - SourabhBadhya
 

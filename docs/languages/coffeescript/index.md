@@ -15,9 +15,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Coffeescript](https://sampleprograms.io/projects/baklava/coffeescript)
-- [Even Odd in Coffeescript](https://sampleprograms.io/projects/even-odd/coffeescript)
-- [Factorial in Coffeescript](https://sampleprograms.io/projects/factorial/coffeescript)
-- [Fizz Buzz in Coffeescript](https://sampleprograms.io/projects/fizz-buzz/coffeescript)
-- [Hello World in Coffeescript](https://sampleprograms.io/projects/hello-world/coffeescript)
-- [Quine in Coffeescript](https://sampleprograms.io/projects/quine/coffeescript)
+- [Baklava in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/coffeescript)
+- [Even Odd in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd/coffeescript)
+- [Factorial in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/coffeescript)
+- [Fizz Buzz in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/coffeescript)
+- [Hello World in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/coffeescript)
+- [Quine in Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine/coffeescript)

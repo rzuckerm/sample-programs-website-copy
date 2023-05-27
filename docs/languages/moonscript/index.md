@@ -35,4 +35,4 @@ MoonScript and Lua APIs called Lapis.
 
 ## Articles
 
-- [Hello World in Moonscript](https://sampleprograms.io/projects/hello-world/moonscript)
+- [Hello World in Moonscript](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/moonscript)

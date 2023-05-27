@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -266,7 +266,7 @@ printf("%d\n", $results[$dest]->dist);
 
 {% endraw %}
 
-[Dijkstra](https://sampleprograms.io/projects/dijkstra) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Dijkstra](https://rzuckerm.github.io/sample-programs-website-copy/projects/dijkstra) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - rzuckerm
 

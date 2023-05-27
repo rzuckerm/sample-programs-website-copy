@@ -7,7 +7,7 @@ last-modified: 2019-10-24
 
 ---
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Go](https://sampleprograms.io/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -95,7 +95,7 @@ func main() {
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Go](https://sampleprograms.io/languages/go) was written by:
+[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Go](https://rzuckerm.github.io/sample-programs-website-copy/languages/go) was written by:
 
 - Parker Johansen
 

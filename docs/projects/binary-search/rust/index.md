@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Binary Search](https://sampleprograms.io/projects/binary-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -93,7 +93,7 @@ fn main() {
 
 {% endraw %}
 
-[Binary Search](https://sampleprograms.io/projects/binary-search) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Binary Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/binary-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - Andrew Johnson
 - rzuckerm

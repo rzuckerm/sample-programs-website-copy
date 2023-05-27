@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -25,7 +25,7 @@ if (process.argv.length > 2) {
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - rzuckerm
 - Trever Shick

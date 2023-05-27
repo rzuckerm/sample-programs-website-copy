@@ -7,7 +7,7 @@ last-modified: 2023-01-21
 
 ---
 
-Welcome to the [Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -71,7 +71,7 @@ insertionSortMain["4 5 3"]
 
 {% endraw %}
 
-[Insertion Sort](https://sampleprograms.io/projects/insertion-sort) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Insertion Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/insertion-sort) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

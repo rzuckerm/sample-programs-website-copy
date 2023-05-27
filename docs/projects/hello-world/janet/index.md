@@ -7,7 +7,7 @@ last-modified: 2019-10-02
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Janet](https://sampleprograms.io/languages/janet) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Janet](https://rzuckerm.github.io/sample-programs-website-copy/languages/janet) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in 
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Janet](https://sampleprograms.io/languages/janet) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Janet](https://rzuckerm.github.io/sample-programs-website-copy/languages/janet) was written by:
 
 - Chris Nord
 

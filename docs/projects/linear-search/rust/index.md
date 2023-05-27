@@ -7,7 +7,7 @@ last-modified: 2023-04-09
 
 ---
 
-Welcome to the [Linear Search](https://sampleprograms.io/projects/linear-search) in [Rust](https://sampleprograms.io/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -65,7 +65,7 @@ fn main() {
 
 {% endraw %}
 
-[Linear Search](https://sampleprograms.io/projects/linear-search) in [Rust](https://sampleprograms.io/languages/rust) was written by:
+[Linear Search](https://rzuckerm.github.io/sample-programs-website-copy/projects/linear-search) in [Rust](https://rzuckerm.github.io/sample-programs-website-copy/languages/rust) was written by:
 
 - rzuckerm
 

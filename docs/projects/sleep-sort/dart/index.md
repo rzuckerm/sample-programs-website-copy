@@ -7,7 +7,7 @@ last-modified: 2019-10-07
 
 ---
 
-Welcome to the [Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -40,7 +40,7 @@ Future<List<int>> sleepsort(Iterable<int> input) async {
 
 {% endraw %}
 
-[Sleep Sort](https://sampleprograms.io/projects/sleep-sort) in [Dart](https://sampleprograms.io/languages/dart) was written by:
+[Sleep Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/sleep-sort) in [Dart](https://rzuckerm.github.io/sample-programs-website-copy/languages/dart) was written by:
 
 - agilob
 - Jeremy Grifski

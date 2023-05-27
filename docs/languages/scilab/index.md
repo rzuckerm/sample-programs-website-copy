@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Scilab](https://sampleprograms.io/projects/hello-world/scilab)
+- [Hello World in Scilab](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/scilab)

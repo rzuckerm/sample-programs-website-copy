@@ -7,7 +7,7 @@ last-modified: 2021-05-24
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Huginn](https://sampleprograms.io/languages/huginn) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Huginn](https://rzuckerm.github.io/sample-programs-website-copy/languages/huginn) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ main() {
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Huginn](https://sampleprograms.io/languages/huginn) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Huginn](https://rzuckerm.github.io/sample-programs-website-copy/languages/huginn) was written by:
 
 - Jeremy Grifski
 

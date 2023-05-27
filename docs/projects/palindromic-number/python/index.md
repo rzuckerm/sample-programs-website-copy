@@ -7,7 +7,7 @@ last-modified: 2021-10-27
 
 ---
 
-Welcome to the [Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
 {% endraw %}
 
-[Palindromic Number](https://sampleprograms.io/projects/palindromic-number) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Palindromic Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/palindromic-number) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Grifski
 - manasmithamn

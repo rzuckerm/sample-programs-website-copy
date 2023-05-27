@@ -7,7 +7,7 @@ last-modified: 2019-10-18
 
 ---
 
-Welcome to the [Quine](https://sampleprograms.io/projects/quine) in [Perl](https://sampleprograms.io/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ $s='$s=%c%s%c;printf($s,39,$s,39,10);%c';printf($s,39,$s,39,10);
 
 {% endraw %}
 
-[Quine](https://sampleprograms.io/projects/quine) in [Perl](https://sampleprograms.io/languages/perl) was written by:
+[Quine](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine) in [Perl](https://rzuckerm.github.io/sample-programs-website-copy/languages/perl) was written by:
 
 - Juan D Frias
 

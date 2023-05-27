@@ -7,7 +7,7 @@ last-modified: 2018-09-17
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Javascript](https://sampleprograms.io/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ for (var i = 10; -1 < i; i--)
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Javascript](https://sampleprograms.io/languages/javascript) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Javascript](https://rzuckerm.github.io/sample-programs-website-copy/languages/javascript) was written by:
 
 - Jeremy Grifski
 

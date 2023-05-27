@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Terra](https://sampleprograms.io/projects/hello-world/terra)
+- [Hello World in Terra](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/terra)

@@ -7,7 +7,7 @@ last-modified: 2020-10-29
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Fortran](https://sampleprograms.io/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -58,7 +58,7 @@ end program
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Fortran](https://sampleprograms.io/languages/fortran) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Fortran](https://rzuckerm.github.io/sample-programs-website-copy/languages/fortran) was written by:
 
 - Mallikarjuna S J
 

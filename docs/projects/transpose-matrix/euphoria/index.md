@@ -7,7 +7,7 @@ last-modified: 2023-02-27
 
 ---
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -170,7 +170,7 @@ show_matrix_as_list(matrix_t)
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

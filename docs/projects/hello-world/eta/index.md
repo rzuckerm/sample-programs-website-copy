@@ -7,7 +7,7 @@ last-modified: 2021-05-25
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Eta](https://sampleprograms.io/languages/eta) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eta](https://rzuckerm.github.io/sample-programs-website-copy/languages/eta) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ main = putStrLn "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Eta](https://sampleprograms.io/languages/eta) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Eta](https://rzuckerm.github.io/sample-programs-website-copy/languages/eta) was written by:
 
 - Jeremy Grifski
 

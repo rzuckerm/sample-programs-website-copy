@@ -7,7 +7,7 @@ last-modified: 2018-10-12
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Julia](https://sampleprograms.io/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ end
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Julia](https://sampleprograms.io/languages/julia) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Julia](https://rzuckerm.github.io/sample-programs-website-copy/languages/julia) was written by:
 
 - Michael King
 

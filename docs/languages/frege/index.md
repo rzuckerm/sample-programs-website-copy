@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Frege](https://sampleprograms.io/projects/hello-world/frege)
+- [Hello World in Frege](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/frege)

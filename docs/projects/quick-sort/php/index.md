@@ -7,7 +7,7 @@ last-modified: 2019-10-16
 
 ---
 
-Welcome to the [Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -55,7 +55,7 @@ echo implode(', ', $sorted_numbers);
 
 {% endraw %}
 
-[Quick Sort](https://sampleprograms.io/projects/quick-sort) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Quick Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Gurmeet
 - Jeremy Grifski

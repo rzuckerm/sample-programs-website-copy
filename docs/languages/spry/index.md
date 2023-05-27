@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Spry](https://sampleprograms.io/projects/hello-world/spry)
+- [Hello World in Spry](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/spry)

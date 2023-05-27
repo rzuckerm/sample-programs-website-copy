@@ -7,7 +7,7 @@ last-modified: 2020-10-07
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -27,7 +27,7 @@ for i in [10..0]
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) was written by:
 
 - Sayantan Sarkar
 

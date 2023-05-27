@@ -7,7 +7,7 @@ last-modified: 2020-10-06
 
 ---
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ print(roman_to_decimal(ARGV[0]))
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) was written by:
 
 - Allan Klaus
 

@@ -7,7 +7,7 @@ last-modified: 2019-01-03
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -36,7 +36,7 @@ for ($index = 1; $index <= $input; $index++) {
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - Carles Capell
 - Parker Johansen

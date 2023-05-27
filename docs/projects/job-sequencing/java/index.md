@@ -7,7 +7,7 @@ last-modified: 2019-10-17
 
 ---
 
-Welcome to the [Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -113,7 +113,7 @@ public class JobSequencing {
 
 {% endraw %}
 
-[Job Sequencing](https://sampleprograms.io/projects/job-sequencing) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Job Sequencing](https://rzuckerm.github.io/sample-programs-website-copy/projects/job-sequencing) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - JaneLiu
 - Jeremy Grifski

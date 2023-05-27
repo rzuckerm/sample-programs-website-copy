@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Flix](https://sampleprograms.io/projects/hello-world/flix)
+- [Hello World in Flix](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/flix)

@@ -7,7 +7,7 @@ last-modified: 2023-01-16
 
 ---
 
-Welcome to the [Capitalize](https://sampleprograms.io/projects/capitalize) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ capitalizeMain[""]
 
 {% endraw %}
 
-[Capitalize](https://sampleprograms.io/projects/capitalize) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Capitalize](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

@@ -7,7 +7,7 @@ last-modified: 2023-01-17
 
 ---
 
-Welcome to the [Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Mathematica](https://sampleprograms.io/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -54,7 +54,7 @@ transposeMain["3", "3", ""]
 
 {% endraw %}
 
-[Transpose Matrix](https://sampleprograms.io/projects/transpose-matrix) in [Mathematica](https://sampleprograms.io/languages/mathematica) was written by:
+[Transpose Matrix](https://rzuckerm.github.io/sample-programs-website-copy/projects/transpose-matrix) in [Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/languages/mathematica) was written by:
 
 - Ben Hekster
 

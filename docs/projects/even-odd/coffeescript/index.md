@@ -7,7 +7,7 @@ last-modified: 2020-10-09
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -28,7 +28,7 @@ console.log main(process.argv[2])
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Coffeescript](https://sampleprograms.io/languages/coffeescript) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Coffeescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/coffeescript) was written by:
 
 - Sayantan Sarkar
 

@@ -7,7 +7,7 @@ last-modified: 2019-10-31
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Racket](https://sampleprograms.io/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Racket](https://rzuckerm.github.io/sample-programs-website-copy/languages/racket) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -48,7 +48,7 @@ Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Rac
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Racket](https://sampleprograms.io/languages/racket) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Racket](https://rzuckerm.github.io/sample-programs-website-copy/languages/racket) was written by:
 
 - Jeremy Grifski
 - zafar hussain

@@ -7,7 +7,7 @@ last-modified: 2019-10-12
 
 ---
 
-Welcome to the [Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -53,7 +53,7 @@ Factorial.main(System.argv())
 
 {% endraw %}
 
-[Factorial](https://sampleprograms.io/projects/factorial) in [Elixir](https://sampleprograms.io/languages/elixir) was written by:
+[Factorial](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial) in [Elixir](https://rzuckerm.github.io/sample-programs-website-copy/languages/elixir) was written by:
 
 - Jeremy Grifski
 - Parker Johansen

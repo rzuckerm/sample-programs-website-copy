@@ -7,7 +7,7 @@ last-modified: 2018-10-21
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Abap](https://sampleprograms.io/languages/abap) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Abap](https://rzuckerm.github.io/sample-programs-website-copy/languages/abap) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -20,7 +20,7 @@ WRITE 'Hello, World!'.
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Abap](https://sampleprograms.io/languages/abap) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Abap](https://rzuckerm.github.io/sample-programs-website-copy/languages/abap) was written by:
 
 - Nils
 

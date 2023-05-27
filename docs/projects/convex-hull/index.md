@@ -84,13 +84,13 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 ## Articles
 
-- [Convex Hull in Algol68](https://sampleprograms.io/projects/convex-hull/algol68)
-- [Convex Hull in Euphoria](https://sampleprograms.io/projects/convex-hull/euphoria)
-- [Convex Hull in Java](https://sampleprograms.io/projects/convex-hull/java)
-- [Convex Hull in Mathematica](https://sampleprograms.io/projects/convex-hull/mathematica)
-- [Convex Hull in Php](https://sampleprograms.io/projects/convex-hull/php)
-- [Convex Hull in Python](https://sampleprograms.io/projects/convex-hull/python)
-- [Convex Hull in Rust](https://sampleprograms.io/projects/convex-hull/rust)
+- [Convex Hull in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/algol68)
+- [Convex Hull in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/euphoria)
+- [Convex Hull in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/java)
+- [Convex Hull in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/mathematica)
+- [Convex Hull in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/php)
+- [Convex Hull in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/python)
+- [Convex Hull in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/convex-hull/rust)
 
 ***
 
@@ -98,13 +98,13 @@ Usage: please provide at least 3 x and y coordinates as separate lists (e.g. "10
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Capitalize)](https://sampleprograms.io/projects/capitalize)
+[<-- Previous Project (Capitalize)](https://rzuckerm.github.io/sample-programs-website-copy/projects/capitalize)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Depth First Search) -->](https://sampleprograms.io/projects/depth-first-search)
+[Next Project (Depth First Search) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/depth-first-search)
 
 </div>
 

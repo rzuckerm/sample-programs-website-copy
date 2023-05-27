@@ -7,7 +7,7 @@ last-modified: 2019-10-24
 
 ---
 
-Welcome to the [Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -44,7 +44,7 @@ end
 
 {% endraw %}
 
-[Fibonacci](https://sampleprograms.io/projects/fibonacci) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+[Fibonacci](https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
 
 - Gabi Herman
 - gabiherman

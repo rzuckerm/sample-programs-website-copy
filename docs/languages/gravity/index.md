@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Gravity](https://sampleprograms.io/projects/hello-world/gravity)
+- [Hello World in Gravity](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/gravity)

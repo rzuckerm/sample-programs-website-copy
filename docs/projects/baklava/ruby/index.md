@@ -7,7 +7,7 @@ last-modified: 2018-09-17
 
 ---
 
-Welcome to the [Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](https://sampleprograms.io/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -26,7 +26,7 @@ end
 
 {% endraw %}
 
-[Baklava](https://sampleprograms.io/projects/baklava) in [Ruby](https://sampleprograms.io/languages/ruby) was written by:
+[Baklava](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava) in [Ruby](https://rzuckerm.github.io/sample-programs-website-copy/languages/ruby) was written by:
 
 - Jeremy Grifski
 

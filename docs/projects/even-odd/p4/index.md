@@ -7,7 +7,7 @@ last-modified: 2020-10-07
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [P4](https://sampleprograms.io/languages/p4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [P4](https://rzuckerm.github.io/sample-programs-website-copy/languages/p4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -203,7 +203,7 @@ MyDeparser()
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [P4](https://sampleprograms.io/languages/p4) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [P4](https://rzuckerm.github.io/sample-programs-website-copy/languages/p4) was written by:
 
 - Fabricio Rodríguez
 

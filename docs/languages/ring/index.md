@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Ring](https://sampleprograms.io/projects/hello-world/ring)
+- [Hello World in Ring](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/ring)

@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Goby](https://sampleprograms.io/languages/goby) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Goby](https://rzuckerm.github.io/sample-programs-website-copy/languages/goby) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -21,7 +21,7 @@ puts("Hello, World!")
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Goby](https://sampleprograms.io/languages/goby) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Goby](https://rzuckerm.github.io/sample-programs-website-copy/languages/goby) was written by:
 
 - Jeremy Griffith
 

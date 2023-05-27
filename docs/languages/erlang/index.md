@@ -15,9 +15,9 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Erlang](https://sampleprograms.io/projects/baklava/erlang)
-- [Bubble Sort in Erlang](https://sampleprograms.io/projects/bubble-sort/erlang)
-- [Factorial in Erlang](https://sampleprograms.io/projects/factorial/erlang)
-- [Fizz Buzz in Erlang](https://sampleprograms.io/projects/fizz-buzz/erlang)
-- [Hello World in Erlang](https://sampleprograms.io/projects/hello-world/erlang)
-- [Reverse String in Erlang](https://sampleprograms.io/projects/reverse-string/erlang)
+- [Baklava in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/erlang)
+- [Bubble Sort in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort/erlang)
+- [Factorial in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/factorial/erlang)
+- [Fizz Buzz in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/erlang)
+- [Hello World in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/erlang)
+- [Reverse String in Erlang](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/erlang)

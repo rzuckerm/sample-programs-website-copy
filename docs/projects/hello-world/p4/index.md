@@ -7,7 +7,7 @@ last-modified: 2020-10-03
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [P4](https://sampleprograms.io/languages/p4) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [P4](https://rzuckerm.github.io/sample-programs-website-copy/languages/p4) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -219,7 +219,7 @@ MyDeparser()
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [P4](https://sampleprograms.io/languages/p4) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [P4](https://rzuckerm.github.io/sample-programs-website-copy/languages/p4) was written by:
 
 - Fabricio R
 

@@ -7,7 +7,7 @@ last-modified: 2018-12-30
 
 ---
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [C#](https://sampleprograms.io/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -70,7 +70,7 @@ namespace SamplePrograms
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [C#](https://sampleprograms.io/languages/c-sharp) was written by:
+[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [C#](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-sharp) was written by:
 
 - Parker Johansen
 

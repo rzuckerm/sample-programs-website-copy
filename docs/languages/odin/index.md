@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Odin](https://sampleprograms.io/projects/hello-world/odin)
+- [Hello World in Odin](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/odin)

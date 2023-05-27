@@ -9,7 +9,7 @@ authors:
 
 ---
 
-Welcome to the [Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -24,7 +24,7 @@ if len(sys.argv) > 1:
 
 {% endraw %}
 
-[Reverse String](https://sampleprograms.io/projects/reverse-string) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Reverse String](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Griffith
 

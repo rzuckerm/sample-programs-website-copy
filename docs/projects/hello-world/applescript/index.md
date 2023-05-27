@@ -7,7 +7,7 @@ last-modified: 2018-04-26
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Applescript](https://sampleprograms.io/languages/applescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Applescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/applescript) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ display dialog "Hello, World!"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Applescript](https://sampleprograms.io/languages/applescript) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Applescript](https://rzuckerm.github.io/sample-programs-website-copy/languages/applescript) was written by:
 
 - Jeremy Grifski
 

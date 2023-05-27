@@ -7,7 +7,7 @@ last-modified: 2023-02-16
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Euphoria](https://sampleprograms.io/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -66,7 +66,7 @@ end if
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Euphoria](https://sampleprograms.io/languages/euphoria) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/languages/euphoria) was written by:
 
 - rzuckerm
 

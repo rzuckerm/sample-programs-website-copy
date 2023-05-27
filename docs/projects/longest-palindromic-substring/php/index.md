@@ -7,7 +7,7 @@ last-modified: 2023-03-27
 
 ---
 
-Welcome to the [Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Php](https://sampleprograms.io/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -99,7 +99,7 @@ echo "${longest}\n";
 
 {% endraw %}
 
-[Longest Palindromic Substring](https://sampleprograms.io/projects/longest-palindromic-substring) in [Php](https://sampleprograms.io/languages/php) was written by:
+[Longest Palindromic Substring](https://rzuckerm.github.io/sample-programs-website-copy/projects/longest-palindromic-substring) in [Php](https://rzuckerm.github.io/sample-programs-website-copy/languages/php) was written by:
 
 - rzuckerm
 

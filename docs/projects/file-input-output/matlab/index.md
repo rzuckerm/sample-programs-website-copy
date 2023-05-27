@@ -7,7 +7,7 @@ last-modified: 2020-10-02
 
 ---
 
-Welcome to the [File Input Output](https://sampleprograms.io/projects/file-input-output) in [Matlab](https://sampleprograms.io/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -37,7 +37,7 @@ fprintf(a)
 
 {% endraw %}
 
-[File Input Output](https://sampleprograms.io/projects/file-input-output) in [Matlab](https://sampleprograms.io/languages/matlab) was written by:
+[File Input Output](https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output) in [Matlab](https://rzuckerm.github.io/sample-programs-website-copy/languages/matlab) was written by:
 
 - iwishiwasaneagle
 

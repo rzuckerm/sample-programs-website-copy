@@ -7,7 +7,7 @@ last-modified: 2019-10-28
 
 ---
 
-Welcome to the [Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -64,7 +64,7 @@ io.write("\n")
 
 {% endraw %}
 
-[Bubble Sort](https://sampleprograms.io/projects/bubble-sort) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Bubble Sort](https://rzuckerm.github.io/sample-programs-website-copy/projects/bubble-sort) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - Jeremy Grifski
 - jketterer

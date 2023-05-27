@@ -119,25 +119,25 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 ## Articles
 
-- [Quick Sort in Algol68](https://sampleprograms.io/projects/quick-sort/algol68)
-- [Quick Sort in Bash](https://sampleprograms.io/projects/quick-sort/bash)
-- [Quick Sort in C](https://sampleprograms.io/projects/quick-sort/c)
-- [Quick Sort in C#](https://sampleprograms.io/projects/quick-sort/c-sharp)
-- [Quick Sort in C++](https://sampleprograms.io/projects/quick-sort/c-plus-plus)
-- [Quick Sort in Dart](https://sampleprograms.io/projects/quick-sort/dart)
-- [Quick Sort in Euphoria](https://sampleprograms.io/projects/quick-sort/euphoria)
-- [Quick Sort in Go](https://sampleprograms.io/projects/quick-sort/go)
-- [Quick Sort in Haskell](https://sampleprograms.io/projects/quick-sort/haskell)
-- [Quick Sort in Java](https://sampleprograms.io/projects/quick-sort/java)
-- [Quick Sort in Javascript](https://sampleprograms.io/projects/quick-sort/javascript)
-- [Quick Sort in Kotlin](https://sampleprograms.io/projects/quick-sort/kotlin)
-- [Quick Sort in Lisp](https://sampleprograms.io/projects/quick-sort/lisp)
-- [Quick Sort in Mathematica](https://sampleprograms.io/projects/quick-sort/mathematica)
-- [Quick Sort in Objective C](https://sampleprograms.io/projects/quick-sort/objective-c)
-- [Quick Sort in Php](https://sampleprograms.io/projects/quick-sort/php)
-- [Quick Sort in Python](https://sampleprograms.io/projects/quick-sort/python)
-- [Quick Sort in Rust](https://sampleprograms.io/projects/quick-sort/rust)
-- [Quick Sort in Scala](https://sampleprograms.io/projects/quick-sort/scala)
+- [Quick Sort in Algol68](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/algol68)
+- [Quick Sort in Bash](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/bash)
+- [Quick Sort in C](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/c)
+- [Quick Sort in C#](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/c-sharp)
+- [Quick Sort in C++](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/c-plus-plus)
+- [Quick Sort in Dart](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/dart)
+- [Quick Sort in Euphoria](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/euphoria)
+- [Quick Sort in Go](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/go)
+- [Quick Sort in Haskell](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/haskell)
+- [Quick Sort in Java](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/java)
+- [Quick Sort in Javascript](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/javascript)
+- [Quick Sort in Kotlin](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/kotlin)
+- [Quick Sort in Lisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/lisp)
+- [Quick Sort in Mathematica](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/mathematica)
+- [Quick Sort in Objective C](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/objective-c)
+- [Quick Sort in Php](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/php)
+- [Quick Sort in Python](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/python)
+- [Quick Sort in Rust](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/rust)
+- [Quick Sort in Scala](https://rzuckerm.github.io/sample-programs-website-copy/projects/quick-sort/scala)
 
 ***
 
@@ -145,13 +145,13 @@ Usage: please provide a list of at least two integers to sort in the format "1, 
 
 <div id="prev" markdown="1">
 
-[<-- Previous Project (Prime Number)](https://sampleprograms.io/projects/prime-number)
+[<-- Previous Project (Prime Number)](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number)
 
 </div>
 
 <div id="next" markdown="1">
 
-[Next Project (Quine) -->](https://sampleprograms.io/projects/quine)
+[Next Project (Quine) -->](https://rzuckerm.github.io/sample-programs-website-copy/projects/quine)
 
 </div>
 

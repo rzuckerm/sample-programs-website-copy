@@ -7,7 +7,7 @@ last-modified: 2019-10-27
 
 ---
 
-Welcome to the [Prime Number](https://sampleprograms.io/projects/prime-number) in [Lua](https://sampleprograms.io/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -52,7 +52,7 @@ isPrime(arg[1])
 
 {% endraw %}
 
-[Prime Number](https://sampleprograms.io/projects/prime-number) in [Lua](https://sampleprograms.io/languages/lua) was written by:
+[Prime Number](https://rzuckerm.github.io/sample-programs-website-copy/projects/prime-number) in [Lua](https://rzuckerm.github.io/sample-programs-website-copy/languages/lua) was written by:
 
 - bhaskar_datta
 - Jeremy Grifski

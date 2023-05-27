@@ -7,7 +7,7 @@ last-modified: 2020-10-11
 
 ---
 
-Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp](https://sampleprograms.io/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -34,7 +34,7 @@ Welcome to the [Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp]
 
 {% endraw %}
 
-[Even Odd](https://sampleprograms.io/projects/even-odd) in [Lisp](https://sampleprograms.io/languages/lisp) was written by:
+[Even Odd](https://rzuckerm.github.io/sample-programs-website-copy/projects/even-odd) in [Lisp](https://rzuckerm.github.io/sample-programs-website-copy/languages/lisp) was written by:
 
 - Parker Johansen
 

@@ -7,7 +7,7 @@ last-modified: 2022-10-03
 
 ---
 
-Welcome to the Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the Duplicate [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)haracter [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)ounter in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -63,7 +63,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-Duplicate [C](https://sampleprograms.io/languages/c)haracter [C](https://sampleprograms.io/languages/c)ounter in [C](https://sampleprograms.io/languages/c) was written by:
+Duplicate [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)haracter [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c)ounter in [C](https://rzuckerm.github.io/sample-programs-website-copy/languages/c) was written by:
 
 - Vipin Yadav
 

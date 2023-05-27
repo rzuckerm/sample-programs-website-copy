@@ -15,7 +15,7 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Baklava in Solisp](https://sampleprograms.io/projects/baklava/solisp)
-- [Fizz Buzz in Solisp](https://sampleprograms.io/projects/fizz-buzz/solisp)
-- [Hello World in Solisp](https://sampleprograms.io/projects/hello-world/solisp)
-- [Reverse String in Solisp](https://sampleprograms.io/projects/reverse-string/solisp)
+- [Baklava in Solisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/solisp)
+- [Fizz Buzz in Solisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz/solisp)
+- [Hello World in Solisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/solisp)
+- [Reverse String in Solisp](https://rzuckerm.github.io/sample-programs-website-copy/projects/reverse-string/solisp)

@@ -7,7 +7,7 @@ last-modified: 2020-10-04
 
 ---
 
-Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clojure](https://sampleprograms.io/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -39,7 +39,7 @@ Welcome to the [Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clo
 
 {% endraw %}
 
-[Fizz Buzz](https://sampleprograms.io/projects/fizz-buzz) in [Clojure](https://sampleprograms.io/languages/clojure) was written by:
+[Fizz Buzz](https://rzuckerm.github.io/sample-programs-website-copy/projects/fizz-buzz) in [Clojure](https://rzuckerm.github.io/sample-programs-website-copy/languages/clojure) was written by:
 
 - Cristiano Lopes
 

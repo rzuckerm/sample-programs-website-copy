@@ -7,7 +7,7 @@ last-modified: 2022-05-14
 
 ---
 
-Welcome to the [Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Python](https://sampleprograms.io/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -38,7 +38,7 @@ else:
 
 {% endraw %}
 
-[Duplicate Character Counter](https://sampleprograms.io/projects/duplicate-character-counter) in [Python](https://sampleprograms.io/languages/python) was written by:
+[Duplicate Character Counter](https://rzuckerm.github.io/sample-programs-website-copy/projects/duplicate-character-counter) in [Python](https://rzuckerm.github.io/sample-programs-website-copy/languages/python) was written by:
 
 - Jeremy Grifski
 

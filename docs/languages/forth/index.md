@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Forth](https://sampleprograms.io/projects/hello-world/forth)
+- [Hello World in Forth](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/forth)

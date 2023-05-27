@@ -7,7 +7,7 @@ last-modified: 2020-10-09
 
 ---
 
-Welcome to the [Hello World](https://sampleprograms.io/projects/hello-world) in [Baik](https://sampleprograms.io/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Baik](https://rzuckerm.github.io/sample-programs-website-copy/languages/baik) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -19,7 +19,7 @@ tulis "Hello World"
 
 {% endraw %}
 
-[Hello World](https://sampleprograms.io/projects/hello-world) in [Baik](https://sampleprograms.io/languages/baik) was written by:
+[Hello World](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world) in [Baik](https://rzuckerm.github.io/sample-programs-website-copy/languages/baik) was written by:
 
 - Fawaz AR
 

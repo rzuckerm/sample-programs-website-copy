@@ -7,7 +7,7 @@ last-modified: 2019-10-27
 
 ---
 
-Welcome to the [Rot13](https://sampleprograms.io/projects/rot13) in [Java](https://sampleprograms.io/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -47,7 +47,7 @@ public class Rot13 {
 
 {% endraw %}
 
-[Rot13](https://sampleprograms.io/projects/rot13) in [Java](https://sampleprograms.io/languages/java) was written by:
+[Rot13](https://rzuckerm.github.io/sample-programs-website-copy/projects/rot13) in [Java](https://rzuckerm.github.io/sample-programs-website-copy/languages/java) was written by:
 
 - Jeremy Grifski
 - jsonW0

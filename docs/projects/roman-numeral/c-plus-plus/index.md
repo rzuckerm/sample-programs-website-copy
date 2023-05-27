@@ -7,7 +7,7 @@ last-modified: 2019-10-21
 
 ---
 
-Welcome to the [Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C++](https://sampleprograms.io/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
+Welcome to the [Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) page! Here, you'll find the source code for this program as well as a description of how the program works.
 
 ## Current Solution
 
@@ -74,7 +74,7 @@ int main(int argc, char *argv[])
 
 {% endraw %}
 
-[Roman Numeral](https://sampleprograms.io/projects/roman-numeral) in [C++](https://sampleprograms.io/languages/c-plus-plus) was written by:
+[Roman Numeral](https://rzuckerm.github.io/sample-programs-website-copy/projects/roman-numeral) in [C++](https://rzuckerm.github.io/sample-programs-website-copy/languages/c-plus-plus) was written by:
 
 - Jeremy Grifski
 - Sailok Chinta

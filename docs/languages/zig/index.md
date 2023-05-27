@@ -15,4 +15,4 @@ No 'Description' section available. [Please consider contributing](https://githu
 
 ## Articles
 
-- [Hello World in Zig](https://sampleprograms.io/projects/hello-world/zig)
+- [Hello World in Zig](https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/zig)

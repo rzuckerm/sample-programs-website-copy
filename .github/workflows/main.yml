@@ -42,19 +42,23 @@ jobs:
             mv "$images$edit" "$images$filename" 
           done
 
-      - uses: actions/cache@v2
+      - name: Cache Gems
+        uses: actions/cache@v2
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - uses: actions/jekyll-build-pages@v1
+      - name: Build Webpages with Jekyll
+        uses: actions/jekyll-build-pages@v1
         with:
           source: docs/
           destination: docs/_site
           token: ${{ secrets.REPO_TOKEN }}
 
-      - uses: actions/upload-artifact@v3
+      - name: Upload Webpages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: docs/_site
+          folder: docs/_site
+          token: ${{ secrets.REPO_TOKEN }}

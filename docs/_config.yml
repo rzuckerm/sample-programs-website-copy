@@ -6,10 +6,10 @@ show_downloads: true
 
 # Data
 image_path: /assets/images/
-title_image: sample-programs-in-every-language-featured-image.JPEG
+title_image: sample-programs-in-every-language.jpg
 
 # Repo metadata
-repository: TheRenegadeCoder/sample-programs-website
+repository: rzuckerm/sample-programs-website-copy
 
 # File exclusion settings
 exclude: ["CNAME", "Gemfile", "templates", "vendor/bundle"]
@@ -23,9 +23,9 @@ plugins:
   - jekyll-sitemap # See https://github.com/jekyll/jekyll-sitemap
 
 github:
-  zip_url: https://github.com/TheRenegadeCoder/sample-programs-website/zipball/main
-  tar_url: https://github.com/TheRenegadeCoder/sample-programs-website/tarball/main
-  repository_url: https://github.com/TheRenegadeCoder/sample-programs-website
+  zip_url: https://github.com/rzuckerm/sample-programs-website-copy/zipball/main
+  tar_url: https://github.com/rzuckerm/sample-programs-website-copy/tarball/main
+  repository_url: https://github.com/rzuckerm/sample-programs-website-copy
 
 # Markdown settings
 kramdown:

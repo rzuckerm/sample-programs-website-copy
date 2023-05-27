@@ -53,7 +53,7 @@ jobs:
         with:
           source: docs/
           destination: docs/_site
-          token: "{{ secrets.REPO_TOKEN }}"
+          token: ${{ secrets.REPO_TOKEN }}
 
       - uses: actions/upload-artifact@v3
         with:

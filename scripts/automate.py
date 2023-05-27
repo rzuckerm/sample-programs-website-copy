@@ -180,7 +180,7 @@ def _generate_sample_program_index(program: subete.SampleProgram, path: pathlib.
                 [
                     snakemd.Inline(
                         f"{program.project_name()} in {program.language_name()}",
-                        image="/" + "/".join(image_dest.parts[1:])
+                        image=program.project().requirements_url() + "/" + "/".join(image_dest.parts[3:])
                     )
                 ]
             )

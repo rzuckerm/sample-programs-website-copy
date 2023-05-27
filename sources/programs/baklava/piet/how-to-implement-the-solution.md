@@ -67,10 +67,10 @@ White cells are considered to be no-ops (do-nothing instructions).
 The program is divided into a number parts which are detailed in subsequent
 sections of this article. The parts are annotated with letters as follows:
 
-![Annotated Baklava in Piet](/assets/images/projects/baklava/piet/baklava-annotated.png)
+![Annotated Baklava in Piet](https://sampleprograms.io/assets/images/projects/baklava/piet/baklava-annotated.png)
 
 Click
-<a href="/assets/images/projects/baklava/piet/baklava-annotated.png" target="_blank">here</a>
+<a href="https://sampleprograms.io/assets/images/projects/baklava/piet/baklava-annotated.png" target="_blank">here</a>
 to open the diagram in a separate page so that you can refer back to it.
 
 ### Output Top 10 Lines (A thru G)

@@ -25,6 +25,10 @@ jobs:
       - name: Generate Webpages
         run: python scripts/automate.py
 
+      - name: Rewrite URLs
+        run: |
+          find docs/ -name '*.md' -exec sed -i 's!https://sampleprograms\.io/!https://rzuckerm.github.io/sample-programs-website-copy/!g' '{}' ';'
+
       - name: Generate Images
         run: |
           sources=sources/images/
@@ -37,18 +41,16 @@ jobs:
             edit=$(cd "$images" && ls -t | head -n1)
             mv "$images$edit" "$images$filename" 
           done
-      
-      - name: Commit Changes
-        uses: EndBug/add-and-commit@v9 
-        with:
-          message: |
-            Generated Sample Programs website automatically
-            
-            
-            on-behalf-of: @TheRenegadeCoder <jeremy.grifski@therenegadecoder.com>
-          author_name: GitHub Actions
-          author_email: action@github.com
 
-        env:
-          # This is necessary in order to push a commit to the repo
-          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }} # Leave this line unchanged
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - uses: helaili/jekyll-action@v2
+        with:
+          token: ${{ secrets.REPO_TOKEN }}
+          target_branch: 'gh-pages'
+          jekyll_src: 'docs'

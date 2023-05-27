@@ -54,3 +54,5 @@ jobs:
           token: ${{ secrets.REPO_TOKEN }}
           target_branch: 'gh-pages'
           jekyll_src: 'docs'
+        env:
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}

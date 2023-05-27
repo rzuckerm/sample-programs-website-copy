@@ -49,10 +49,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - uses: helaili/jekyll-action@v2
+      - uses: actions/jekyll-build-pages@v1
         with:
-          token: ${{ secrets.REPO_TOKEN }}
-          target_branch: 'gh-pages'
-          jekyll_src: 'docs'
-        env:
-          JEKYLL_GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+          source: docs/
+          destination: docs/_site
+          token: "{{ secrets.REPO_TOKEN }}"
+
+      - uses: actions/upload-artifact@v3
+        with:
+          path: docs/_site

@@ -17,8 +17,8 @@ don't find what you're looking for, check out our list of related
 [open-source projects][5]. Finally, if code isn't your thing but you'd still 
 like to help, there are plenty of other ways to [support the project][3].
 
-[1]: {{ site.url }}/projects
-[2]: {{ site.url }}/languages
+[1]: {{ site.baseurl }}/projects
+[2]: {{ site.baseurl }}/languages
 [3]: https://therenegadecoder.com/updates/5-ways-you-can-support-the-renegade-coder/
 [4]: https://github.com/TheRenegadeCoder/sample-programs/blob/master/.github/CONTRIBUTING.md
-[5]: {{ site.url }}/related
+[5]: {{ site.baseurl }}/related

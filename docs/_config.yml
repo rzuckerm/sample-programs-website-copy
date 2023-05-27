@@ -1,5 +1,5 @@
 # Site URL
-url: https://rzuckerm.github.io/sample-programs-website-copy
+baseurl: https://rzuckerm.github.io/sample-programs-website-copy
 
 # Theme data
 theme: jekyll-theme-dinky
@@ -15,7 +15,7 @@ title_image: sample-programs-in-every-language.jpg
 repository: rzuckerm/sample-programs-website-copy
 
 # File exclusion settings
-exclude: ["CNAME", "Gemfile", "templates", "vendor/bundle"]
+exclude: ["CNAME", "Gemfile", "templates"]
 
 # Posts permalink
 permalink: /:categories/:title/

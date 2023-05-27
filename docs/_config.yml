@@ -1,3 +1,6 @@
+# Base URL
+baseurl: https://rzuckerm.github.io/sample-programs-website-copy
+
 # Theme data
 theme: jekyll-theme-dinky
 title: Sample Programs in Every Language

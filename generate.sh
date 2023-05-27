@@ -10,11 +10,12 @@ echo "*** Generate Images ***"
 sources=sources/images/
 images=docs/assets/images/generated/
 logo=../icon-small.png
+rm -rf $images
 mkdir -p $images
 for file in "$sources"*
 do
     echo "- Processing ${file}"
-    image-titler --path "$file" --output "$images/generated" --logo "$images$logo"
+    image-titler --path "$file" --output "$images" --logo "$images$logo"
     filename=$(basename "$file")
     edit=$(cd "$images" && ls -t | head -n1)
     mv "$images$edit" "$images$filename"
@@ -42,7 +43,8 @@ python -m http.server >/dev/null &
 pid=$!
 trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
     kill $pid; \
-    rm -rf ../languages ../projects ../images/generated" SIGINT SIGHUP SIGABRT
+    cd ..; \
+    rm -rf _site languages projects assets/images/generated ../sources/generated" SIGINT SIGHUP SIGABRT
 sleep 5
 
 echo ""

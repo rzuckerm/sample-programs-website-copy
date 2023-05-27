@@ -3,5 +3,5 @@
 /docs/Gemfile.lock
 generated/
 /requirements-dev.txt
-/docs/assets/languages/
-/docs/assets/projects/
+/docs/languages/
+/docs/projects/

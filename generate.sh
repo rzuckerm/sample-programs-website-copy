@@ -3,19 +3,21 @@ set -e
 
 echo "*** Generate Webpages ***"
 python scripts/automate.py
+find docs/ -name '*.md' -exec sed -i 's!https://sampleprograms\.io/!https://rzuckerm.github.io/sample-programs-website-copy/!g' '{}' ';'
 
 echo ""
 echo "*** Generate Images ***"
 sources=sources/images/
-images=docs/assets/images/
-logo=icon-small.png
+images=docs/assets/images/generated/
+logo=../icon-small.png
+mkdir -p $images
 for file in "$sources"*
 do
     echo "- Processing ${file}"
-    image-titler --path "$file" --output "$images" --logo "$images$logo"
+    image-titler --path "$file" --output "$images/generated" --logo "$images$logo"
     filename=$(basename "$file")
     edit=$(cd "$images" && ls -t | head -n1)
-    mv "$images$edit" "$images$filename" 
+    mv "$images$edit" "$images$filename"
 done
 
 echo ""
@@ -40,8 +42,7 @@ python -m http.server >/dev/null &
 pid=$!
 trap "printf '\n\n*** Kill webserver (PID %s) ***\n' $pid; \
     kill $pid; \
-    git checkout ../languages ../projects; \
-    git clean -f ../languages ../projects" SIGINT SIGHUP SIGABRT
+    rm -rf ../languages ../projects ../images/generated" SIGINT SIGHUP SIGABRT
 sleep 5
 
 echo ""

@@ -1,1 +1,1 @@
-Sitemap: /https://rzuckerm.github.io/sample-programs-website-copy/sitemap.xml
+Sitemap: https://rzuckerm.github.io/sample-programs-website-copy/sitemap.xml

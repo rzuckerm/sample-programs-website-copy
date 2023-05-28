@@ -121,18 +121,17 @@ img {
   max-width: 100%;
 }
 
+.image-container {
+  position: absolute;
+  right: 0px;
+}
+
 .image-title {
   background-color: $header-bg-color;
   color: white;
   font-family: "Bernard HC";
   text-align: right;
 }
-
-.title-line {
-  position: absolute;
-  right: 0px;
-}
-
 
 @media print, screen and (max-width: 1200px) {
 

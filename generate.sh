@@ -15,7 +15,7 @@ mkdir -p $images
 for file in "$sources"*
 do
     echo "- Processing ${file}"
-    image-titler --path "$file" --output "$images" --logo "$images$logo" --title " "
+    image-titler --path "$file" --output "$images" --logo "$images$logo" --no-title
     filename=$(basename "$file")
     edit=$(cd "$images" && ls -t | head -n1)
     mv "$images$edit" "$images$filename"

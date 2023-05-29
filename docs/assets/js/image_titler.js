@@ -57,8 +57,7 @@ function _draw_image_title(image_text, image_width, image_height) {
     // Calculate x- and y-offset and spacing between lines
     var x_offset = X_OFFSET * image_width / ORIG_IMAGE_WIDTH;
     var y_offset = TOP_RECTANGLE_Y * image_height / ORIG_IMAGE_HEIGHT;
-    const y_padding = 1.5 * y_offset;
-    const y_spacing = 1.5 * y_offset;
+    const y_spacing = y_offset;
 
     // For each image line
     var line_num = 1;
@@ -71,9 +70,8 @@ function _draw_image_title(image_text, image_width, image_height) {
             {
                 "padding-left": `${x_offset}px`,
                 "padding-right": `${x_offset}px`,
-                "padding-top": `${y_padding}px`,
-                "padding-bottom": `${y_padding}px`,
-                "font-size": `${font_size}px`
+                "font-size": `${font_size}px`,
+                "line-height": `${bar_height}px`
             }
         ).text(image_line);
 

@@ -382,6 +382,9 @@
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/languages/r/</loc>
 </url>
 <url>
+<loc>https://rzuckerm.github.io/sample-programs-website-copy/languages/gnu-make/</loc>
+</url>
+<url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/languages/orc/</loc>
 </url>
 <url>
@@ -1852,6 +1855,9 @@
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/r/</loc>
 </url>
 <url>
+<loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/gnu-make/</loc>
+</url>
+<url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/file-input-output/c-sharp/</loc>
 </url>
 <url>
@@ -2105,6 +2111,9 @@
 </url>
 <url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/erlang/</loc>
+</url>
+<url>
+<loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/gnu-make/</loc>
 </url>
 <url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/c-sharp/</loc>
@@ -2819,6 +2828,9 @@
 </url>
 <url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/r/</loc>
+</url>
+<url>
+<loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/gnu-make/</loc>
 </url>
 <url>
 <loc>https://rzuckerm.github.io/sample-programs-website-copy/projects/hello-world/orc/</loc>

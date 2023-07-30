@@ -2074,10 +2074,14 @@
         
         
         
+        
+        
         <li >
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/">Programming Projects in Every Language</a>
         </li>
+        
+        
         
         
         
@@ -5160,6 +5164,8 @@
         
         
         
+        
+        
         <li class="active" >
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci/groovy/">Fibonacci in Groovy</a>
@@ -6112,16 +6118,17 @@
 <div class="language-groovy highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">class</span> <span class="nc">Fibonacci</span> <span class="o">{</span>
     <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
         <span class="k">if</span> <span class="o">(</span><span class="n">args</span><span class="o">.</span><span class="na">length</span> <span class="o">&lt;</span> <span class="mi">1</span> <span class="o">||</span> <span class="o">!</span><span class="n">args</span><span class="o">[</span><span class="mi">0</span><span class="o">].</span><span class="na">isInteger</span><span class="o">())</span> <span class="o">{</span>
-            <span class="n">println</span> <span class="s1">'please provide a positive integer'</span>
+            <span class="n">println</span> <span class="s1">'Usage: please input the count of fibonacci numbers to output'</span>
         <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
             <span class="kt">def</span> <span class="n">n</span> <span class="o">=</span> <span class="n">args</span><span class="o">[</span><span class="mi">0</span><span class="o">]</span> <span class="k">as</span> <span class="n">Integer</span>
-            <span class="kt">def</span> <span class="n">first</span> <span class="o">=</span> <span class="mi">0</span><span class="n">G</span>
-            <span class="kt">def</span> <span class="n">second</span> <span class="o">=</span> <span class="mi">1</span><span class="n">G</span>
-            <span class="n">println</span> <span class="n">first</span><span class="o">.</span><span class="na">class</span>
-            <span class="o">(</span><span class="mi">1</span><span class="o">..</span><span class="na">n</span><span class="o">).</span><span class="na">each</span> <span class="o">{</span>
-                <span class="n">second</span> <span class="o">+=</span> <span class="n">first</span>
-                <span class="n">first</span> <span class="o">=</span> <span class="n">second</span> <span class="o">-</span> <span class="n">first</span>
-                <span class="n">println</span> <span class="s2">"$it: $first"</span>
+            <span class="k">if</span> <span class="o">(</span><span class="n">n</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="o">)</span> <span class="o">{</span>
+                <span class="kt">def</span> <span class="n">first</span> <span class="o">=</span> <span class="mi">0</span><span class="n">G</span>
+                <span class="kt">def</span> <span class="n">second</span> <span class="o">=</span> <span class="mi">1</span><span class="n">G</span>
+                <span class="o">(</span><span class="mi">1</span><span class="o">..</span><span class="na">n</span><span class="o">).</span><span class="na">each</span> <span class="o">{</span>
+                    <span class="n">second</span> <span class="o">+=</span> <span class="n">first</span>
+                    <span class="n">first</span> <span class="o">=</span> <span class="n">second</span> <span class="o">-</span> <span class="n">first</span>
+                    <span class="n">println</span> <span class="s2">"$it: $first"</span>
+                <span class="o">}</span>
             <span class="o">}</span>
         <span class="o">}</span>
     <span class="o">}</span>
@@ -6131,13 +6138,13 @@
 <p><a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/fibonacci">Fibonacci</a> in <a href="https://rzuckerm.github.io/sample-programs-website-copy/languages/groovy">Groovy</a> was written by:</p>
 
 <ul>
-  <li>Jeremy Grifski</li>
   <li>Loic Beylot</li>
+  <li>rzuckerm</li>
 </ul>
 
 <p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
 
-<p><strong>Note</strong>: The solution shown above is the current solution in the Sample Programs repository as of Oct 21 2018 14:29:00. The solution was first committed on Oct 18 2018 19:51:09. As a result, documentation below may be outdated.</p>
+<p><strong>Note</strong>: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2023 18:37:12. The solution was first committed on Oct 18 2018 19:51:09. As a result, documentation below may be outdated.</p>
 
 <h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
 

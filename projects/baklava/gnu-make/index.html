@@ -2074,10 +2074,14 @@
         
         
         
+        
+        
         <li >
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/">Programming Projects in Every Language</a>
         </li>
+        
+        
         
         
         
@@ -5506,6 +5510,8 @@
         
         
         
+        
+        
         <li class="active" >
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/baklava/gnu-make/">Baklava in Gnu Make</a>
@@ -6124,7 +6130,7 @@ TEN := $(TWO) $(TWO) $(TWO) $(TWO) $(TWO)
 # Increment function
 # Arg 1: Number encoded as x's
 # Return: Number + 1 encoded as x's
-INC = $(1) $(ONE)
+INC = $(strip $(1) $(ONE))
 
 # Decrement function
 # Arg 1: Number encoded as x's
@@ -6135,7 +6141,7 @@ DEC = $(wordlist 2,$(words $(1)),$1)
 # Arg 1: Number 1 encoded as x's
 # Arg 2: Number 2 encoded as x's
 # Return: Number 1 + Number 2 encoded as x's
-ADD = $(1) $(2)
+ADD = $(strip $(1) $(2))
 
 # Subtract function
 # Arg 1: Number 1 encoded as x's
@@ -6147,7 +6153,7 @@ SUB = $(wordlist $(words $(call INC,$(2))),$(words $(1)),$(1))
 # Arg 1: Character
 # Arg 2: Number of repeats encoded as x's
 # Return: Character repeated specified number of times
-REPEAT = $(if $(2),$(1)$(call REPEAT,$(1),$(call DEC,$(2))))
+REPEAT = $(subst $(1)$(SPACE),$(1),$(foreach _,$(2),$(1)))
 
 # Baklava line function
 # Arg 1: Number of spaces encoded as x's
@@ -6193,6 +6199,8 @@ all: ;@:
 </ul>
 
 <p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<p><strong>Note</strong>: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2023 18:35:20. The solution was first committed on Jul 13 2023 09:30:03. As a result, documentation below may be outdated.</p>
 
 <h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
 

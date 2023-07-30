@@ -2074,6 +2074,8 @@
         
         
         
+        
+        
         <li >
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/">Programming Projects in Every Language</a>
@@ -2725,6 +2727,8 @@
             
             <a href="https://rzuckerm.github.io/sample-programs-website-copy/projects/merge-sort/">Merge Sort in Every Language</a>
         </li>
+        
+        
         
         
         
@@ -6087,6 +6091,8 @@
         
         
         
+        
+        
     </ol>
 </nav>
 
@@ -6120,14 +6126,14 @@
 
         <span class="k">if</span> <span class="o">(</span><span class="n">end</span> <span class="o">&gt;</span> <span class="n">start</span><span class="o">)</span> <span class="o">{</span>
 
-            <span class="kt">int</span> <span class="n">middle</span> <span class="o">=</span> <span class="o">(</span><span class="kt">int</span><span class="o">)</span> <span class="o">((</span><span class="n">start</span> <span class="o">+</span> <span class="n">end</span><span class="o">)</span> <span class="o">/</span> <span class="mi">2</span><span class="o">);</span>
+            <span class="kt">int</span> <span class="n">middle</span> <span class="o">=</span> <span class="o">(</span><span class="kt">int</span><span class="o">)</span> <span class="o">((</span><span class="n">start</span> <span class="o">+</span> <span class="n">end</span><span class="o">)</span> <span class="o">/</span> <span class="mi">2</span><span class="o">)</span>
 
             <span class="c1">// Sort the left and right sides separately.</span>
-            <span class="n">sort</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">start</span><span class="o">,</span> <span class="n">middle</span><span class="o">);</span>
-            <span class="n">sort</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">middle</span> <span class="o">+</span> <span class="mi">1</span><span class="o">,</span> <span class="n">end</span><span class="o">);</span>
+            <span class="n">sort</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">start</span><span class="o">,</span> <span class="n">middle</span><span class="o">)</span>
+            <span class="n">sort</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">middle</span> <span class="o">+</span> <span class="mi">1</span><span class="o">,</span> <span class="n">end</span><span class="o">)</span>
 
             <span class="c1">// Intertwine the data into one sorted list.</span>
-            <span class="n">mergeLists</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">start</span><span class="o">,</span> <span class="n">middle</span><span class="o">,</span> <span class="n">end</span><span class="o">);</span>
+            <span class="n">mergeLists</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">start</span><span class="o">,</span> <span class="n">middle</span><span class="o">,</span> <span class="n">end</span><span class="o">)</span>
         <span class="o">}</span>
 
     <span class="o">}</span>
@@ -6143,22 +6149,35 @@
         <span class="kt">int</span><span class="o">[]</span> <span class="n">right</span> <span class="o">=</span> <span class="n">Arrays</span><span class="o">.</span><span class="na">copyOfRange</span><span class="o">(</span><span class="n">data</span><span class="o">,</span> <span class="n">middle</span><span class="o">+</span><span class="mi">1</span><span class="o">,</span> <span class="n">end</span><span class="o">+</span><span class="mi">1</span><span class="o">)</span>
 
         <span class="c1">// Now, merge the lists by repeatedly adding the biggest value, from whichever list has it.</span>
-        <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="n">start</span><span class="o">,</span> <span class="n">l</span> <span class="o">=</span> <span class="mi">0</span><span class="o">,</span> <span class="n">r</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="c1">// l and r are indexes in left and right</span>
+        <span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="n">start</span><span class="o">,</span> <span class="n">l</span> <span class="o">=</span> <span class="mi">0</span><span class="o">,</span> <span class="n">r</span> <span class="o">=</span> <span class="mi">0</span> <span class="c1">// l and r are indexes in left and right</span>
         <span class="k">while</span> <span class="o">(</span><span class="n">l</span> <span class="o">&lt;</span> <span class="n">left</span><span class="o">.</span><span class="na">length</span> <span class="o">&amp;&amp;</span> <span class="n">r</span> <span class="o">&lt;</span> <span class="n">right</span><span class="o">.</span><span class="na">length</span><span class="o">)</span>
             <span class="n">data</span><span class="o">[</span><span class="n">i</span><span class="o">++]</span> <span class="o">=</span> <span class="o">(</span><span class="n">left</span><span class="o">[</span><span class="n">l</span><span class="o">]</span> <span class="o">&lt;=</span> <span class="n">right</span><span class="o">[</span><span class="n">r</span><span class="o">])</span> <span class="o">?</span> <span class="n">left</span><span class="o">[</span><span class="n">l</span><span class="o">++]</span> <span class="o">:</span> <span class="n">right</span><span class="o">[</span><span class="n">r</span><span class="o">++]</span>
 
         <span class="c1">// Add any leftovers on one side.</span>
         <span class="k">while</span> <span class="o">(</span><span class="n">l</span> <span class="o">&lt;</span> <span class="n">left</span><span class="o">.</span><span class="na">length</span><span class="o">)</span>
-            <span class="n">data</span><span class="o">[</span><span class="n">i</span><span class="o">++]</span> <span class="o">=</span> <span class="n">left</span><span class="o">[</span><span class="n">l</span><span class="o">++];</span>
+            <span class="n">data</span><span class="o">[</span><span class="n">i</span><span class="o">++]</span> <span class="o">=</span> <span class="n">left</span><span class="o">[</span><span class="n">l</span><span class="o">++]</span>
         <span class="k">while</span> <span class="o">(</span><span class="n">r</span> <span class="o">&lt;</span> <span class="n">right</span><span class="o">.</span><span class="na">length</span><span class="o">)</span>
-            <span class="n">data</span><span class="o">[</span><span class="n">i</span><span class="o">++]</span> <span class="o">=</span> <span class="n">right</span><span class="o">[</span><span class="n">r</span><span class="o">++];</span>
+            <span class="n">data</span><span class="o">[</span><span class="n">i</span><span class="o">++]</span> <span class="o">=</span> <span class="n">right</span><span class="o">[</span><span class="n">r</span><span class="o">++]</span>
+    <span class="o">}</span>
+
+    <span class="kd">static</span> <span class="kt">int</span><span class="o">[]</span> <span class="nf">convert_to_ints</span><span class="o">(</span><span class="kt">def</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+        <span class="kt">int</span><span class="o">[]</span> <span class="n">argsint</span> <span class="o">=</span> <span class="o">[]</span>
+        <span class="k">if</span> <span class="o">(</span><span class="n">args</span><span class="o">?.</span><span class="na">size</span><span class="o">()</span> <span class="o">&gt;=</span> <span class="mi">1</span><span class="o">)</span> <span class="o">{</span>
+            <span class="k">try</span> <span class="o">{</span>
+                <span class="n">argsint</span> <span class="o">=</span> <span class="n">args</span><span class="o">[</span><span class="mi">0</span><span class="o">].</span><span class="na">split</span><span class="o">(</span><span class="s2">","</span><span class="o">).</span><span class="na">collect</span> <span class="o">{</span> <span class="n">it</span><span class="o">.</span><span class="na">trim</span><span class="o">().</span><span class="na">toInteger</span><span class="o">()</span> <span class="o">}</span>
+            <span class="o">}</span>
+            <span class="k">catch</span> <span class="o">(</span><span class="n">NumberFormatException</span> <span class="n">_</span><span class="o">)</span> <span class="o">{</span>
+            <span class="o">}</span>
+        <span class="o">}</span>
+
+        <span class="n">argsint</span>
     <span class="o">}</span>
 
     <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="kt">def</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-        <span class="k">if</span> <span class="o">(</span><span class="n">args</span><span class="o">.</span><span class="na">length</span> <span class="o">&lt;</span> <span class="mi">2</span> <span class="o">||</span> <span class="o">!</span><span class="n">args</span><span class="o">[</span><span class="mi">0</span><span class="o">].</span><span class="na">isInteger</span><span class="o">())</span> <span class="o">{</span>
-            <span class="n">println</span> <span class="s1">'please provide an array of integers'</span>
+        <span class="kt">int</span><span class="o">[]</span> <span class="n">argsint</span> <span class="o">=</span> <span class="n">convert_to_ints</span><span class="o">(</span><span class="n">args</span><span class="o">)</span>
+        <span class="k">if</span> <span class="o">(</span><span class="n">argsint</span><span class="o">.</span><span class="na">size</span><span class="o">()</span> <span class="o">&lt;</span> <span class="mi">2</span><span class="o">)</span> <span class="o">{</span>
+            <span class="n">println</span> <span class="s1">'Usage: please provide a list of at least two integers to sort in the format "1, 2, 3, 4, 5"'</span>
         <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
-            <span class="kt">def</span> <span class="n">argsint</span> <span class="o">=</span> <span class="n">args</span><span class="o">.</span><span class="na">collect</span> <span class="o">{</span> <span class="n">it</span> <span class="k">as</span> <span class="kt">int</span> <span class="o">}</span> <span class="k">as</span> <span class="kt">int</span><span class="o">[]</span>
             <span class="n">sort</span><span class="o">(</span><span class="n">argsint</span><span class="o">)</span> 
             <span class="n">println</span> <span class="n">argsint</span>
         <span class="o">}</span>
@@ -6171,9 +6190,12 @@
 
 <ul>
   <li>Mykhaylo Samonov</li>
+  <li>rzuckerm</li>
 </ul>
 
 <p>If you see anything you'd like to change or update, <a href="https://github.com/TheRenegadeCoder/sample-programs">please consider contributing</a>.</p>
+
+<p><strong>Note</strong>: The solution shown above is the current solution in the Sample Programs repository as of Jul 25 2023 18:37:12. The solution was first committed on Oct 20 2019 01:20:45. As a result, documentation below may be outdated.</p>
 
 <h2 id="how-to-implement-the-solution">How to Implement the Solution</h2>
 
